@@ -1,0 +1,15 @@
+---
+tags:
+  - Procedimento
+---
+O processo de [[Teste de Software]] é, como foi dito, utilizado para detectar a presença de problemas, bugs, no nosso código, infelizmente, o mostrar a existência de problemas não é equivalente a resolvê-los e nem mesmo a encontrá-los. Se os testes forem bem definidos e eficientes já é possível ter alguma noção de onde o problema pode ser encontrado e existem algumas discas que podem ser de grande ajuda ao lidar com um problema no código. Primeiro vale ressaltar que os problemas no nosso código podem ser classificados através de duas dimensões:
+1. **Evidente $\rightarrow$ Secreto**: Um bug evidente é aquele que facilmente pode ser detectado, o programa crashando repentinamente, por exemplo, o bug secreto, por sua vez é aquele sem manifestação óbvia, o programa que funciona normalmente até o final mas devido a algum erro, retorna a resposta errada.
+2. **Contínuo $\rightarrow$ Variável:** Um bug contínuo é aquele que ocorre sempre que rodamos o programa com um mesmo conjunto de entradas, enquanto o variável é aquele que pode ou não acontecer dependendo de determinadas condições no nosso código.
+O tipo mais complicado de bug é o secreto e variável, e pode gerar problemas de muitas formas diferentes e ainda ser o mais complicado possível de encontrar de resolver, ou ainda pior, pode ser que ele nem seja percebido durante o desenvolvimento, cabe então ao programador escrever seus programas de maneira que quando os bugs surgirem eles sejam tanto evidentes quanto contínuos para que a sua solução seja a mais simples possível, essa maneira de escrever códigos é chamada de **programação defensiva**. 
+
+# Passos para Debugar
+Debugar não é sempre fácil e  raramente será um processo direto, porém, existem alguns passo que geralmente, se bem realizados resolverão seus problemas:
+1. Comece estudando os dados disponível, nesse caso, as saídas do programa e os resultados do seus testes, tente entender porque alguns testes funcionaram e outros não.
+2. Forme uma hipótese, especule: Que erro na execução do programa poderia gerar respostas erradas como essa?
+3. Pense e desenvolva algum experimento que poderia refutar a sua hipótese ou confirmá-la, utilize logs ou rode o debugger da sua IDE, após verificar o resultado pense em como você poderia interpretá-lo. Pense no processo de debug como um pesquisa, aplique então o algoritmo de pesquisa binária, vá até a metade do código, coloque um log útil, se o resultado foi satisfatório, vá até a metade da metade inferior, caso o contrário à metade da metade superior, repita o processo quantas vezes for necessário.
+4. Sempre anote quais testes você está fazendo e quais foram seus resultados, o processo pode ser longo e você pode acabar se esquecendo de algo que já tentou: "Insanidade  é fazer a mesma coisa de novo e de novo e esperar que algo diferente aconteça"

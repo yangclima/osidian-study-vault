@@ -1,0 +1,5 @@
+---
+tags:
+  - Definição
+---
+Os conceitos principais que definem a encapsulação no contexto da [[POO e Classes|POO]] são: Primeiramente agrupamento de atributos junto com métodos que operam sobre eles bem como a proteção e segundamente a ocultação das informações contra alterações no código cliente que possa impedir ou afetar o funcionamento da classes. Infelizmente o Python não disponibiliza ferramentas para garantir diretamente o encapsulamento dos seus métodos e variáveis, existe porém a convenção de usar um underline (`_`) antes do nome de métodos e variáveis **protegidos**, ou seja, que não devem ser acessados fora da classe em que foram definidos ou das classes que herdam desta e usar o underline duplo (`__`) para métodos **privados** ou seja que são exclusivos da classe em que são definidos, o python inclusivo codifica os métodos e variáveis iniciados em `__` para impedir que eles sejam utilizados por outras classes. Cabe ao programador ter bom senso e evitar referenciar diretamente atributos das classes, salvo casos específicos.

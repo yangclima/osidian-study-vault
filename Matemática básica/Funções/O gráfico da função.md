@@ -1,0 +1,1 @@
+É muito valioso do ponto de vista analítico exprimir [[Função|funções]] por meio de seus gráficos, isto é, através do [[O plano coordenado|plano coordenado]] exprimir o domínio da função através do eixo $x$ e sua imagem como  cada valor individual correspondente ao valor de $x$ no eixo $y$, ou seja, o gráfico de $f(x)$ é composto pelo conjunto de todos os pontos $(x, f(x)$

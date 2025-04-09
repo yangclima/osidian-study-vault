@@ -1,0 +1,1 @@
+O sentido em que organizamos as ideias,  ao contrário do que fazemos normalmente, devemos partir dos conceitos para as áreas do conhecimento, as áreas do conhecimento são apenas caixas invisíveis que podem ser usadas para separar os conceitos individuais que aprendemos.

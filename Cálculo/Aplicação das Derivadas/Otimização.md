@@ -1,0 +1,5 @@
+Otimização, no nosso contexto, diz respeito ao processo de utilizar as ferramentas analíticas providas pelo cálculo para estudar certos fenômenos menos abstratos como problemas geométricos, econômicos e muito mais a partir da sintetização desses problemas em [[Função|funções]] para permitir a identificação de [[Funções Crescentes e Decrescentes, Máximos e Mínimos|máximos e mínimos]] dessa função, de maneira à encontrar os pontos, valores e proporções que melhor resolvem o problema em questão.
+
+As principais dicas para resolver esse tipo de problema são:
+1. Quando geometria estiver envolvida pode ser muito valiosa a criação e esboço de uma figura que te permita enxergar melhor os valores e proporções que você pode usar para sintetizar o problema em uma função.
+2. Se $Q$ é a quantidade que você está otimizando, seu desafio é escrevê-la através de uma função de variável única, tente enxergar relações e proporções entre as variáveis independentes que você pode usar para isso.

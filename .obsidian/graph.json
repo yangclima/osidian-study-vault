@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Aprendizagem/Ultraaprendizado  ",
+      "color": {
+        "a": 1,
+        "rgb": 6749952
+      }
+    },
+    {
+      "query": "path:\"Matemática básica\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Aprendizagem  ",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:Cálculo  ",
+      "color": {
+        "a": 1,
+        "rgb": 22015
+      }
+    },
+    {
+      "query": "path:TODO  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711888
+      }
+    },
+    {
+      "query": "path:Programação  ",
+      "color": {
+        "a": 1,
+        "rgb": 61608
+      }
+    },
+    {
+      "query": "path:\"Mecânica Clássica\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 542464
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 1.50364583333333,
+  "collapse-forces": false,
+  "centerStrength": 0.369791666666667,
+  "repelStrength": 8.95833333333333,
+  "linkStrength": 0.484375,
+  "linkDistance": 236,
+  "scale": 0.18462326225859155,
+  "close": true
+}
