@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "911ae55626edf1db",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "61fc52e59f84728b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/curso.dev/Dia 3.md",
+                "file": "Programação/curso.dev/Dia 20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dia 3"
+              "title": "Dia 20"
+            }
+          },
+          {
+            "id": "7aaa4239cc7cd5f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dia 21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dia 21"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Provider",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,34 +185,40 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "61fc52e59f84728b",
+  "active": "7aaa4239cc7cd5f8",
   "lastOpenFiles": [
-    "Programação/curso.dev/Dia 2.md",
-    "Programação/curso.dev/Dia 3.md",
+    "Programação/curso.dev/Dia 20.md",
+    "Dia 21.md",
     "Home.md",
+    "Programação/curso.dev/Dia 18.md",
+    "Programação/curso.dev/Dia 19.md",
+    "Pasted image 20250422142845.png",
+    "Programação/curso.dev/Dia 17.md",
+    "Programação/curso.dev/Dia 16.md",
+    "Programação/curso.dev/Dia 15.md",
+    "Programação/curso.dev/Dia 14.md",
+    "Programação/curso.dev/Dia 13.md",
+    "Programação/curso.dev/Dia 12.md",
+    "Programação/curso.dev/Dia 11.md",
+    "Programação/curso.dev/Dia 10.md",
+    "Programação/curso.dev/Dia 9.md",
+    "Programação/curso.dev/Dia 8.md",
+    "Programação/curso.dev/Dia 7.md",
+    "Programação/curso.dev/Dia 6.md",
+    "Programação/curso.dev/Dia 5.md",
     "Programação/curso.dev/Dia 4.md",
-    "Programação/curso.dev",
-    "Programação/Java/Estruturas de repetição.md",
-    "Programação/Java/Array.md",
-    "Varargs.md",
-    "Programação/Java/String.md",
-    "Programação/Java/Scanner.md",
-    "Programação/Java/Atalhos IntelliJ.md",
-    "Programação/Java/Variáveis e Tipos de dados.md",
-    "Programação/Java/Estruturas condicionais.md",
-    "Matemática básica/Trigonometria/Trigonometria.md",
-    "Matemática básica/Trigonometria/Lei dos senos.md",
-    "Programação/Java",
-    "Programação/Systematic Program Design/HtDF (How to Design Functions).md",
-    "Programação/Introduction to Computer Science and Programming in Python/Números de Ponto Flutuante.md",
-    "Programação/Introduction to Computer Science and Programming in Python/Ambiente de desenvolvimento python.md",
-    "Aprendizagem/Ultraaprendizado/Repetição.md",
+    "Programação/curso.dev/Dia 3.md",
+    "Programação/curso.dev/Dia 2.md",
+    "Programação/Introduction to Computer Science and Programming in Python/Teste de Software.md",
     "Conceitos fatos e Procedimentos/Cálculo de variável única.md",
-    "Aprendizagem/Ultraaprendizado/Prática Direta.md",
-    "Aprendizagem/Ultraaprendizado/Meta-aprendizagem.md",
-    "Aprendizagem/Ultraaprendizado/Foco.md",
-    "Conceitos fatos e Procedimentos/Mecânica Clássica.md",
-    "Cálculo/Integrais/Propriedades da integral definida.md",
-    "Cálculo/Integrais/Primeiro teorema fundamental do cálculo.md"
+    "Untitled.md",
+    "Programação/curso.dev/imagens",
+    "Programação/curso.dev/imagens/Pasted image 20250418225517.png",
+    "Excalidraw/Drawing 2025-04-18 22.54.37.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Varargs.md",
+    "Programação/curso.dev",
+    "Programação/Java"
   ]
 }
