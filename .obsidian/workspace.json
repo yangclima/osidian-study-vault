@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "944eabe1828d2f55",
+        "id": "31f54406a5117757",
         "type": "tabs",
         "children": [
           {
-            "id": "6cefa210f2bff24c",
+            "id": "28024cb4e169d492",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blob",
+                "query": "jest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +166,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6cefa210f2bff24c",
+  "active": "28024cb4e169d492",
   "lastOpenFiles": [
+    "Programação/curso.dev/Dia 29.md",
+    "Programação/curso.dev/Dia 28.md",
+    "Programação/curso.dev/Dia 27.md",
+    "Home.md",
     "Programação/curso.dev/Dia 26.md",
     "Programação/curso.dev/Dia 25.md",
     "Programação/curso.dev/Dia 5.md",
@@ -179,7 +183,6 @@
     "Programação/curso.dev/Dia 15.md",
     "Programação/curso.dev/Dia 19.md",
     "Programação/curso.dev/imagens/Pasted image 20250422142845.png",
-    "Home.md",
     "Programação/curso.dev/Dia 22.md",
     "Programação/curso.dev/Dia 21.md",
     "Programação/curso.dev/Dia 17.md",
@@ -192,9 +195,6 @@
     "Programação/curso.dev/Dia 10.md",
     "Programação/curso.dev/Dia 9.md",
     "Programação/curso.dev/Dia 8.md",
-    "Programação/curso.dev/Dia 7.md",
-    "Programação/curso.dev/Dia 6.md",
-    "Programação/curso.dev/Dia 3.md",
     "Programação/curso.dev/imagens",
     "Programação/curso.dev/imagens/Pasted image 20250418225517.png",
     "Excalidraw",
