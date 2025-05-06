@@ -3,7 +3,7 @@ Os estudos de Newton a respeito da mecânica clássica deram como fruto 3 leis i
 # Primeira lei de Newton
 > Todo corpo continua em seu estado de repouso ou movimento uniforme em linha reta a menos que seja impelido a mudar seu estado pelas forças impressas sobre ele.
 
-Essa lei define a a partir das observações experimentais de Newton que os corpos tem uma tendência natural de permanecer em seu estado inicial, a menos que forças aplicadas sobre ele o levem a alterar esse estado, o que nos leva a compreensão de que a [[Cinemática Unidimensional#Aceleração|aceleração]] só existe num objeto que está sob a influencia de forças externas, caso o contrário, o corpo tende a manterá sua [[Cinemática Unidimensional#Velocidade|velocidade]] inalterada, seja ela nula ou não.
+Essa lei define a a partir das observações experimentais de Newton que os corpos tem uma tendência natural de permanecer em seu estado inicial, a menos que forças aplicadas sobre ele o levem a alterar esse estado, o que nos leva a compreensão de que a [[Cinemática Unidimensional#Aceleração|aceleração]] só existe num objeto que está sob a influencia de forças externas, caso o contrário, o corpo tende a manter a sua [[Cinemática Unidimensional#Velocidade|velocidade]] inalterada, seja ela nula ou não.
 # Quantidade de matéria (Massa)
 >A quantidade de matéria é a medida da mesma, decorrente da sua densidade e volume, conjuntamente.
 
@@ -17,7 +17,7 @@ $$
 \vec{p} = m \cdot \vec{v}
 $$
 # Segunda lei de Newton
-> A mudança do movimento ($\Delta \vec{p}$ ou impulso $\vec{I}$ ) é proporcional à força motriz e é feita na direção da linha reta na qual esta foi impressa.
+> A mudança da quantidade de movimento ($\Delta \vec{p}$ ou impulso $\vec{I}$ ) é proporcional à força motriz e é feita na direção da linha reta na qual esta foi impressa.
 
 $$
 \vec{I} = \vec{F}\cdot\Delta{t} = \Delta{\vec{p}}

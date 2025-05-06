@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:\"UFPE/Física 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14736466
+      }
+    },
+    {
       "query": "path:Programação/curso.dev  ",
       "color": {
         "a": 1,
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 0.5,
   "linkDistance": 260,
-  "scale": 0.04110584868938095,
+  "scale": 0.2080983589899911,
   "close": false
 }
