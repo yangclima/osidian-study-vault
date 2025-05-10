@@ -27,7 +27,7 @@ Os principais tipos de matrizes são: Matriz linha, coluna, quadrada, diagonal e
 - Uma **matriz diagonal** é uma matriz quadrada que só possui valores não nulos na sua diagonal principal
 - Uma **matriz identidade** é uma matriz diagonal na qual todos os elementos da diagonal principal tem valor 1
 - Uma **matriz nula** é uma matriz que possui todos os elementos iguais a zero
-# Operações de matrizes
+# Operações entre matrizes
 ## Soma de matrizes
 $$
 \begin{vmatrix}  
