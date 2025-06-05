@@ -1,0 +1,4 @@
+---
+aula: 2
+---
+O **teorema das cascas** foi um teorema provado matematicamente por Newton para sustentar as suas ideias a respeito da [[Força Gravitacional]], esse teorema postula que um corpo no interior de uma casca esférica homogênea (Massa distribuída uniformemente pela sua superfície) não possui força gravitacional resultante em função de sua interação gravitacional com a casca esférica, independentemente de estar no centro da esfera ou não, esse teorema foi fundamental para demonstrar por que fazia sentido calcular as interações gravitacionais assumindo que os corpos celestes se comportam como massas puntuais.

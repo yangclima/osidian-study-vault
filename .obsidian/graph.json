@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"UFPE/Física 2\"  ",
+      "query": "path:\"UFPE/Química Geral 1\"  ",
       "color": {
         "a": 1,
-        "rgb": 14736466
+        "rgb": 4391024
+      }
+    },
+    {
+      "query": "path:\"UFPE/Cálculo 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"UFPE\"",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
       }
     },
     {
@@ -39,7 +53,7 @@
       "query": "path:\"Matemática básica\"  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 13107455
       }
     },
     {
@@ -82,5 +96,5 @@
   "linkStrength": 0.5,
   "linkDistance": 260,
   "scale": 0.2080983589899911,
-  "close": false
+  "close": true
 }

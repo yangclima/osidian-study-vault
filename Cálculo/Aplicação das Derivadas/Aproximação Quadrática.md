@@ -4,7 +4,7 @@ tags:
   - Fórmula
   - Procedimento
 ---
-Algumas vezes precisamos de mais precisão do que a [[Aproximação Linear]] pode nos prover, para isso, usamos a "Aproximação Quadrática", que, diferente da linear passa a considerar termos de ordem dois que antes eram descartados. Podemos calcular a aproximação quadrática através da seguinte fórmula:
+Algumas vezes precisamos de mais precisão do que a [[Cálculo/Aplicação das Derivadas/Aproximação Linear]] pode nos prover, para isso, usamos a "Aproximação Quadrática", que, diferente da linear passa a considerar termos de ordem dois que antes eram descartados. Podemos calcular a aproximação quadrática através da seguinte fórmula:
 $$f(x) \approx f(a) + f^\prime(a)(x -a) + \dfrac{f^{\prime\prime}(a)}{2}(x - a)^2$$
 
 | $f(x)$         | **Aproximação quadrática**      |

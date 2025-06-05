@@ -1,0 +1,5 @@
+---
+aula: 2
+---
+O Teorema da equipartição, importantíssimo para a química, sobretudo para a termodinâmica **relaciona a [[Trabalho e Energia#Energia interna|energia interna]] de uma gás ideal com a sua temperatura** enunciando que: O valor médio de cada contribuição quadrática para a energia de uma molécula em uma amostra na temperatura T é igual a $\dfrac{1}{2}k_BT$ o que nos permite relacionar a energia interna de um gás ideal como um função de sua temperatura, multiplicando essa contribuição pelo número de Avogadro $N_A$ que representa a quantidade de moléculas em um mol de gás ideal, temos que cada contribuição quadrática para a energia de uma amostra é de $U_m = n\dfrac{1}{2}RT$ (Já que $R = N_A \cdot k_B$), assim, para contribuições quadráticas temos: 3 contribuições rotacionais para qualquer gás, 0 contribuições rotacionais para moléculas monoatômicos, 2 contribuições rotacionais para moléculas lineares e 3 contribuições rotacionais para gases não lineares (Existem contribuições vibracionais e eletrônicas mas que podem ser ignoradas no contexto atual).
+

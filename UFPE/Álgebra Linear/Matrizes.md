@@ -1,6 +1,3 @@
----
-aula: 1
----
 A compreensão da álgebra linear começa pelo conceito de [[Vetores]],que aqui, deixam de ter apenas significado geométrico, ou seja, passam a ser vistos como representando diversos tipos de informações. 
 # Matrizes como representações de vetores
 Como afirmamos acima, os vetores, na álgebra linear tem muito mais que apenas o significado geométrico, assim, não precisamos mais os limitar a 3 dimensões, podendo utilizar vetores n-dimensionais, também chamados de n-úplas:
@@ -80,29 +77,3 @@ $$
 Propriedades:
 - Comutativa $\lambda (A^T) = (\lambda A)^T$
 - Distributiva sobre a soma $(A + B)^T = A^T + B^T$
-# Escalonamento
-O escalonamento é o procedimento seguido através do uso das 3 operações elementares no objetivo de transformar uma matriz em uma matriz na forma-escada.
-## A forma escada 
-Uma matriz na forma escada é uma matriz que satisfaz a seguintes condições:
-1. **Linhas nulas:** Todas as linhas nulas estão abaixo das linhas não nulas. 
-- **Pivôs:** O primeiro elemento não nulo de cada linha não nula (chamado de pivô) está sempre à direita do pivô da linha acima. 
-- **Zeros:** Todos os elementos abaixo de um pivô na mesma coluna são zeros.
-Exemplo:
-$$
-\lambda\begin{vmatrix}  
-1 & 2 & 3 \\
-0 & 4 & 5 \\
-0 & 0 & 6 \\
-\end{vmatrix}
-$$
-É importante saber que toda matriz tem uma matriz linha-equivalente no forma escada.
-## Operações elementares
-As 3 operações elementares que podem ser realizadas sobre uma matriz são:
-- Multiplicar uma linha por um escalar $L_1 \rightarrow \lambda L_1$
-- Soma uma linha a um múltiplo de outra $L_1 \rightarrow L_1 + \lambda L_2$
-- Trocar uma linha de posição $L_1 \longleftrightarrow L_2$
-Essas operações são chamadas de elementares pois sua utilização resulta numa matriz que é linha-equivalente a matriz inicial 
-## Escalonamento
-O escalonamento é portanto o processo de encontrar a través da aplicação de operações elementares, a matriz linha-equivalente a uma matriz na forma escada.
-# Posto e nulidade
-O posto de uma matriz é a quantidade de linhas não nulas da sua forma escalonada, da mesma forma, a nulidade é a quantidade de linhas nulas da sua forma escalonada.

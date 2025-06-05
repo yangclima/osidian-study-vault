@@ -1,0 +1,4 @@
+---
+aula: 3
+---
+Alguns [[Limite e Continuidade de funções de mais de uma variável|limites]] podem ser resolvidos facilmente através das coordenadas polares, a ideia é aplicar uma substituição de variáveis na função $f$ substituindo $x$ por $r\cos{\theta}$ e $y$ por $r\sin{\theta}$ e o ponto $P$ para qual o limite está tendendo por $0^+$, assim, conseguimos resolver muitas vezes o limite com certa facilidade, já que podemos utilizar, por exemplo, a regra de l'Hôpital, para no fim obter um limite bem definido, após isso, a regra é simples: Se o limite depende de $\theta$ então ela depende da direção do limite, logo o limite não existe, já se ele não depende de $\theta$, o limite existe com certeza.  

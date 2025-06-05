@@ -1,7 +1,7 @@
 ---
 aula: 2
 ---
-Para [[Funções de duas e três variáveis]], o [[Limite]], assim como para funções de 1 única variável independente, consiste no valor que a saída de uma função assume quando sua entrada se aproxima de um determinado ponto, esse valor pode ser denotado por:
+Para [[Funções de mais de uma variável]], o [[Limite]], assim como para funções de 1 única variável independente, consiste no valor que a saída de uma função assume quando sua entrada se aproxima de um determinado ponto, esse valor pode ser denotado por:
 $$
 L = \lim_{(x,y) \rightarrow (a,b)}f(x,y)
 $$

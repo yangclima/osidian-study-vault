@@ -1,0 +1,8 @@
+Algumas reações químicas como a combustão acontecem de maneira completa, de tal forma que ao fim da reação, todo os reagentes foram transformados em produtos, porém, em outras reações, como a da formação da amônia, mesmo depois de um tempo infinito ainda restam reagentes, durante muito tempo esse comportamento intrigou os cientistas, até o surgimento do conceito de **Equilíbrio Químico**, o ponto é: Cada reação tem um ponto de equilíbrio e ocorre sempre na direção desse ponto de equilíbrio, de tal forma, que ao alcançá-lo a concentração de produtos e reagentes continua constante, não porque não há transformação de produto em reagente, mas porque as reações de formação de produtos a partir dos reagentes e de decomposição dos produtos em reagentes nesse ponto ocorrem em taxas iguais, ou seja, o equilíbrio químico é dinâmico. Podemos descrever uma equação química em equilíbrio pela notação:
+$$
+aA + bB \rightleftharpoons cC + dD
+$$
+Onde os arpões duplos indicam que a reação está ocorrendo igualmente nas duas direções.
+
+# Equilíbrio Homogêneo e Heterogêneo
+Veremos mais adiante que a fase dos produtos e dos reagentes é um ponto chave ao tentarmos entender o equilíbrio químico, nesse sentido podemos dividir as reações em equilíbrio em dois tipos: Equilíbrio Homogêneo, onde todos os produtos e reagentes estão na mesma fase e o Equilíbrio Heterogêneo onde as fases dos reagentes e/ou dos produtos são divergem.

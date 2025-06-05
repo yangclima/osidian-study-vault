@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "255e2756112fdc13",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2dab37b72b89a7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFPE/Álgebra Linear/Multiplicação de matrizes.md",
+                "file": "UFPE/Cálculo 2/Diferenciais de funções de mais de uma variável.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiplicação de matrizes"
-            }
-          },
-          {
-            "id": "379b012adb4994c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UFPE/Física 2/Aceleração Gravitacional.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aceleração Gravitacional"
+              "title": "Diferenciais de funções de mais de uma variável"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "segundo teorema",
+                "query": "estável",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,45 +170,52 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "379b012adb4994c6",
+  "active": "faec19ab6ecff774",
   "lastOpenFiles": [
-    "UFPE/Álgebra Linear/Multiplicação de matrizes.md",
-    "UFPE/Física 2/Aceleração Gravitacional.md",
-    "UFPE/Cálculo 2/Limite de funções de 2 e 3 variáveis.md",
-    "UFPE/Cálculo 2/Funções de duas e três variáveis.md",
-    "Conceitos fatos e Procedimentos/Álgebra Linear.md",
-    "UFPE/Álgebra Linear/Matrizes.md",
+    "UFPE/Cálculo 2/Funções limitadas.md",
+    "UFPE/Química Geral 1/Química Geral 1.md",
+    "UFPE/Cálculo 2/Funções de duas variáveis ou três variáveis",
+    "Funções",
     "Home.md",
-    "UFPE/Química Geral 1/Funções de Estado.md",
-    "UFPE/Química Geral 1/Termodinâmica.md",
-    "UFPE/Cálculo 2",
-    "UFPE/Química Geral 1",
-    "UFPE/Álgebra Linear",
-    "UFPE/Física 2/Gravitação.md",
-    "UFPE/Física 2",
-    "UFPE",
-    "Mecânica Clássica/Leis de força.md",
-    "Mecânica Clássica/Cinemática Bidimensional.md",
-    "Mecânica Clássica/Cinemática Unidimensional.md",
-    "Mecânica Clássica/Uso de vetores na física.md",
-    "Mecânica Clássica/Leis de Newton.md",
-    "Mecânica Clássica/Vetores.md",
-    "Conceitos fatos e Procedimentos/Cálculo de variável única.md",
-    "Conceitos fatos e Procedimentos/Mecânica Clássica.md",
-    "Aprendizagem/Ultraaprendizado/Prática Direta.md",
-    "Aprendizagem/Ultraaprendizado/Repetição.md",
-    "Programação/curso.dev/Dia 29.md",
-    "Programação/curso.dev/Dia 28.md",
-    "Programação/curso.dev/Dia 27.md",
-    "Programação/curso.dev/Dia 26.md",
-    "Programação/curso.dev/Dia 25.md",
-    "Programação/curso.dev/Dia 5.md",
+    "UFPE/Química Geral 1/Equilíbrio Químico/Formas alternativas da constante de Equilíbrio.md",
+    "UFPE/Química Geral 1/Equilíbrio Químico/Constante de Equilíbrio em função da concentração molar de Gases.md",
+    "UFPE/Química Geral 1/Equilíbrio Químico/Descrição termodinâmica do equilíbrio.md",
+    "UFPE/Química Geral 1/Equilíbrio Químico/Lei da ação das massas.md",
+    "UFPE/Química Geral 1/Equilíbrio Químico/Equilíbrio Químico.md",
+    "UFPE/Química Geral 1/Equilíbrio Químico",
+    "UFPE/Química Geral 1/Energia Livre de Gibbs/Pressão de vapor e ponto de ebulição.md",
+    "UFPE/Química Geral 1/Energia Livre de Gibbs/Energia livre de reação.md",
+    "UFPE/Química Geral 1/Energia Livre de Gibbs/Energia Livre de Gibbs.md",
+    "UFPE/Química Geral 1/Entalpia/Entalpia.md",
+    "UFPE/Química Geral 1/Sistemas Estados e Energia/Calor e sua medida.md",
+    "UFPE/Química Geral 1/Sistemas Estados e Energia/Funções de Estado.md",
+    "UFPE/Química Geral 1/Sistemas Estados e Energia/Primeira lei da termodinâmica.md",
+    "UFPE/Química Geral 1/Sistemas Estados e Energia/Sistemas.md",
+    "UFPE/Química Geral 1/Sistemas Estados e Energia/Trabalho de Expansão.md",
+    "UFPE/Química Geral 1/Sistemas Estados e Energia/Trabalho e Energia.md",
+    "Espaços vetoriais.md",
+    "Ponto de transição de fase.md",
+    "Entropia global.md",
+    "UFPE/Química Geral 1/Entropia/Entropia de mudança de fase.md",
+    "Cálculo/Integrais/Primeiro teorema fundamental do cálculo.md",
+    "Cálculo/Integrais/Separação de variáveis.md",
+    "Cálculo/Integrais/Propriedades da integral definida.md",
+    "UFPE/Física Geral 2/Oscilações/Movimento Harmônico Simples.md",
+    "UFPE/Física Geral 2/Oscilações",
+    "UFPE/Química Geral 1/Energia Livre de Gibbs",
+    "UFPE/Física Geral 2/imagens/hidrodinamica-01.png",
+    "UFPE/Física Geral 2/imagens/principio-de-pascal-01.png",
+    "UFPE/Física Geral 2/Mecânica dos fluidos",
+    "UFPE/Física Geral 2/Gravitação",
+    "UFPE/Química Geral 1/Entropia",
+    "UFPE/Química Geral 1/Entalpia",
+    "UFPE/Química Geral 1/Sistemas Estados e Energia",
+    "Pasted image 20250521165210.png",
+    "UFPE/Química Geral 1/Imagens/curvas-de-aquecmento-01.png",
+    "Pasted image 20250517204143.png",
+    "UFPE/Física Geral 2/imagens/valocidade_de_escape01.png",
     "Programação/curso.dev/imagens/Pasted image 20250422142845.png",
-    "Programação/curso.dev/imagens",
     "Programação/curso.dev/imagens/Pasted image 20250418225517.png",
-    "Excalidraw",
-    "Untitled.canvas",
-    "Programação/curso.dev",
-    "Programação/Java"
+    "Untitled.canvas"
   ]
 }
