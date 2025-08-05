@@ -8,93 +8,65 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"UFPE/Química Geral 1\"  ",
+      "query": "path:UFPE -tag:#HUB",
       "color": {
         "a": 1,
-        "rgb": 4391024
-      }
-    },
-    {
-      "query": "path:\"UFPE/Cálculo 2\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"UFPE\"",
-      "color": {
-        "a": 1,
-        "rgb": 16384000
-      }
-    },
-    {
-      "query": "path:Programação/curso.dev  ",
-      "color": {
-        "a": 1,
-        "rgb": 16421376
-      }
-    },
-    {
-      "query": "path:Programação  ",
-      "color": {
-        "a": 1,
-        "rgb": 61608
-      }
-    },
-    {
-      "query": "path:Aprendizagem/Ultraaprendizado  ",
-      "color": {
-        "a": 1,
-        "rgb": 6749952
-      }
-    },
-    {
-      "query": "path:\"Matemática básica\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 13107455
+        "rgb": 16711680
       }
     },
     {
       "query": "path:Aprendizagem  ",
       "color": {
         "a": 1,
-        "rgb": 16774912
+        "rgb": 5624849
       }
     },
     {
-      "query": "path:Cálculo  ",
+      "query": "path:\"Matemática básica\"  ",
       "color": {
         "a": 1,
-        "rgb": 22015
+        "rgb": 5425632
       }
     },
     {
-      "query": "path:TODO  ",
+      "query": "path:\"MIT - Courses\"  ",
       "color": {
         "a": 1,
-        "rgb": 16711888
+        "rgb": 9175198
       }
     },
     {
-      "query": "path:\"Mecânica Clássica\"  ",
+      "query": "path:Programação  ",
       "color": {
         "a": 1,
-        "rgb": 542464
+        "rgb": 15198976
+      }
+    },
+    {
+      "query": "path:TODO",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -0.6,
-  "nodeSizeMultiplier": 1.50364583333333,
-  "lineSizeMultiplier": 1.50364583333333,
-  "collapse-forces": true,
-  "centerStrength": 0.5,
-  "repelStrength": 10,
-  "linkStrength": 0.5,
-  "linkDistance": 260,
-  "scale": 0.13873223932666073,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.7796875,
+  "lineSizeMultiplier": 2.396875,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.01171875,
   "close": true
 }

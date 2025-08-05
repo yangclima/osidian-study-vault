@@ -1,0 +1,1 @@
+Até agora, vimos toda a parte termodinâmica da química, em especial, o [[Uso das constantes de equilíbrio]] e a [[Energia Livre de Gibbs]] que nos permite prever antecipadamente se uma reação química deve ou não acontecer, mas que, não nos permite prever a velocidade com que o processo irá ocorrer, caso espontâneo, isso é o que o ramo da **Cinética Química** pode nos responder.

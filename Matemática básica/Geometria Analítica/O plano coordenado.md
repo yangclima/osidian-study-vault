@@ -1,3 +1,3 @@
-Assim como podemos utilizar qualquer número pertencente à [[Reta real|reta dos números reais]] para designar uma coordenada, ou posição na reta, podemos utilizar pares de números para designar uma posição ou par de coordenadas no plano formado por duas retas $\mathbb{R}$ com intersecção na origem das retas - Este plano pode ser designado por $\mathbb{R}^2$ ou $xOy$.
+Na [[Geometria analítica]],  assim como podemos utilizar qualquer número pertencente à [[Reta real|reta dos números reais]] para designar uma coordenada, ou posição na reta, podemos utilizar pares de números para designar uma posição ou par de coordenadas no plano formado por duas retas $\mathbb{R}$ com intersecção na origem das retas - Este plano pode ser designado por $\mathbb{R}^2$ ou $xOy$.
 - A relação entre um par de coordenadas é unívoca, ou seja, cada par de números reais representa um e somente um ponto no plano 
 ![[img-plano-coordenado.png]]

@@ -1,0 +1,1 @@
+Parte da matemática elementar que generaliza a aritmética, introduzindo variáveis que representam os números e simplificando e resolvendo, por meio de fórmulas problemas nos quais as grandezas são representadas por símbolos.

@@ -4,7 +4,7 @@ tags:
   - Fórmula
   - Geometria-Analítica
 ---
-A parábola é uma [[Curva cônica]] que é descrita como o conjunto de ponto equidistantes de uma reta (Chamada de **diretriz**) e de um ponto $(x,y)$ (Chamado de **foco**), à distância entre o foco e a diretriz é atribuído o valor $2p$, e o ponto médio do menor segmento entre o foco e a diretriz é chamado de vértice da **parábola**, da mesma forma que a reta que é coincidente a esse segmento é chamada de **eixo da parábola** e é uma eixo de simetria para a curva em questão. Se uma parábola estiver posicionada de tal forma que seu eixo seja paralelo ao eixo $y$ e seu vértice seja o ponto $(0,0)$ - a origem - ela estará no que chamamos de **forma canônica** e poderá ser descrita pela seguinte equação:
+Na [[Geometria analítica]],  a parábola é uma [[Curva cônica]] que é descrita como o conjunto de ponto equidistantes de uma reta (Chamada de **diretriz**) e de um ponto $(x,y)$ (Chamado de **foco**), à distância entre o foco e a diretriz é atribuído o valor $2p$, e o ponto médio do menor segmento entre o foco e a diretriz é chamado de vértice da **parábola**, da mesma forma que a reta que é coincidente a esse segmento é chamada de **eixo da parábola** e é uma eixo de simetria para a curva em questão. Se uma parábola estiver posicionada de tal forma que seu eixo seja paralelo ao eixo $y$ e seu vértice seja o ponto $(0,0)$ - a origem - ela estará no que chamamos de **forma canônica** e poderá ser descrita pela seguinte equação:
 $$
 \sqrt{x^2 + (y-p)^2} = y + p
 $$

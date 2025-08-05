@@ -1,3 +1,4 @@
+Um conceito fundamental da [[Álgebra]] é a desigualdade, definido como: 
 
 > Mensurar uma desigualdade é como tomar uma parte da reta real, parti-la com base em um determinado ponto ou referência, por exemplo, ao analisar a desigualdade $a < 1$ podemos imaginar que estamos tomando toda a parte da reta numérica que está antes do 1. 
 

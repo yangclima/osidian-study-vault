@@ -1,4 +1,4 @@
-Módulo ou valor absoluto de um número é denotado por $|a|$ e significa dizer:
+Na [[Álgebra]], o módulo ou valor absoluto de um número é denotado por $|a|$ e significa dizer:
 $$
        |a| = 
        \begin{cases}

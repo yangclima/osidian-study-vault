@@ -1,0 +1,3 @@
+A teoria do estado de transição é um complemento a [[Teoria das colisões]] que fornece uma melhor explicação para o seu funcionamento em reações em solução, visto que as espécies químicas estão, em geral, cercadas por moléculas do solvente. 
+
+Esta teoria define então que quando duas moléculas do reagente se encontram na solução elas formam uma estrutura chamada **Complexo ativado**, e são empurradas juntas pelo solvente até se combinem formando o produto.

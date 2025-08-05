@@ -2,6 +2,8 @@
 tags:
   - Procedimento
 ---
+Um método extremamente útil na [[Geometria analítica]] é o **Método de completar quadrados**, desenvolvido da seguinte maneira:
+
 Ao receber uma equação da seguinte forma:
 $$
 x^2 + y^2 + Ax + Bx + C = 0
