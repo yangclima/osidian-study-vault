@@ -1,4 +1,4 @@
-# Equação linear
+z# Equação linear
 **Equação linear** no $\mathbb{R}^n$ é uma equação do tipo $a_1X_1 + a_2X_2 + \cdots a_nX_n= b$ onde $X$ são as variáveis e os coeficientes $a_1, a_2, \cdots, a_n$ e $b$ são números conhecidos.
 
 # Sistema linear

@@ -1,6 +1,6 @@
 As leis de força são leis que descrevem a relação entre uma força e alguma propriedade mensurável dos objetos envolvidos.
 # Lei de Hooke
-Estabelecendo a origem de um [[Vetores#Sistema de coordenadas cartesianas|sistema de coordenadas cartesianas]] no ponto de contato entre uma mola e um corpo quando o sistema corpo-mola está em equilíbrio, podemos definir a força que a mola executa sob o corpo através da relação entre a compressão/extensão $\Delta{x}$ aplicada na mola, e uma constante específica da mola $k$, sendo assim:
+Estabelecendo a origem de um [[MIT - Courses/Classical Mechanic/Vetores#Sistema de coordenadas cartesianas|sistema de coordenadas cartesianas]] no ponto de contato entre uma mola e um corpo quando o sistema corpo-mola está em equilíbrio, podemos definir a força que a mola executa sob o corpo através da relação entre a compressão/extensão $\Delta{x}$ aplicada na mola, e uma constante específica da mola $k$, sendo assim:
 $$
 \vec{F} = -kx \ \hat{i}
 $$

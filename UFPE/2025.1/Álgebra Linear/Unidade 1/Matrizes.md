@@ -1,4 +1,4 @@
-A compreensão da álgebra linear começa pelo conceito de [[Vetores]],que aqui, deixam de ter apenas significado geométrico, ou seja, passam a ser vistos como representando diversos tipos de informações. 
+A compreensão da álgebra linear começa pelo conceito de [[MIT - Courses/Classical Mechanic/Vetores]],que aqui, deixam de ter apenas significado geométrico, ou seja, passam a ser vistos como representando diversos tipos de informações. 
 # Matrizes como representações de vetores
 Como afirmamos acima, os vetores, na álgebra linear tem muito mais que apenas o significado geométrico, assim, não precisamos mais os limitar a 3 dimensões, podendo utilizar vetores n-dimensionais, também chamados de n-úplas:
 $$

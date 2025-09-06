@@ -1,6 +1,6 @@
 A cinemática é área da física que tem como objetivo descrever matematicamente o movimento dos corpos, sobretudo a partir das grandezas vetoriais de posição, velocidade e aceleração.
 # Referencial
-O movimento só pode ser pensado definindo um referencial, ou seja, pensando no movimento como a mudança da distância entre o corpo em questão e algum outro corpo ou ponto do espaço. O referencial descreve portanto o tempo e o espaço em que pretendemos calcular algum grandeza ou propriedade física, normalmente usamos [[Vetores#Sistemas de coordenadas|sistemas de coordenadas]] para localizar corpos no nosso referencial.
+O movimento só pode ser pensado definindo um referencial, ou seja, pensando no movimento como a mudança da distância entre o corpo em questão e algum outro corpo ou ponto do espaço. O referencial descreve portanto o tempo e o espaço em que pretendemos calcular algum grandeza ou propriedade física, normalmente usamos [[MIT - Courses/Classical Mechanic/Vetores#Sistemas de coordenadas|sistemas de coordenadas]] para localizar corpos no nosso referencial.
 # Posição
 A posição de um corpo é uma grandeza vetorial normalmente denotada por $\vec{r}$, um vetor que representa a posição do corpo no referencial em questão, se o objeto está se movendo, num movimento unidimensional, podemos definir sua posição como uma função do tempo, portanto:
 $$

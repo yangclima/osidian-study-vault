@@ -1,5 +1,5 @@
 # Decomposição de Vetores
-Na física é muito útil separar os vetores em componentes vetoriais na direção de cada eixo coordenado, nos possibilitando separar os movimentos, forças, velocidades e acelerações em grupos que atuam em uma única direção e assim calcular sua influência um sobre o outro com maior facilidade, esse é o principal objetivo dos [[Vetores#Vetor unitário|vetores unitários]]. Sempre podemos definir um vetor do espaço $xyz$ na forma de uma soma de 3 vetores que apontam cada um na direção de cada vetor unitário do espaço: $\vec{A} = \vec{A_x} + \vec{A_y} + \vec{A_z}$, e cada um desses vetores pode ser escrito como um múltiplo de seu respectivo vetor unitário, ou seja, $\vec{A_x} = A_x \hat{i}$, $\vec{A_y} = A_y \hat{j}$ e $\vec{A_z} = A_z \hat{k}$, dessa forma cada vetor no espaço pode ser decomposto em seus **componentes**:
+Na física é muito útil separar os vetores em componentes vetoriais na direção de cada eixo coordenado, nos possibilitando separar os movimentos, forças, velocidades e acelerações em grupos que atuam em uma única direção e assim calcular sua influência um sobre o outro com maior facilidade, esse é o principal objetivo dos [[MIT - Courses/Classical Mechanic/Vetores#Vetor unitário|vetores unitários]]. Sempre podemos definir um vetor do espaço $xyz$ na forma de uma soma de 3 vetores que apontam cada um na direção de cada vetor unitário do espaço: $\vec{A} = \vec{A_x} + \vec{A_y} + \vec{A_z}$, e cada um desses vetores pode ser escrito como um múltiplo de seu respectivo vetor unitário, ou seja, $\vec{A_x} = A_x \hat{i}$, $\vec{A_y} = A_y \hat{j}$ e $\vec{A_z} = A_z \hat{k}$, dessa forma cada vetor no espaço pode ser decomposto em seus **componentes**:
 $$
 \vec{A} = A_x \ \hat{i} + A_y \ \hat{j} + A_z \ \hat{k}
 $$
@@ -18,7 +18,7 @@ $$
 \dfrac{A_y}{A_x} = \dfrac{|\vec{A}|\sin{(\theta)}}{|\vec{A}|\cos{(\theta)}} = \tan{\theta} \implies \theta = \tan^{-1}{(\dfrac{A_y}{A_x})}
 $$
 # Vetores unitários
-Usando a notação da decomposição de vetores, podemos definir o [[Vetores#Vetor unitário|vetor unitário]]. na direção de um vetor $\vec{A}$ qualquer através da expressão:
+Usando a notação da decomposição de vetores, podemos definir o [[MIT - Courses/Classical Mechanic/Vetores#Vetor unitário|vetor unitário]]. na direção de um vetor $\vec{A}$ qualquer através da expressão:
 $$
 \hat{A} = \dfrac{\vec{A}}{|\vec{A}|} = \dfrac{A_x \ \hat{i} + A_y \ \hat{j} + A_z \ \hat{k}}{\sqrt{A_{x}^{2} + A_{y}^{2} + A_{z}^{2}}}
 $$
