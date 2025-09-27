@@ -17,11 +17,13 @@ Além disso, definimos no `package,json` os nossos scripts de teste:
 O primeiro comando executa os testes uma única vez, já o segundo ativa uma opção que passa a conferir as alterações do código executando os testes sempre que detectar uma mudança.
 
 Por padrão, o Jest, procura no seu repositório por arquivos que possuem o seu nome terminado com `.test`, por exemplo `Home.test.js` e a estrutura básica de um teste é:
+
 ```javascript
 test("Nome do teste", () => {
   expect(1).toBe(1)
 })
 ```
+
 Cada arquivo que segue esse padrão é uma suite de teste, e pode conter vários testes como esse acima, o padrão é bem intuitivo, a estrutura base dos teste é pegar um valor que o nosso código retorna e comparar com o que ele deveria retornar, se esses valores forem iguais, o teste passa.
 # Test Driven Development (TDD)
 O processo mais natural é construir algo e depois testá-lo, é lógico, porém, fazer o inverso pode ser de grande ajuda, se já soubermos o que nossa implementação precisa fazer, podemos criar os testes com base no objetivo que pretendemos alcançar (O que nosso código deve fazer) e ir utilizando o retorno desses testes para nos aproximar cada vez mais do objetivo, é como se os testes fossem nos dizendo se estamos quente ou frio.

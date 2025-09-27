@@ -11,3 +11,6 @@ Em sistemas digitais, porém, não é viável utilizar 10 símbolos, seria algo 
 ![[sd03.png|center]]
 
 ![[sd04.png|center]]
+
+# Sistema Hexadecimal
+Existe ainda um sistema de numeração na base 16, o sistema Hexadecimal que utiliza os dígitos de 0 a 9 e os caracteres A, B, C, D, E e F para expressar os valores, seguindo a mesma lógica dos outros dois sistemas que vimos, com $N$ dígitos podemos representar uma faixa de $0$ a $16^N - 1$ valores e um dígito $x$ na posição $n$ - Da direita para a esquerda - representa o valor de $x \cdot 16^n$ .

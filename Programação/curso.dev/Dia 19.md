@@ -19,5 +19,5 @@ Podemos adicionar o seguinte nos scripts no `package.json` do [[Dia 3#Node Packa
 "services:down": "docker compose -f infra/compose.yaml down",
 ```
 # Fuzzy search
-A fuzzy search é um feature do vscode que permite acessar arquivos do projeto mais facilmente, sem precisar acessar a árvore de arquivos, o comando para acessar a fuzzy search é `Ctrl + P`e além disso, ela permite usar o modificador `@` para cessar diretamente pates de um arquivo, por exemplo `package@scripts` the leva direto para os scripts do `package.json`.
+A fuzzy search é um feature do vscode que permite acessar arquivos do projeto mais facilmente, sem precisar acessar a árvore de arquivos, o comando para acessar a fuzzy search é `Ctrl + P`e além disso, ela permite usar o modificador `@` para cessar diretamente partes de um arquivo, por exemplo `package@scripts` the leva direto para os scripts do `package.json`.
 
