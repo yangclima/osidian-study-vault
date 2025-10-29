@@ -1,0 +1,5 @@
+Vimos que todo computador possui os chamados [[Circuitos Aritméticos]], responsáveis pelas operações aritméticas realizados com os números binários nos [[Introdução a 1s e 0s digitais|sistemas digitais]]. No caso da operação de [[Adição e Subtração Binária]], o processo é feito pelo chamado **Circuito Somador Paralelo**, capaz de realizar a soma de números binários e composto por [[Projetando Circuitos Lógicos Combinacionais|circuitos lógicos combinacionais]] chamados **Somadores Completos** ou *Full Adders (FAs)* que realizam a operação de soma, bit a bit.
+
+![[sd_015.png]]
+
+Nesse caso, cada somador recebe um bit $B_n$ vindo do registrador $B$, um bit $A_n$ vindo do registrador $A$ e um carry, vindo do somador anterior, perceba que o $C_0$ não recebe um valor vindo de nenhum somador e sendo assim seria sempre $0$, exceto que, como veremos, utilizamos $C_0 = 1$ para realizar a operação de subtração.

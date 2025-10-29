@@ -19,8 +19,22 @@ $$
 L = \int_\alpha^\beta \sqrt{1 + \left(\dfrac{dy}{dx}\right)^2}\,dx = \int_\alpha^\beta \sqrt{1 + \left(\dfrac{dy/dt}{dx/dt}\right)^2}\,f^\prime(t)dt 
 $$
 
+# Parametrizações clássicas
+## Reta e segmento
+$$
+r(t) = P_0 + \vec{n}t
+$$
+$$
+r(t) = P_0 + (Q_0 - P_0)t\,; \ \ t \in [0,1]
+$$
 
 
-
-
+## Circunferência
+$$
+r(t) = (x_0 + r\cos(t),y_0 + r\sin(t))\,; \ \ t \in [0,2\pi]
+$$
+## Elipse
+$$
+r(t) = (x_0 + a\cos(t), y_0 + b\sin(t))\,; \ \ t \in [0,2\pi]
+$$
 

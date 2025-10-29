@@ -1,0 +1,1 @@
+O nitrogênio é um gás com rigidez dielétrica muito próxima a dor ar atmosférico e um pouco menor quando sob pressão que apresenta a grande vantagem de ser quimicamente inerte e portanto não favorecer a corrosão, é muito usado para preencher os transformadores durante o seu transporte para protegê-los da umidade ao mesmo tempo que evita o peso gigantesco do volume de óleo.

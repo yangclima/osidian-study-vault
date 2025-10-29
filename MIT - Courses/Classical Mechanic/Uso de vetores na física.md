@@ -43,6 +43,16 @@ E para fazer a operação inversa:
 $$
 x^\prime \ \hat{i}^{\prime} + y^\prime \ \hat{j}^{\prime} = (x^\prime \cos{(\theta)} - y^\prime \sin{(\theta)}) \ \hat{i} + (x^\prime \sin{(\theta)} + y^\prime \cos{(\theta)}) \ \hat{j}
 $$
+# Produto escalar vetorial
+$$
+\vec{A} \cdot \vec{B} = |\vec{A}||\vec{B}|\cos{\theta}
+$$
+O produto escalar vetorial é um operação realizada entre dois vetores que retorna sempre um escalar, ou seja, um número real, que pode ser interpretado geometricamente como o módulo da projeção ortogonal de um vetor sob outro.
+1. $A_x \ \hat{i} + A_y \ \hat{j} + A_z \ \hat{k} \cdot B_x \ \hat{i} + B_y \ \hat{j} + B_z \ \hat{k} = A_xB_x + A_yB_y + A_zB_z$
+2. Comutatividade: $\vec{A} \cdot \vec{B} = \vec{B} \cdot \vec{A}$
+3. Distributividade do produto de um escalar sobre um vetor sobre o produto escalar vetorial: $c(\vec{A} \cdot \vec{B}) = c\vec{A} \cdot \vec{B}$
+4. Distributividade sobre a soma de vetores: $\vec{A} \cdot (\vec{B} + \vec{C}) = \vec{A} \cdot \vec{B} + \vec{A} \cdot \vec{C}$
+5. $\vec{A} \cdot \vec{B} = 0$ somente se os vetores forem perpendiculares
 # Produto vetorial
 $$
 \vec{A} \times \vec{B} = |\vec{A}||\vec{B}|\sin{\theta}\hat{n}
@@ -65,13 +75,4 @@ O vetor unitário normal pode ser dado por:
 $$
 \hat{n} = \pm \dfrac{\vec{A} \times \vec{B}}{|\vec{A} \times \vec{B}|}
 $$
-# Produto escalar vetorial
-$$
-\vec{A} \cdot \vec{B} = |\vec{A}||\vec{B}|\cos{\theta}
-$$
-O produto escalar vetorial é um operação realizada entre dois vetores que retorna sempre um escalar, ou seja, um número real, que pode ser interpretado geometricamente como o módulo da projeção ortogonal de um vetor sob outro.
-1. $A_x \ \hat{i} + A_y \ \hat{j} + A_z \ \hat{k} \cdot B_x \ \hat{i} + B_y \ \hat{j} + B_z \ \hat{k} = A_xB_x + A_yB_y + A_zB_z$
-2. Comutatividade: $\vec{A} \cdot \vec{B} = \vec{B} \cdot \vec{A}$
-3. Distributividade do produto de um escalar sobre um vetor sobre o produto escalar vetorial: $c(\vec{A} \cdot \vec{B}) = c\vec{A} \cdot \vec{B}$
-4. Distributividade sobre a soma de vetores: $\vec{A} \cdot (\vec{B} + \vec{C}) = \vec{A} \cdot \vec{B} + \vec{A} \cdot \vec{C}$
-5. $\vec{A} \cdot \vec{B} = 0$ somente se os vetores forem perpendiculares
+

@@ -1,5 +1,0 @@
-Os circuitos digitais ([[Sistemas Digitais]]), como vimos, são construídos para receber um sinal, processá-lo e então "formular" uma resposta, devolver um resultado, de tal forma, que uma das suas principais vantagens em detrimento dos sistemas analógicos é não depender de uma tensão elétrica exata para operar, mas apenas de faixas de tensão.
-
-Num sistema digital, não importa a a tensão exata, mas apenas a faixa a qual pertence aquela tensão, de tal forma, que definimos que faixa de tensões será interpretada como ALTA e qual faixa de tensões será interpretada como BAIXA o que tem inúmeras vantagens, dentre as quais, ser muito menos suscetível ao ruído.
-
-O modo como um circuito digital responde a um determinado sinal (entrada) é chamado de lógica do circuito, cada circuito obedece a um conjunto de regras lógicas, sendo assim, chamado também de circuito lógico. A relação entre as entradas e saídas de um circuito é chamada de função lógica.

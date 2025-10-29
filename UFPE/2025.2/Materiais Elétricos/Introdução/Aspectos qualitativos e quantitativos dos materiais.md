@@ -1,0 +1,9 @@
+O nosso conhecimento sobre uma determinada [[Conceito de propriedade|propriedade]] pode ser de dois tipos: **Qualitativo** e **Quantitativo**.
+
+O conhecimento qualitativo é como uma definição filosófica do comportamento de um material quando submetido a um determinado estímulo, por exemplo, "A resistência de um condutor aumenta com sua temperatura", essa ideia é, entretanto, muito abstrata, o quanto essa resistência aumenta? Entra em jogo então o conhecimento cientifico quantitativo, a ideia é representar essa ideia qualitativa através de números que nos forneçam previsibilidade a cerca dos fenômenos estudados para nos permitir [[Critérios de seleção dos materiais|selecionar]] de maneira eficiente os materiais para cada situação.
+
+Outro problema que surge é: Para que a ciência seja compartilhada e comunicada precisamos utilizar de convenções que nos permitam obter os mesmos resultados independente de quem, quando e onde está realizando o experimento, para isso, utilizamos a **Normalização**, definimos uma série de documentos que consistem basicamente em acordos e definições que contém especificações técnicas e definições a serem utilizados como regras e diretrizes e que permitirão assegurar a aplicabilidade de produtos e processos.
+
+Aliado a Normalização surge a utilização de sistemas numéricos para dar significado físico aos números que dão significado quantitativo às propriedades, a ideia é possuir procedimentos de medição (Metrologia) que devidamente normalizados permitem quantificar universalmente as propriedades dos materiais.
+
+Utilizando em conjunto a **Normalização** e a **Metrologia**, conseguimos transformar o conceito complexo e abstrato de **Qualidade** no conceito simples e amplamente compreensível de **Quantidade**.

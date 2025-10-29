@@ -1,0 +1,3 @@
+Na presença de oxigênio e umidade o ferro forma uma crosta marrom vermelho de hidróxido férrico conhecida como ferrugem e que implica, como já vimos, na [[Oxidação eletroquímica dos metais|deterioração do material]], na mesma medida em que é preciso que haja umidade na atmosfera para que esse fenômeno ocorra, a quantidade dela necessária para a sua ocorrência é extremamente baixa.
+
+Esse fenômenos acontecem muito comumente nos pinos das cadeias de discos isoladores de alta tensão.

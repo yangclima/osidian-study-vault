@@ -1,0 +1,1 @@
+Os metais são opacos para quase todo o espectro magnético, com exceção dos raios-x e raios-$\gamma$ isso deve a alta disponibilidade de níveis eletrônicos que permitem uma alta absorção da luz pelos elétrons, grande parte da luz é é absorvida e reemitida pela superfície do metal na forma de luz visível.

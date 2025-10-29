@@ -1,0 +1,5 @@
+Existem duas formas principais de representar um binário com sinal em [[Introdução a 1s e 0s digitais|sistemas digitais]], ou seja, dois sistemas nos quais é possível representar números binários positivos e negativos.
+
+O primeiro sistema que possui essa capacidade é o chamado sistema **sinal-magnitude**, o que ocorre é que reservamos o bit mais significante como o bit de sinal, nesse caso, se o MSB for $1$, o número é negativo, caso contrário é positivo, o restante do número então representa a magnitude do número.
+
+O segundo sistema é então o chamado sistema de complemento de $2$, mantemos o bit de sinal como o MSB mas os números negativos passam pelo **processo de negação** antes de serem armazenados, esse processo consiste em inverter todos os seus bits e depois disso, somar $1$ ao novo número obtido, obtendo uma representação do número negativo, de tal forma que, se repetirmos o processo, iremos obter de volta o número positivo. A grande vantagem desse sistema é que o processo de subtração pode ser realizado negando o número que será subtraído e depois somando o valor obtido com o outro número.

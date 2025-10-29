@@ -6,32 +6,19 @@ sort file.name asc
 ```
 # TODO
 
-# Cálculo 3
-## Resumos
-  - [ ] Campos vetoriais
-  - [ ]  Integrais de linha
-  - [ ] Teorema fundamental das integrais de linha
-  - [ ] Teorema de Green
-## Exercícios
-- [ ] Lista 1 (Enviada por Matheus)
-- [ ] Lista 2 (Enviada por Matheus)
-# Física 3
-## Resumos
-- [ ] Rever DIPOLOS (Frequência?)
-- [ ] Potencial elétrico
-
 ## Exercícios
 - [ ] APS1
-- [ ] Execícios recomendados - Lei de Coulomb
-- [ ] Execícios recomendados - Campo elétrico 
-- [ ] Exercícios recomendados - Lei de Gauss
+- [x] Execícios recomendados - Lei de Coulomb ✅ 2025-09-29
+- [ ] ⏫ Integração por substituição trigonométrica
+- [x] Execícios recomendados - Campo elétrico ✅ 2025-10-08
+- [x] Exercícios recomendados - Lei de Gauss ✅ 2025-10-08
 # Estatística
 ## Resumos
 - [ ] Medidas de Centralidade (BUSSAB)
 - [ ] Medidas de Dispersão (BUSSAB)
 - [ ] Teoria dos conjuntos (MEYER)
 - [ ] Introdução a Probabilidade (MEYER)
-- [ ] Métodos de enumeração
+- [x] Métodos de enumeração ✅ 2025-10-08
 
 ## Exercícios
 - [ ] Checar BUSSAB

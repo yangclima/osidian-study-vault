@@ -1,0 +1,9 @@
+Já sabemos até aqui que o conceito chave da [[Ciência dos materiais e engenharia|ciência dos materiais]] são as **propriedades**, afinal é isso que buscamos, portanto, precisamos de uma descrição melhor a respeito desse conceito, pense então da seguinte forma: O que buscamos ao desenvolver um material é que ele responda de maneira específica aos estímulos externos impostos ele (Se construímos um pilar queremos que ele suporte os esforços mecânicos a qual ele estará submetido, se utilizamos um condutor para distribuição de energia elétrica esperamos que ele conduza eletricidade sem muitas perdas e aquecimento quando impomos sobre ele uma diferença de potencial), podemos definir então **propriedade** como:
+
+> Uma característica do material em termos da natureza e da grandeza da sua resposta aos estímulos externos impostos
+
+Perceba que esses estímulos podem ser de vários tipos (Mecânicos, térmicos, elétricos, químicos, magnéticos, ópticos...) inclusive simultaneamente, veja, mesmo que um material seja um excelente condutor, não podemos utilizá-lo em linha de transmissão se ele não for resistente aos esforços mecânicos aos quais estará submetido.
+
+Dois conceitos complementares  ao conceito de propriedade são os conceitos de **Processamento** e **Desempenho**, podemos pensar no processamento como a sequência de estados pelos quais o sistema passa e em **desempenho** como o quão bem um material cumpre seus requisitos em seu estado final.
+
+Em resumo, temos um material bruto, alteramos suas propriedades através do processamento e com base no seu estado e propriedades finais podemos quantificar o seu desempenho, ou seja, o quão bem ele cumpre a sua função.

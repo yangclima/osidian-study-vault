@@ -1,0 +1,3 @@
+Além da [[Adição e Subtração Binária]] e da [[Multiplicação de números binários]] temos, por fim, a divisão de números binários, que ocorre por um processo análogo ao da divisão de decimais, conhecido como *divisão longa*, apesar disso, é mais simples que esta, uma vez que o resultado de cada divisão parcial resultará sempre $0$ ou $1$.
+
+Os cuidados a serem tomados ao lidar com os números no [[Representação de números com sinal|sistema de complemento de 2]] são os mesmos tomados para o processo de multiplicação, números negativos devem ser negados e se o divisor e o dividendo tiverem sinais opostos, o resultado deve ser negado.

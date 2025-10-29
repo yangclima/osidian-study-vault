@@ -1,0 +1,3 @@
+No Brasil o órgão responsável pela criação e atualização das normas para as engenharia, a [[Aspectos qualitativos e quantitativos dos materiais|Normalização]], é a ABNT, uma entidade privada, representante brasileira da IEC  (Internacional Electric Comission) e da ISO (Organização Internacional para Normalização).
+
+As normas são criadas através de comitês públicos com diversos técnicos de diferentes áreas de atuação opinando e muitas vezes adaptando normas técnicas internacionais para a realidade brasileira.

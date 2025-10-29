@@ -1,3 +1,4 @@
+A [[Integral definida]] possui algumas propriedades:
 # Inversão dos limites de integração
 Inverter os limites de integração inverte o sinal da integração:
 $$

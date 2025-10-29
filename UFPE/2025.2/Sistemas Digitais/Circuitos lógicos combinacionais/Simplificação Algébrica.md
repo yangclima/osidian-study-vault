@@ -1,0 +1,3 @@
+O primeiro método para simplificar [[Descrevendo Circuitos Lógicos Algebricamente|expressões booleanas]] é a chamada simplificação algébrica, a ideia é seguir os dois seguintes passos para se encontrar a forma simplificada da expressão:
+1. Primeiro, utilizamos os [[Teoremas de De Morgan]] para transformar cada [[Operação NOT|negação]] de múltiplos termos em variáveis individualmente negadas, colocando então a expressão na forma de [[Forma de Soma-de-produtos|soma-de-produtos]]  
+2. O segundo e último passo é utilizar então os [[Teoremas Booleanos]] para anular o máximo possível de termos da soma-de-produtos.

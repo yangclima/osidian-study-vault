@@ -1,0 +1,3 @@
+Os [[Os fenômenos magnéticos]] surgem, assim como todas as propriedades vistas até agora, de propriedades da [[Estrutura da matéria - Breve histórico|estrutura da matéria]], nesse caso, os elétrons "orbitando" o núcleo tem momentos magnéticos que se originam de sua rotação em torno do próprio eixo ("Spin") e de sua rotação em torno do núcleo do átomo, dessa forma, cada elétron pode ser simplificadamente pensado como um pequeno dipolo magnético.
+
+Assim, os átomos dos materiais magnéticos compõe um [[Dipolos magnéticos|dipolo magnético]] permanente e é daí que vem a ideia de que o magnetismo é um fenômeno de polarização.

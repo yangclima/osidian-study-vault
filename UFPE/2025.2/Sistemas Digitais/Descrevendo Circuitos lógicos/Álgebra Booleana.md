@@ -1,0 +1,5 @@
+Ao criar circuitos digitais (Unidade básica que compõe um [[Introdução a 1s e 0s digitais|Sistema digital]]) é importante garantir a existência de uma relação unívoca, confiável e previsível entre os valores que entram no circuito (Por exemplo, sensores) e aqueles que saem (Um LED aceso ou apagado, por exemplo), para isso, considerando que podemos abstrair os níveis de tensão do nosso sistema como 0s e 1s (HIGH e LOW) estaremos sempre operando sobre valores binários, nesse contexto, surge uma álgebra diferente da que utilizamos convencionalmente e que lida exclusivamente com este tipo de valor, a **álgebra booleana**.
+
+Na álgebra booleana, além de lidarmos com uma faixa de valores infinitamente menos extensa contamos apenas com três operações básicas (AND, NOT e OR) que combinadas de diferentes formas e comportam de formas distintas e mais complexas.
+
+Essas operações básicas são chamadas de operações lógicas e nos circuitos digitais são realizadas pelas chamadas portas lógicas construídas com diodos, transistores e resistores interconectados

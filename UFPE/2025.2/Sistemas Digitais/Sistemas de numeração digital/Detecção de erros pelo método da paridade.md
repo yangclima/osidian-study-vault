@@ -1,0 +1,3 @@
+No contexto dos [[Introdução a 1s e 0s digitais|sistemas digitais]] uma das operações mais comuns é a transferência de dados de um local para o outro, seja entre posições diferentes da memória, sistemas digitais diferentes, da memória para um sistema digital... entretanto durante esse processo podem ocorrer erros o que pode ter como consequência uma interpretação errada.
+
+Uma forma muito utilizada para detectar a ocorrência de erros é o chamado **método da paridade** que consiste na adição de um bit extra considerando a premissa de ter sempre um número par ou ímpar de bits $1$, de maneira que caso isso não ocorra o sistema detectará que o ruído acabou por acarretar um erro na informação transmitida.

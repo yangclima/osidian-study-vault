@@ -1,0 +1,3 @@
+A aplicação da [[Aspectos qualitativos e quantitativos dos materiais|metrologia]] não se restringe apenas a adoção de sistemas universais de medidas, uma aspecto extremamente relevante é que a metrologia se preocupa também com a aferição e calibração dos equipamentos de medição utilizados nos processos produtivos e comerciais.
+
+Aqui no Brasil órgão responsável pela metrologia e sua garantia de aplicabilidade é o INMETRO - Instituto Nacional de Metrologia Normalização e Qualidade Industrial.

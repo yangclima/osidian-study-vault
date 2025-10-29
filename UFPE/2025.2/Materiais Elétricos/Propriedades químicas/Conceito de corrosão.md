@@ -1,0 +1,6 @@
+O conceito de corrosão está relacionado as modificação estrutural dos materiais em função da ação química ou eletroquímica do ambiente. Os agentes predominantes desse fenômenos são o gás oxigênio e a umidade do ar.
+
+Em especial o processo de corrosão dos metais apresenta uma grande importância técnica, uma vez assola os equipamentos das empresas e das pessoas acarretando danos irreversíveis e perdas financeiras extremamente relevantes, a sua importância é facilmente percebida pela estimativa de que 5% do PIB das nações é voltado para prevenção da corrosão ou para substituição dos materiais perdidos através desse fenômeno.
+
+É função portanto do engenheiro, compreender esse fenômenos e encontrar soluções para evitá-lo, através da seleção bem pensada de materiais e outras técnicas que ainda veremos.
+]

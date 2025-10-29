@@ -1,0 +1,3 @@
+A partir do conhecimento dos materiais e suas características, cabe ao engenheiro possuir a expertise de utilizar e eventualmente modificar as propriedades dos materiais através de processos para adequá-los as mais distintas condições de serviço.
+
+As [[Conceito de propriedade|propriedades]] de cada materiais atuam então como os restritores de sua própria aplicabilidade, limitando o seu campo de atuação de acordo com a sua resposta ao estímulos que serão encontrados dadas as condições de serviço, de tal forma que num projeto bem executado os materiais utilizados no produto final terão características satisfatórias para o escopo definido inicialmente e devem manter essas propriedades por um tempo satisfatório.

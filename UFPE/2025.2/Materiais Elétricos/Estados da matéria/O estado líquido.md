@@ -1,0 +1,5 @@
+Quando a temperatura de um [[O estado gasoso|gás]] diminui a energia cinética das partículas diminui de tal forma que as [[Ligações atômicas#Ligações Secundárias|força de Van Der Waals]] se sobressaem ao movimento cinético dos átomos e moléculas, fazendo com que estes, agora num estado menos energético se juntem condensando, o que culmina na formação de gotas de líquidos que caem sobre ação da [[Força Gravitacional|força da gravidade]].
+
+Nos líquidos não existe arranjo ordenado de átomos ou moléculas ou seja, estes continuam livres para se mover (O líquido possui mobilidade), os átomos e moléculas então resvalam um sobre os outros continuando juntos mas sem uma disposição regular definida.
+
+A mais importante característica dos líquidos é a viscosidade que resulta do atrito interno entre os seus átomos e pode ser pensada como uma medida da resistência desse líquido ao escoamento e pode ser medida empiricamente utilizando um dos diversos tipos de viscosímetro.

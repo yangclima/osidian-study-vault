@@ -1,0 +1,5 @@
+Como vimos, a humanidade [[Introdução e perspectivas históricas|descobriu empiricamente a processar os materiais]] no objetivo de desenvolver e selecionar suas propriedades, atualmente, o grande desenvolvimento das ciências como um todo nos permitiram entender que as propriedades dos materiais estão relacionados com sua estrutura em diversos níveis diferentes.
+
+Entendemos **"estrutura"** como o arranjo dos elementos constituintes internos de um material e dividimos esse conceito em espécies de escopos: a **estrutura subatômica** envolve as interações entre o núcleo de um átomo e seus elétrons, a **estrutura atômica** se refere a interação e organização dos átomos e moléculas entre si, a **estrutura microscópica** se refere a grandes aglomerados de átomos e moléculas visíveis utilizando algum tipo de microscópio e, por fim,  a **estrutura macroscópica** é toda aquela visível a olho nu.
+
+Assim, surge a **Engenharia dos Materiais**, área da engenharia que busca projetar a estrutura dos materiais buscando produzir um conjunto predeterminado de propriedades.

@@ -1,0 +1,9 @@
+Por mais que até agora o conceito de [[Os materiais dielétricos|material dielétrico]] tenha sido apresentado como sinônimo de isolante, seu conceito é muito mais amplo, denominamos dielétricos os materiais nos quais os elétrons estão tão fortemente presos ao núcleo que estes não conseguem participar do processo de condução elétrica, apesar disso, não ter elétrons livres não implica que estes são fixos espacialmente, aliás deriva da ligeira mobilidade de seus elétrons a [[Polarização eletrônica]] fenômeno responsável por uma das principais aplicações dos dielétricos, deve-se a ela a capacidade que os dielétricos tem de modificar em grandes proporções o valor dos campos elétricos que os atravessam de maneira que se tornam capazes de armazenar energia.
+
+As aplicações dos dielétricos no campo da engenharia elétrica são amplas e empregam dielétricos provenientes de diversas origens, naturais ou sintéticas, tais como animal, vegetal, mineral ou derivados de petróleo, além disso os formatos dos dielétricos são diversos e podemos encontrá-los no estado [[O estado sólido|sólido]], [[O estado líquido|líquido]] ou [[O estado gasoso|gasoso]], nas mais distintas aplicações.
+
+Os dielétricos sólidos podem ser aplicados propriamente no estado sólido como o papel, a mica ou o silicone, no estado líquido como a cera, o verniz ou os betumes ou no estado pastoso como a pasta térmica utilizada em processadores ou as resinas.
+
+Dentre os dielétricos líquidos se destacam os óleos minerais derivados do petróleo e os fluidos de silicone.
+
+Já para os gasosos, temos em destaque o nitrogênio, o hidrogênio, o gás carbônico, os gases nobre e com destaque especial para os gases eletronegativos, em especial o SF6 (Hexafluoreto de enxofre).

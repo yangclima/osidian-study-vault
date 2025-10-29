@@ -1,0 +1,3 @@
+Uma das principais formas de deterioração dos materiais ocorrer por dissolução química, o que ocorre é que em algumas aplicações os materiais entram em contato com poderosos solventes químicos, é o caso das mangueiras de borracha pelas quais passa gasolina, ou mesmo dos tijolos refratários das forjas quando expostos a escória de óxido de ferro.
+
+Os processos de deterioração por dissolução possuem algumas características relevantes: a dissolução pode ocorrer mais  facilmente quando solvente e soluto tem características em comum, moléculas e íons pequenos se dissolvem mais facilmente, a presença de mais de uma solvente pode acelerar o processo a velocidade desse processo aumenta com a temperatura. 

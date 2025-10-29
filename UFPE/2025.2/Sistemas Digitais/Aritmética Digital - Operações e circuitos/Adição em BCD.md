@@ -1,0 +1,3 @@
+Já vimos que alguns [[Introdução a 1s e 0s digitais|sistemas digitais]] utilizam o [[Código BCD]] para facilitar alguns dos seus processos, dessa forma, é importante que exista um processo que permita a adição de valores codificados nesse sistema, o procedimento é simples e descrito a seguir:
+
+Sabemos que em BCD, cada dígito é designado por um conjunto de $4$ bits, assim, a ideia é somar cada conjunto de $4$ bits como se estivéssemos fazendo uma soma de decimais, isso funcionará perfeitamente caso a soma resulte num valor igual ou inferior a $9$, entretanto, caso a soma resulte num valor superior a $9$ precisamos somar um fator de correção $6_{10} = 0110$ para "pular" os valores inválidos do BCD e gerar um *carry* para o próximo dígito. 

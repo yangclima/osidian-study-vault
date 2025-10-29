@@ -1,0 +1,2 @@
+Assim como para a [[Lei de Coulomb|Força elétrica]], [[Os fenômenos magnéticos]] são melhor expressos vetorialmente, porém ao contrário desta, não existem monopolos magnéticos o que faz com que a unidade básica do magnetismo sejam os **dipolos magnéticos**, este sim, compartilham muitas características com os [[Dipolo elétrico|dipolos elétricos]] e podem ser representados vetorialmente por um vetor momento magnético.
+

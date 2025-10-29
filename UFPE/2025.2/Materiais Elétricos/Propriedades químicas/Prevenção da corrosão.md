@@ -1,0 +1,9 @@
+Em resumo a [[Corrosão e degradação dos materiais|corrosão]] só pode ser evitada completamente em condições extremamente ideias, entretanto existem algumas formas de conter esse fenômeno, a proteção por revestimentos protetores, proteção catódica, o uso de inibidores de corrosão ou evitar a formação de pares galvânicos.
+
+A proteção por revestimentos protetores pode ser feita utilizando tintas, metais ou mesmo cerâmicas, cada um com suas vantagens e desvantagens, as tintas (Em geral materiais orgânicos) são baratas e de fácil aplicação porém tem baixa suportabilidade a ambientes abrasivos ou de alta temperatura e se degrada rapidamente com o tempo, as camadas metálicas, a exemplo do aço estanhado, são muitas vezes eficientes mas são mais caras e requerem processos de aplicação mais complexos, além disso podem formar [[Células Galvânicas]] se a camada superficial for rompida, por último as cerâmicas, utilizadas através da formação de camadas vítreas nos materiais num processo de fundição são quimicamente bastante inertes porém, são frágeis e isolantes térmicos.
+
+A proteção catódica é feita baseada nas [[Reações Redox|reações redox]] utilizando-se de um metal de sacrifício que ira ser corroído no lugar do metal que se que proteger, é o caso do aço galvanizado, que recebe uma fina camada de zinco que o protege da corrosão outra maneira de realizar a proteção catódica é aplicação de uma pequena tensão contínua no material, o que impede a sua corrosão, o conceito em ambos os casos é o mesmo: fornecer elétrons ao metal. 
+
+O uso de inibidores de corrosão consiste basicamente na aplicação de substâncias específicas de acordo com a composição do material a ser protegido que irão interferir no processo de corrosão de modo a retardá-lo.
+
+Por fim, a forma mais simples de evitar a formação de pares galvânicos que culminam na corrosão dos materiais é limitar, quando possível, o projeto a utilizar apenas um metal.

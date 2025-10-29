@@ -1,0 +1,1 @@
+O gás carbônico é um gás de rigidez dielétrica semelhante a do ar mesmo sob pressão e que apresenta a vantagem de não alimentar a combustão como o ar atmosférico, em contrapartida, quando exposto a eflúvios elétricos ocorre também nele a formação de ozônio.

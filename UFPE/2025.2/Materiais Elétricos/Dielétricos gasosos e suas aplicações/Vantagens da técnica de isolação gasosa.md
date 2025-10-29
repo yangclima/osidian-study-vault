@@ -1,0 +1,3 @@
+O isolamento utilizando [[Os gases dielétricos]] tem duas grandes vantagens, a primeira está relacionada a sua fluidez que o torna capaz de envolver perfeitamente e de forma homogênea os equipamentos os quais se deseja isolar qualquer que seja a sua forma geométrica e independente da  existência de partes móveis.
+
+A segunda vantagem é que após o fenômeno [[Disrupção elétrica dos gases]] estes são os que recuperam mais rapidamente suas propriedades dielétricas em função da recombinação e outros fenômenos como a convecção.

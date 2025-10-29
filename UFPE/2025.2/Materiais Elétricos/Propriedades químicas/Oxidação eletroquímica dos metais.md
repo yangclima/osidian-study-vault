@@ -1,0 +1,3 @@
+Para os metais o processo de corrosão é quase sempre eletrolítico o que significa que quase sempre ocorre por [[Reações Redox|oxidação]], ou seja, remoção dos seus elétrons, sobretudo em contato com o oxigênio com a formação do óxido desse metal obedecendo uma reação redox.
+
+Na maioria dos metais esse processo desacelera após a oxidação inicial da sua superfície, onde ocorre a formação de uma película de óxido metálico que protege o material, exceto em alguns casos onde essa camada não adere ao metal ou é porosa, mesmo assim, a oxidação continua pela penetração do oxigênio nessa camada ou pela migração dos átomos do metal para fora (O que costuma ocorrer mais rápido).

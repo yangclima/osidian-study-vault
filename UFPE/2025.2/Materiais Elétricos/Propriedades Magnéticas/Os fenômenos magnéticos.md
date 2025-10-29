@@ -1,0 +1,1 @@
+O magnetismo é o fenômeno através do qual alguns manifestam forças de atração ou repulsão ou certa influência sob outros materiais. O ferro, a magnetita e alguns tipos de aço são alguns dos principais materiais que possuem propriedades magnéticas, apesar disso, todos os materiais são influenciados de alguma forma pela presença de um campo magnético

@@ -1,0 +1,3 @@
+Além do código BCD e do código Gray, um tipo de código muito importante e com ampla aplicação nos [[Introdução a 1s e 0s digitais|Sistemas digitais]] são os **códigos alfanuméricos**, nesse tipo de código, utilizam-se conjuntos de bits para representar caracteres alfanuméricos (Números, letras, pontos, vírgulas...).
+
+O código alfanumérico mais utilizado é o código **ASCII**, que utiliza $7$ bits para representar todas as letras do alfabeto, todos os números, sinais de pontuação e mesmo algumas funções como *RETURN*.

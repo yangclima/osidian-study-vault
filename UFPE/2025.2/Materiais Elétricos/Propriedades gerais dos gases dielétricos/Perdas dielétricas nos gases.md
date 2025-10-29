@@ -1,0 +1,3 @@
+Quando a intensidade do [[Campo Elétrico]] externo é pequena ao ponto de não provocar a [[Condutividade dos gases|ionização automantida]], as [[Perdas nos materiais dielétricos|perdas dielétricas]]  nos gases são mínimas e praticamente insignificantes, nesse caso, podemos considerar os gases como dielétricos perfeitos.
+
+As perdas presentes nesse tipo de dielétrico são totalmente oriundas de sua condutância já que a [[Polarização eletrônica]] não provoca perdas dielétricas.
