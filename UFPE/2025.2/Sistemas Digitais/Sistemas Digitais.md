@@ -29,7 +29,7 @@
 4. [[Mapa de Karnaugh]]
 5. [[Operação XOR]]
 6. [[Operação NOR]]
-# CH 5: Aritmética Digital - Operações e circuitos 
+# CH 6: Aritmética Digital - Operações e circuitos 
 1. [[Adição e Subtração Binária]]
 2. [[Representação de números com sinal]]
 3. [[Multiplicação de números binários]]
@@ -38,3 +38,6 @@
 6. [[Aritmética Hexadecimal]]
 7. [[Circuitos Aritméticos]]
 8. [[Somador binário paralelo]]
+9. [[Sistema de Complemento de 2]]
+10. [[Circuito Integrado ALU]]
+11. 

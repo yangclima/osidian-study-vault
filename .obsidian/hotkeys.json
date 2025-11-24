@@ -1,3 +1,11 @@
 {
-  "editor:save-file": []
+  "editor:save-file": [],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
 }

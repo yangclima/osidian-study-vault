@@ -1,0 +1,28 @@
+# Eletrostática
+1. [[Carga]]
+2. [[Lei de Coulomb]]
+3. [[Ação a distância versus Ação intermediada]]
+4. [[Campo Elétrico]]
+5. [[Dipolo elétrico]]
+6. [[Carga e campo de corpos não pontuais]]
+7. [[Lei de Gauss]]
+8. [[Potencial elétrico]]
+9. [[Capacitores]]
+10. [[Dielétricos]]
+# Eletrodinâmica
+1. [[Corrente e Resistência]]
+2. [[Modelo de Drude]] 
+3. [[Circuitos DC]]
+4. [[Força eletromotriz]]
+5. [[Leis de Kirchhoff]]
+6. [[Simplificação de circuitos]]
+7. [[Circuitos RC]]
+8. [[Campo Magnético]]
+9. [[Força magnética]]
+10. [[Força magnética em um fio]]
+11. [[Torque magnético em uma espira]]
+12. [[Lei de Biot-Savart]]
+13. [[Campo magnético de uma carga pontual]]
+14. [[Dipolo Magnético]]
+15. 
+16. 

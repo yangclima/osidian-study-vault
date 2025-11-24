@@ -1,0 +1,5 @@
+Com a proibição do [[Estudos dos Ascaréis|Ascarel]] diversos outros líquidos dielétricos passaram a ser estudados, os principais são:
+# Os ésteres orgânicos
+Os ésteres orgânicos, tais como o óleo de rícino ou o óleo de mamona são líquidos dielétricos atualmente em estudo, bem como os ésteres sintéticos obtidos pela reação de um álcool com o ácido carboxílico, sua viscosidade é alta e as suas características elétricas são comparáveis aos [[Fluidos de Silicone]].
+# Hidrocarbonetos de alto peso molecular
+Os Hidrocarbonetos de alto peso molecular, conhecidos nos estados unidos como *R-temp* é um óleo mineral de elevada massa molecular com a fórmula geral $C_nH_m$. São fluidos parafínicos aditivados com uma variedade de substâncias e inibidores a fim de melhorar suas características, tais como o ponto de fulgor e fluidez. Sua grande desvantagem é sua forte tendencia à liberação de gases quando submetido a um campo elétrico.

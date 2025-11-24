@@ -1,0 +1,5 @@
+O VHDL é uma *linguagem de descrição de hardware* que descreve o funcionamento de um circuito ou [[Introdução a 1s e 0s digitais|sistema]] eletrônico, de tal forma que, a partir dessa descrição o circuito físico pode ser implementado na vida real.
+
+VHDL significa *VHSIC Hardware Description Language*, onde VHSIC é por si própria uma sigla para *Very High Speed Integrated Circuits*, ele surgiu a partir de uma iniciativa do Departamento de Defesa do governo Americano para permitir a troca eficiente e precisa de informações entre os projetistas dos sistemas digitais da força aérea além de permitir a simulação prévia dos circuitos e sistemas e evitar uma série de complicações por realizar várias abstrações com relação ao hardware físico, e foi a primeira linguagem desse tipo a ser padronizada pelo IEEE.
+
+Um fato notável a respeito do VHDL é que, ao contrário da grande maioria das linguagens de programação, ela não é sequencial e, salvo algumas exceções, suas declarações são executadas de maneira paralela ou concorrente.

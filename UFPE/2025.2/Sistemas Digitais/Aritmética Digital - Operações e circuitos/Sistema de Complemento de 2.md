@@ -1,0 +1,5 @@
+Para realizar a soma de números positivos e/ou negativos no [[Representação de números com sinal|sistema de complemento de 2]] basta efetuar a soma normalmente utilizando um [[Somador binário paralelo]] e desconsiderando o *carry out* do sistema, por outro lado, para realizar a subtração de um número, podemos utilizar um circuito somador binário paralelo de tal modo que tomemos na 2ª parcela os bits do subtraendo negados e no *carry in* o valor $1$ ($C_0 = 1$), de tal maneira que, dessa forma, estamos pegando o valor do subtraendo negado conforme o sistema de complemento de $2$, por fim, é possível também realizar ambas as operações num mesmo circuito, adicionando uma parte auxiliar que tome as entradas do registrador $B$ negadas e $C_0 = 1$ sempre que uma entrada adicional $SUB$  tiver sinal alto, conforme pode ser visto no seguinte esquema:
+
+![[UFPE/2025.2/Sistemas Digitais/imagens/sd_017.png]]
+
+Perceba que o controle do valor que vai pro somador é feito por um circuito inibidor.

@@ -1,0 +1,5 @@
+Os Ascaréis, óleos sintéticos formados por dois ciclos benzênicos onde alguns hidrogênios estão substituídos por cloros (2 a 10 dos hidrogênios) o que os confere o nome técnico de PCB's (do inglês *Poly-chlorinated biphenyl*) Bifenis Policlorados foram muito usados por possuírem excelentes [[Propriedades dos óleos minerais isolantes|propriedades elétricas]], térmicas e não serem inflamáveis, quando usados nos equipamentos elétricos, os ascaréis era misturados com Triclorobenzeno (TCB) para melhorar as suas características de fluidez, importantes no processo de refrigeração.
+
+Apesar de não gerar nenhuma reação com o ferro, alumínio ou aço, o ascarel apresenta o inconveniente de dissolver alguns tipos de isolantes, como vernizes, dando origem a complexos processos de compatibilização.
+
+Apesar de suas inúmeras vantagens o Ascarel é um agente tóxico poderoso capaz de causar sérios danos a quase todos os organismos e se acumula ao longo da cadeia alimentar (Bio-acumulação) sendo assim proibido no brasil desde 1981, porém, existem diversos equipamentos ainda em funcionamento que ainda fazem uso dessa substância.

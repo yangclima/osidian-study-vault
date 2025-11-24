@@ -1,0 +1,10 @@
+A distribuição exponencial é definida no intervalo $[0,\infty)$ e é seguida por uma [[Variável Aleatória Contínua]] que modela o tempo de espera para que um processo continuo mude de estado, e possui a seguinte ficha técnica:
+
+| **Característica**                                                                                         | **Valor**                                                                                              |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Intervalo                                                                                                  | $[0,\infty)$                                                                                           |
+| Parâmetros                                                                                                 | $\lambda$                                                                                              |
+| Função densidade de probabilidade                                                                          | $f(x) = \lambda \cdot e^{-\lambda x}$                                                                  |
+| [[Função de distribuição acumulada para variáveis aleatórias contínuas\|função de distribuição acumulada]] | $F(x) = 1 - e^{-\lambda x}$                                                                            |
+| Notação                                                                                                    | $X\sim \text{Exponencial}(\lambda)$ ou $X\sim \text{Exp}(\lambda)$                                     |
+| Modelo                                                                                                     | Variável aleatória contínua que modela o tempo de espera para que um processo contínuo mude de estado. |

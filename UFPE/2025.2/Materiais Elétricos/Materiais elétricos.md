@@ -33,7 +33,7 @@
 3. [[Resistividade dos metais]]
 4. [[Semicondutividade]]
 5. [[Os materiais dielétricos]]
-# CH 7 - Propriedades térmicas
+# CH 7 - Propriedades magnéticas
 1. [[Os fenômenos magnéticos]]
 2. [[Dipolos magnéticos]]
 3. [[Campos magnéticos e outros parâmetros magnéticos]]
@@ -78,3 +78,27 @@
 9. [[Estudo dos gases nobres]]
 10. [[Estudo do SF6 e suas aplicações]]
 # CH 13 - Estudo dos líquidos dielétricos
+1. [[Comportamento dos líquidos dielétricos]]
+2. [[Condutividade dos dielétricos líquidos]]
+3. [[Rigidez dielétrica dos líquidos isolantes]]
+4. [[Óleo mineral derivado do petróleo]]
+5. [[Propriedades dos óleos minerais isolantes]]
+6. [[Campos de aplicação dos óleos isolantes]]
+7. [[Análise do óleo mineral isolante]]
+8. [[Análise cromatográfica dos gases dissolvidos]]
+9. [[Recuperação dos óleos minerais isolantes]]
+# CH 14 - Óleos Sintéticos
+1. [[Estudos dos Ascaréis]]
+2. [[Fluidos de Silicone]]
+3. [[Outros líquidos dielétricos resistentes ao fogo]]
+# CH 15 - Dielétricos Sólidos
+1. [[Estudo da condutividade dos dielétricos sólidos]]
+2. [[Estudo da rigidez dielétrica dos sólidos]]
+3. [[Envelhecimento térmico]]
+4. [[Classificação térmica dos materiais isolantes elétricos]]
+5. [[Fatores que influenciam o envelhecimento dos materiais]]
+
+
+# CH 23 - Estudo dos isoladores
+1. [[Tipos de isoladores]]
+2. [[Níveis de isolamento para as linhas de alta tensão]]

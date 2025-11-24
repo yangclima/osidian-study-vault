@@ -1,0 +1,5 @@
+Através da [[Manipulando Variáveis Aleatórias|manipulação de variáveis aleatórias]] podemos realizar um poderoso ajuste nas [[Variável Aleatória Contínua|v.a.c.'s]] que seguem a [[Distribuição Normal]], estabelecendo uma variável aleatória $Z$ definida em função da variável aleatória a qual queremos padronizar, de tal maneira que $Z\sim U(0,1)$, temos então:
+
+Dada uma variável aleatória contínua $X$, tal que $X\sim \text{U}(\mu, \sigma^2)$, se definímos uma variável aleatória $Z = (X-\mu)/\sigma$, temos que $Z\sim \text{U}(0,1)$.
+
+Dessa forma, qualquer que sejam os parâmetros da distribuição normal seguida por  $X$, podemos sempre, utilizando a Padronização da Distribuição Normal, jogar a distribuição de $X$ para uma distribuição normal padrão e dessa maneira utilizar facilmente uma tabela para encontrar a probabilidade de $X$ através da [[Função de distribuição acumulada para variáveis aleatórias contínuas|Função de distribuição acumulada]] da normal padrão.

@@ -3,5 +3,6 @@
   "dataview",
   "homepage",
   "obsidian-kanban",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-tikzjax"
 ]
