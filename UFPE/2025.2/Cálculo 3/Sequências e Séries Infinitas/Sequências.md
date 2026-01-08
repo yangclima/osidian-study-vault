@@ -12,7 +12,7 @@ $$
 \{a_n\}
 $$
 
-Usualmente, utilizamos entre chaves a regra que defini a sequência. Por exemplo:
+Usualmente, utilizamos entre chaves a regra que define a sequência. Por exemplo:
 
 $$
 \left\{\dfrac{n}{n+1}\right\} = \left\{\dfrac{1}{2},\dfrac{2}{3},\dfrac{3}{4},\cdots\right\}
@@ -69,3 +69,8 @@ Uma sequência $\{a_n\}$ é:
 
 Vale que: Toda sequência **limitada** e **monótona** é convergente.
 
+Um sequência notável, isso é, importante de se memorizar é a seguinte:
+
+$$
+\lim\limits_{n\to\infty} \left(1 + \dfrac{a}{n}\right)^n = e^a
+$$

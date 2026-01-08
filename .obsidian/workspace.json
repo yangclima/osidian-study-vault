@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "92350b7c0b204127",
+        "id": "4a810d71bf2f4c06",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f8ecf49b17c7c0",
+            "id": "ac4dc0d2fa0cf05d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lorent",
+                "query": "variáveis ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UFPE/2025.2/Física 3/Física Geral 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Física Geral 3"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UFPE/2025.2/Física 3/Física Geral 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Outgoing links from Física Geral 3"
             }
           },
           {
@@ -136,15 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "UFPE/2025.2/Física 3/Circuitos AC/Impedância e Admitância como números complexos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Outline of Impedância e Admitância como números complexos"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,51 +173,52 @@
   },
   "active": "faec19ab6ecff774",
   "lastOpenFiles": [
-    "UFPE/2025.2/Cálculo 3/Cálculo 3.md",
-    "UFPE/2025.2/Cálculo 3/Sequências e Séries Infinitas/Séries.md",
-    "UFPE/2025.2/Cálculo 3/Sequências e Séries Infinitas",
-    "UFPE/2025.2/Cálculo 3/Cálculo Vetorial",
-    "UFPE/2025.2/Cálculo 3/Sequências e Séries Infinitas/Sequências.md",
-    "UFPE/2025.2/Física 3/Física Geral 3.md",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Leis de Kirchhoff.md",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Dipolo Magnético.md",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Torque magnético em uma espira.md",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Força magnética em um fio.md",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Circuitos DC.md",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Modelo de Drude.md",
-    "Home.md",
-    "UFPE/2025.2/Materiais Elétricos/Propriedades Magnéticas/Dipolos magnéticos.md",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Força magnética.md",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Lei de Biot-Savart.md",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Campo magnético de uma carga pontual.md",
-    "UFPE/2025.2/Física 3/imagens/fg3_018.png",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Campo Magnético.md",
-    "UFPE/2025.2/Física 3/Eletrodinâmica",
-    "UFPE/2025.2/Física 3/Elestrostática",
-    "UFPE/2025.2/Física 3/Eletrodinâmica/Corrente e Resistência.md",
-    "UFPE/2025.2/Física 3/Elestrostática/Carga e campo de corpos não pontuais.md",
-    "UFPE/2025.2/Cálculo 3/Cálculo Vetorial/Campos escalares e vetoriais.md",
-    "UFPE/2025.2/Estatística/Aula 5/Padronização da Distribuição Normal.md",
-    "UFPE/2025.2/Estatística/Estatística.md",
-    "UFPE/2025.2/Materiais Elétricos/Materiais elétricos.md",
-    "UFPE/2025.2/Materiais Elétricos/Estudo dos isoladores/Tipos de isoladores.md",
-    "UFPE/2025.2/Materiais Elétricos/Óleos Sintéticos/Outros líquidos dielétricos resistentes ao fogo.md",
-    "UFPE/2025.2/Materiais Elétricos/Dielétricos Sólidos/Estudo da condutividade dos dielétricos sólidos.md",
-    "UFPE/2025.2/Materiais Elétricos/Estudo dos isoladores",
-    "UFPE/2025.2/Materiais Elétricos/Dielétricos Sólidos",
-    "UFPE/2025.2/Estatística/Aula 6",
-    "UFPE/2025.2/Estatística/Aula 5",
-    "UFPE/2025.2/Estatística/Aula 4",
-    "UFPE/2025.2/Estatística/Aula 3",
-    "UFPE/2025.2/Estatística/imagens/est_002.png",
-    "UFPE/2025.2/Estatística/imagens/est_001.png",
-    "UFPE/2025.2/Estatística/imagens/est_001.png",
-    "UFPE/2025.2/Física 3/imagens/fg3_017.png",
-    "UFPE/2025.2/Física 3/imagens/fg3_016.png",
-    "UFPE/2025.2/Física 3/imagens/fg3_015.png",
-    "UFPE/2025.2/Física 3/imagens/fg3_014.png",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
-    "UFPE/2025.2/Física 3/imagens/fg3_013.png",
+    "Programação/Java/Java.md",
+    "Programação/Java/Java Básico/Variáveis e Tipos de dados.md",
+    "Programação/Java/Java Básico",
+    "Programação/Java/Java Básico/String.md",
+    "Programação/Java/Java Básico/Scanner.md",
+    "Programação/Java/Java Básico/Estruturas de repetição.md",
+    "Programação/Java/Java Básico/Estruturas condicionais.md",
+    "Programação/Java/Java Básico/Atalhos IntelliJ.md",
+    "Programação/Java/Java Básico/Array.md",
+    "Leituras/Método Zettelkasten.md",
+    "UFPE/2025.1/Álgebra Linear/Álgebra Linear.md",
+    "Leituras/Data Science do 0/Introdução/Álgebra Linear.md",
+    "Leituras/Data Science do 0/Data Science do 0.md",
+    "Leituras/Data Science do 0/Introdução",
+    "Leituras/Data Science do 0/Introdução/Curso intensivo de Python.md",
+    "Leituras/Data Science do 0/Introdução/Visualizando Dados.md",
+    "Programação/R/Introdução a linguagem R/Criando variáveis.md",
+    "Programação/R/R.md",
+    "Programação/R/Introdução a linguagem R",
+    "Programação/R/Introdução a linguagem R/Vetores.md",
+    "Programação/R/Introdução a linguagem R.md",
+    "Programação/R/Introdução a linguagem R/Operações básicas.md",
+    "Programação/R/Introdução a linguagem R/Números Aleatórios.md",
+    "Programação/Algoritmos/Algoritmo.md",
+    "Programação/Algoritmos/Aproximação Sucessiva.md",
+    "Programação/Algoritmos/Complexidade de Algoritmos.md",
+    "Programação/Algoritmos/Enumeração exaustiva.md",
+    "Programação/Algoritmos/Binary Search.md",
+    "Programação/Algoritmos/Selection Sort.md",
+    "MIT - Courses/Introduction to Electrical Engineering and Computer Science/Aula 1",
+    "MIT - Courses/Introduction to Electrical Engineering and Computer Science",
+    "UFPE/2026.1/Circuitos 1/Teoremas de Rede",
+    "UFPE/2026.1/Circuitos 1/imagens",
+    "UFPE/2026.1/Circuitos 1/imagens/circ1_001.png",
+    "Pasted Image 20260102100912_169.png",
+    "Excalidraw",
+    "UFPE/2026.1/Circuitos 1/Redes Resistivas",
+    "UFPE/2026.1/Circuitos 1/A abstração de circuitos",
+    "UFPE/2025.2/Física 3/imagens/fg3_024.png",
+    "UFPE/2026.1/Cálculo 4/imagens/c4_001.png",
+    "UFPE/2025.2/Física 3/imagens/fg3_023.png",
+    "UFPE/2025.2/Sistemas Digitais/imagens/sd_040.png",
+    "UFPE/2025.2/Sistemas Digitais/imagens/sd_039.png",
+    "UFPE/2025.2/Sistemas Digitais/imagens/sd_038.png",
+    "UFPE/2025.2/Sistemas Digitais/imagens/sd_037.png",
+    "UFPE/2025.2/Sistemas Digitais/imagens/sd_036.png",
     "Untitled.canvas"
   ]
 }

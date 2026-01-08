@@ -1,0 +1,3 @@
+Uma [[Séries|série]] $\sum a_n$ é dita **absolutamente convergente** se a série de valores $\sum |a_n|$ for convergente e dita **condicionalmente convergente** se a série $\sum a_n$ for convergente e a série $\sum |a_n|$ não o for.
+
+A grande utilidade dessa definição é que se uma série $\sum a_n$ for absolutamente convergente então automaticamente ela é convergente no geral, o que será de grande utilidade para a definição de alguns outros testes de convergência.

@@ -1,3 +1,9 @@
+---
+tags:
+  - HUB
+  - UFPE
+PERIODO: 3
+---
 # CH 1 - Introdução
 1. [[Introdução e perspectivas históricas]]
 2. [[Ciência dos materiais e engenharia]]

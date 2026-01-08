@@ -1,0 +1,5 @@
+Um tipo muito simples, pelo menos externamente, de circuito com [[Memória]] é o **flip-flop D**, caracterizado por ter apenas uma entrada de controle síncrona, nesse caso, a saída $Q$ desse flip-flop assume sempre o valor da entrada $D$ (o $D$ vem de *data*), inicialmente, sua utilidade pode parecer obscurecida, afinal, se $Q$ assume sempre o valor de $D$ não seria mais fácil fazer uma ligação direta do valor de $D$ para o circuito onde esse valor deve chegar? A chave é então o [[Sinais de Clock e Flip-Flops com clock|clock]], através dele, podemos podemos controlar os momentos exatos onde o valor de $D$ será transferido para $Q$, essa característica é muito útil em aplicações como a transferência paralela de dados.
+
+Sobre a constituição interna do flip-flop D, ele é basicamente um [[Flip-flop J-K com clock]] onde $J$ recebe o valor $D$ e $K$ recebe o valor $\overline Q$ através de uma [[Operação NOT|porta NOT]], ou seja, um circuito inversor:
+
+![[sd_027.png|center]]

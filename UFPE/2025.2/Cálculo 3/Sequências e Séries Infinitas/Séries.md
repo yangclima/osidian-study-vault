@@ -22,7 +22,7 @@ $$
 Séries que apresentam a agradável propriedade de que se $|r| < 1$, a sua soma é dada por:
 
 $$
-\sum\limits_{n=1}^\infty a\cdot r^{n+1} = \dfrac{a}{1-r}
+\sum\limits_{n=1}^\infty a\cdot r^{n-1} = \dfrac{a}{1-r}
 $$
 
 Caso $|r| \geq 1$, então a série é divergente.

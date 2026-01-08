@@ -1,0 +1,19 @@
+Todo o conteúdo que vimos até agora foi basicamente para construir um conjunto de equações que regem o Eletromagnetismo como um todo, esse conjunto é composto por quatro equações (Ou leis): [[Lei de Gauss]], [[Lei de Faraday]][[Lei de Lenz|-Lenz]], [[Lei de Gauss para o campo magnético]] e [[Lei de Ampére]] (Com a correção de Maxwell relacionada a [[Corrente de deslocamento]]). Juntas as quatro equações são chamadas de **Equações de Maxwell** e podem ser sintetizadas da seguinte forma:
+
+| Lei                | Equação                                                         | Significado Físico                                                                                                                    |
+| ------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gauss**          | $$\iint \vec E \cdot d\vec A = \dfrac{Q_{env}}{\varepsilon_0}$$ | O fluxo elétrico através de uma superfície fechada é proporcional a carga envolvida.                                                  |
+| **Faraday**        | $$\oint \vec E \cdot d \vec s = -\dfrac{d\Phi_B}{dt}$$          | A variação do [[Fluxo magnético]] está associada a um [[Campo Elétrico]].                                                             |
+| **Gauss**          | $$\iint \vec B \cdot d\vec A = 0$$                              | O fluxo magnético total através de uma superfície fechada é zero.                                                                     |
+| **Ampére-Maxwell** | $$\oint \vec B \cdot d\vec s = \mu_0(I_{env} + I_d)$$           | [[Corrente\|Corrente Elétrica]] e os [[Campo Elétrico\|Campos Elétricos]] variáveis no tempo estão associados ao [[Campo Magnético]]. |
+
+Essas equações também podem ser escritas na forma diferencial:
+
+| Lei                | Equação                                                                                      | Significado Físico                                                                                                                    |
+| ------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gauss**          | $$\nabla\cdot\vec E = \dfrac{\rho}{\varepsilon_0}$$                                          | O fluxo elétrico através de uma superfície fechada é proporcional a carga envolvida.                                                  |
+| **Faraday**        | $$\nabla\times\vec E = -\dfrac{\partial \vec B}{\partial t}$$                                | A variação do [[Fluxo magnético]] está associada a um [[Campo Elétrico]].                                                             |
+| **Gauss**          | $$\nabla\cdot\vec B = 0$$                                                                    | O fluxo magnético total através de uma superfície fechada é zero.                                                                     |
+| **Ampére-Maxwell** | $$\nabla\times\vec B = \mu_0\vec J + \mu_0\varepsilon_0\dfrac{\partial \vec E}{\partial t}$$ | [[Corrente\|Corrente Elétrica]] e os [[Campo Elétrico\|Campos Elétricos]] variáveis no tempo estão associados ao [[Campo Magnético]]. |
+
+A grande beleza desse conjunto de equação é que elas funcionam em conjunto para explicar todos os fenômenos macroscópicos do eletromagnetismo e através de sua aplicação é que Maxwell previu a existência das **Ondas Eletromagnéticas**.

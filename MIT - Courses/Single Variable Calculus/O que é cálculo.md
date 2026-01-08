@@ -1,1 +1,0 @@
-O cálculo diferencial e integral surgiu e é utilizado hoje como uma das maiores e mais importantes ferramentas algébrica e analítica da matemática e seu propósito pode ser resumido através de dois problemas que ele resolve: [[O problema da reta tangente]] e o problema da área, 

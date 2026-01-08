@@ -2,6 +2,7 @@
 tags:
   - HUB
   - UFPE
+PERIODO: 3
 ---
 # Aula 01
 1. [[Conjuntos e Notações]]
@@ -32,15 +33,42 @@ tags:
 3. [[Função de distribuição acumulada para variáveis aleatórias contínuas]]
 4. [[Distribuição Uniforme Contínua]]
 5. [[Distribuição Exponencial]]
-6. [[Distribuição Normal]]
-7. [[Distribuição de Pareto]]
-8. [[Manipulando Variáveis Aleatórias]]
-9. [[Padronização da Distribuição Normal]]
+6. [[Distribuição de Poisson]]
+7. [[Distribuição Normal]]
+8. [[Distribuição de Pareto]]
+9. [[Manipulando Variáveis Aleatórias]]
+10. [[Padronização da Distribuição Normal]]
 # Aula 06
 1. [[Esperança para variáveis aleatórias contínuas]]
 2. [[Variância para variáveis aleatórias contínuas]]
 3. [[Mediana, quantil, percentil e decil]]
-# Aula 07
+4. [[Histogramas]]
+5. [[Lei dos Grandes números]]
+6. [[Teorema do Limite Central]]
+# Aula 7
+1. [[Distribuição conjunta]]
+2. [[Função de distribuição acumulada conjunta]]
+3. [[Distribuição marginal]]
+4. [[Independência de variáveis aleatórias]]
+5. [[Covariância]]
+6. [[Correlação]]
+# Aula 8
+1. [[Introdução a Estatística]]
+2. [[Revisão do teorema de Bayes]]
+3. [[Estimativas de máxima verossimilhança]]
+# Aula 9
+1. [[Atualização Bayesiana]]
+2. [[Função massa de probabilidade a priori e a posteriori]]
+# Aula 10
+1. [[Predição probabilística]]
+2. [[Odds]]
+3. [[Atualização Bayesiana de Odds]]
+4. [[Fator de Bayes]]
+# Aula 11
+1. [[Lei da probabilidade Total para distribuições contínuas]]
+2. [[Atualização Bayesiana com distribuições a priori continuas]]
+3. [[Distribuição a priori plana ou uniforme]]
+4. 
 
 
 

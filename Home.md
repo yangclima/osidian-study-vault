@@ -1,17 +1,28 @@
 # UFPE
+# Segundo Período
 ```dataview
 list 
-where contains(tags, "HUB") and contains(tags, "UFPE")
+where 
+  contains(tags, "HUB") 
+  and contains(tags, "UFPE") 
+  and PERIODO = 2
 sort file.name asc
 ```
-# TODO
-
-
-# Anotações
-calendário editorial - historia, cases
-outbound inbound 
-
-ICP > Personas > Mapa de empatia > Puv Canvas
-prisma de kapferer > brand key model
-Empresa Databased
-Matriz de objeção (Já temos)
+# Terceiro Período
+```dataview
+list 
+where 
+  contains(tags, "HUB") 
+  and contains(tags, "UFPE") 
+  and PERIODO = 3
+sort file.name asc
+```
+# Quarto Período
+```dataview
+list 
+where 
+  contains(tags, "HUB") 
+  and contains(tags, "UFPE") 
+  and PERIODO = 4
+sort file.name asc
+```

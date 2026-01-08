@@ -2,49 +2,69 @@
 tags:
   - HUB
   - UFPE
+PERIODO: 2
 ---
 # Sistemas Estados e Energia
-```dataview
-list 
-from "UFPE/2025.1/Química Geral 1/Sistemas Estados e Energia"
-sort file.ctime asc
-```
+1. [[Calor e sua medida]]
+2. [[Funções de Estado]]
+3. [[Trabalho e Energia]]
+4. [[UFPE/2025.1/Química Geral 1/Sistemas Estados e Energia/Primeira lei da termodinâmica|Primeira lei da termodinâmica]]
+5. [[Sistemas]]
+6. [[Trabalho de Expansão]]
 # Entalpia
-```dataview
-list 
-from "UFPE/2025.1/Química Geral 1/Entalpia"
-sort file.ctime asc
-```
+1. [[Capacidade Calorífica dos Gases]]
+2. [[Curvas de aquecimento]]
+3. [[Entalpia de Mudança de Fase]]
+4. [[Entalpia de reação]]
+5. [[Entalpia padrão de formação]]
+6. [[Entalpia padrão de reação]]
+7. [[Entalpia]]
+8. [[Lei de Hess]]
+9. [[Relação entre entalpia e energia interna]]
+10. [[Teorema da equipartição]]
 # Entropia
-
-```dataview
-list 
-from "UFPE/2025.1/Química Geral 1/Entropia"
-sort file.ctime asc
-```
+1. [[Entropia padrão de reação]]
+2. [[Entropia de mudança de fase]]
+3. [[Entropia padrão molar]]
+4. [[Entropia]]
+5. [[Segunda lei da termodinâmica]]
+6. [[Variação Global de Entropia]]
+7. [[Terceira lei da termodinâmica]]
 # Energia livre de Gibbs
-
-```dataview
-list 
-from "UFPE/2025.1/Química Geral 1/Energia Livre de Gibbs"
-sort file.ctime asc
-```
+1. [[Energia Livre de Gibbs]]
+2. [[Energia livre de reação]]
+3. [[Pressão de vapor e ponto de ebulição]]
 # Equilíbrio Químico
-
-```dataview
-list 
-from "UFPE/2025.1/Química Geral 1/Equilíbrio Químico"
-sort file.ctime asc
-```
+1. [[Autoprotólise da água]]
+2. [[Constante de Equilíbrio em função da concentração molar de Gases]]
+3. [[Constantes de acidez e basicidade]]
+4. [[Descrição termodinâmica do equilíbrio]]
+5. [[Escala de pH e pOH]]
+6. [[Equilíbrio Químico]]
+7. [[Equilíbrio de solubillidade]]
+8. [[pH de soluções de sais]]
+9. [[Perturbações do equilíbrio]]
+10. [[Ácidos e Bases]]
+11. [[Lei da ação das massas]]
+12. [[Uso das constantes de equilíbrio]]
+13. [[Relação entre as constantes de equilíbrio]]
 # Eletroquímica
-```dataview
-list 
-from "UFPE/2025.1/Química Geral 1/Eletroquímica"
-sort file.ctime asc
-```
+1. [[Balanceamento de Reações Redox]]
+2. [[Eletrólise]]
+3. [[Células Galvânicas]]
+4. [[Notação das células]]
+5. [[Lei de Faraday da eletrólise]]
+6. [[Potenciais padrão e constantes de equilíbrio]]
+7. [[Potencial padrão de célula]]
+8. [[Reações Redox]]
 # Cinética Química
-```dataview
-list 
-from "UFPE/2025.1/Química Geral 1/Cinética Química"
-sort file.ctime asc
-```
+1. [[Catalisadores]]
+2. [[Cinética química]]
+3. [[Lei de velocidade]]
+4. [[Meia-vida de reações]]
+5. [[Mecanismo de reação]]
+6. [[Lei integrada de velocidade]]
+7. [[Modelos de reação]]
+8. [[Teoria das colisões]]
+9. [[Teoria do estado de transição]]
+10. [[Velocidade de reação]]

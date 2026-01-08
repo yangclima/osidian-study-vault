@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "path:Leituras  ",
+      "color": {
+        "a": 1,
+        "rgb": 580612
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.010635237303143285,
+  "scale": 0.036523787068449574,
   "close": true
 }
