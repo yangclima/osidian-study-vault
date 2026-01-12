@@ -1,5 +1,5 @@
 # UFPE
-# Segundo Período
+## Segundo Período
 ```dataview
 list 
 where 
@@ -8,7 +8,7 @@ where
   and PERIODO = 2
 sort file.name asc
 ```
-# Terceiro Período
+## Terceiro Período
 ```dataview
 list 
 where 
@@ -17,12 +17,20 @@ where
   and PERIODO = 3
 sort file.name asc
 ```
-# Quarto Período
+## Quarto Período
 ```dataview
 list 
 where 
   contains(tags, "HUB") 
   and contains(tags, "UFPE") 
   and PERIODO = 4
+sort file.name asc
+```
+# LEITURAS
+```dataview
+list 
+where 
+  contains(tags, "HUB") 
+  and contains(tags, "LEITURA") 
 sort file.name asc
 ```

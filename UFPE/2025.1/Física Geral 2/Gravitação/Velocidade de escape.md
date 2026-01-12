@@ -12,7 +12,7 @@ $$
 $$
  \dfrac{mv^2}{2} + (-\dfrac{GMm}{r_i}) = \lim_{r_f \rightarrow \infty} \dfrac{mv^2}{2} + (-\dfrac{GMm}{r_f})
 $$
-Como em $r_f$ tendendo a infinito a [[Energia Potencial Gravitacional]] é 0 e ao modelar o conceito de velocidade de escape definimos que a velocidade final é 0, temos:
+Como em $r_f$ tendendo a infinito a [[UFPE/2025.1/Física Geral 2/Gravitação/Energia Potencial Gravitacional]] é 0 e ao modelar o conceito de velocidade de escape definimos que a velocidade final é 0, temos:
 $$
  \dfrac{mv^2}{2} + (-\dfrac{GMm}{r_i}) = \lim_{r_f \rightarrow \infty} \cancel{\dfrac{mv^2}{2}} + \cancel{(-\dfrac{GMm}{r_f})}
 $$

@@ -6,7 +6,7 @@ PERIODO: 2
 ---
 # Gravitação
 1. [[Aceleração Gravitacional]]
-2. [[Energia Potencial Gravitacional]]
+2. [[UFPE/2025.1/Física Geral 2/Gravitação/Energia Potencial Gravitacional]]
 3. [[Força Gravitacional]]
 4. [[Leis de Kepler]]
 5. [[Teorema das cascas]]

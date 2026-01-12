@@ -7,7 +7,7 @@ Como a [[Lei de Coulomb|Força elétrica]] é uma força conservativa, isso nos 
 $$
 W = \int \limits_a^b \vec{F}_e \cdot d\vec{r} = \int \limits_a^b \dfrac{kqQ}{r^2}\cdot d\vec{r} = kqQ \int \limits_a^b \dfrac{d\vec{r}}{r}
 $$
-Porém, sabemos lá das aulas de cálculo que quando lidamos com [[Campos vetoriais]] conservativos podemos encontrar uma função potencial, $U$ tal que $\vec{F} = \nabla U$, na física, chamamos essa função de **Energia Potencial**, o análogo dessa função para a força gravitacional é a [[Energia Potencial Gravitacional]], a grande vantagem dessa função é permitir o cálculo do trabalho da seguinte forma:
+Porém, sabemos lá das aulas de cálculo que quando lidamos com [[Campos vetoriais]] conservativos podemos encontrar uma função potencial, $U$ tal que $\vec{F} = \nabla U$, na física, chamamos essa função de **Energia Potencial**, o análogo dessa função para a força gravitacional é a [[UFPE/2025.1/Física Geral 2/Gravitação/Energia Potencial Gravitacional]], a grande vantagem dessa função é permitir o cálculo do trabalho da seguinte forma:
 
 $$
 W = -\Delta U = U_i - U_f

@@ -1,7 +1,7 @@
 Semelhante a [[Lei de Gauss]] para ao [[Campo Elétrico]], para o campo [[Campo Magnético]] a chamada **Lei de Ampére** desempenha um papel fundamental para permitir o cálculo mais rápido do campo magnético para corpos que possuem um elevado grau de simetria,  essa lei pode ser matematicamente enunciada como:
 
 $$
-\oint \vec B \cdot d\vec s = \mu_0 \cdot I_{enc}
+\oint \vec B \cdot d\vec s = \mu_0 \cdot I_{env}
 $$
 
 Ou seja, a [[Integrais de linha|integral de linha]] do campo magnético sobre uma curva fechada qualquer é proporcional a corrente envolvida por essa curva com uma constante de proporcionalidade $\mu_0$, a permeabilidade magnética do vácuo. 

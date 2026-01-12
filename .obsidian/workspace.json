@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4a810d71bf2f4c06",
+        "id": "5ae6a9a276a36f94",
         "type": "tabs",
         "children": [
           {
-            "id": "ac4dc0d2fa0cf05d",
+            "id": "db2ea06a03912dba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "variáveis ",
+                "query": "terce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFPE/2025.2/Física 3/Física Geral 3.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Física Geral 3"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFPE/2025.2/Física 3/Física Geral 3.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Física Geral 3"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFPE/2025.2/Física 3/Circuitos AC/Impedância e Admitância como números complexos.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Impedância e Admitância como números complexos"
+              "title": "Outline of index"
             }
           }
         ],
@@ -173,52 +177,52 @@
   },
   "active": "faec19ab6ecff774",
   "lastOpenFiles": [
-    "Programação/Java/Java.md",
-    "Programação/Java/Java Básico/Variáveis e Tipos de dados.md",
-    "Programação/Java/Java Básico",
-    "Programação/Java/Java Básico/String.md",
-    "Programação/Java/Java Básico/Scanner.md",
-    "Programação/Java/Java Básico/Estruturas de repetição.md",
-    "Programação/Java/Java Básico/Estruturas condicionais.md",
-    "Programação/Java/Java Básico/Atalhos IntelliJ.md",
-    "Programação/Java/Java Básico/Array.md",
-    "Leituras/Método Zettelkasten.md",
-    "UFPE/2025.1/Álgebra Linear/Álgebra Linear.md",
-    "Leituras/Data Science do 0/Introdução/Álgebra Linear.md",
+    "Leituras/Feynman Lectures I/Tempo e Distância/Distância.md",
+    "Leituras/Feynman Lectures I/Feynman Lectures I.md",
+    "Leituras/Feynman Lectures I/Tempo e Distância/Tempo.md",
+    "Leituras/Feynman Lectures I/imagens/fey_002.png",
+    "Leituras/Feynman Lectures I/Tempo e Distância",
+    "Leituras/Feynman Lectures I/Conservação de Energia/Outros tipos de energia.md",
+    "UFPE/2025.1/Química Geral 1/Entropia/Terceira lei da termodinâmica.md",
+    "Leituras/Feynman Lectures I/Física Básica/Núcleos e Partículas.md",
+    "Leituras/Feynman Lectures I/Conservação de Energia/Conservação de Energia.md",
+    "Leituras/Feynman Lectures I/Conservação de Energia/Energia Cinética.md",
+    "Leituras/Feynman Lectures I/Conservação de Energia/Retórica da energia Potencial Gravitacional.md",
+    "index.md",
+    "Leituras/Ultraaprendizado/Foco.md",
     "Leituras/Data Science do 0/Data Science do 0.md",
+    "Leituras/Feynman Lectures I/imagens",
+    "Leituras/Feynman Lectures I/imagens/fey_001.png",
+    "Leituras/Feynman Lectures I/Conservação de Energia",
+    "UFPE/2025.1/Física Geral 2/Gravitação/Energia Potencial Gravitacional.md",
+    "Leituras/Feynman Lectures I/Física Básica/Física Quântica.md",
+    "Leituras/Feynman Lectures I/Física Básica/A física antes de 1920.md",
+    "Leituras/Feynman Lectures I/Física Básica",
+    "Leituras/Feynman Lectures I/Átomos em movimento/Reações químicas.md",
+    "Leituras/Feynman Lectures I/Átomos em movimento/Processos Atômicos.md",
+    "UFPE/2025.1/Química Geral 1/Equilíbrio Químico/Equilíbrio Químico.md",
+    "UFPE/2025.1/Química Geral 1/Equilíbrio Químico/Descrição termodinâmica do equilíbrio.md",
+    "Leituras/Feynman Lectures I/Átomos em movimento/A hipótese atômica.md",
+    "UFPE/2025.1/Física Geral 2/Termodinâmica/Gases ideais.md",
+    "UFPE/2025.1/Física Geral 2/Física Geral 2.md",
+    "Leituras/Feynman Lectures I/Átomos em movimento",
+    "Leituras/Feynman Lectures I",
+    "UFPE/2025.2/Física 3/Magnetostática/Campo Magnético.md",
+    "UFPE/2025.2/Física 3/Física Geral 3.md",
+    "UFPE/2025.2/Física 3/Magnetostática/Lei de Gauss para o campo magnético.md",
+    "UFPE/2025.2/Física 3/Magnetostática/Fluxo magnético.md",
+    "Excalidraw",
+    "Programação/Java/Java Básico",
     "Leituras/Data Science do 0/Introdução",
-    "Leituras/Data Science do 0/Introdução/Curso intensivo de Python.md",
-    "Leituras/Data Science do 0/Introdução/Visualizando Dados.md",
-    "Programação/R/Introdução a linguagem R/Criando variáveis.md",
-    "Programação/R/R.md",
     "Programação/R/Introdução a linguagem R",
-    "Programação/R/Introdução a linguagem R/Vetores.md",
-    "Programação/R/Introdução a linguagem R.md",
-    "Programação/R/Introdução a linguagem R/Operações básicas.md",
-    "Programação/R/Introdução a linguagem R/Números Aleatórios.md",
-    "Programação/Algoritmos/Algoritmo.md",
-    "Programação/Algoritmos/Aproximação Sucessiva.md",
-    "Programação/Algoritmos/Complexidade de Algoritmos.md",
-    "Programação/Algoritmos/Enumeração exaustiva.md",
-    "Programação/Algoritmos/Binary Search.md",
-    "Programação/Algoritmos/Selection Sort.md",
-    "MIT - Courses/Introduction to Electrical Engineering and Computer Science/Aula 1",
-    "MIT - Courses/Introduction to Electrical Engineering and Computer Science",
-    "UFPE/2026.1/Circuitos 1/Teoremas de Rede",
-    "UFPE/2026.1/Circuitos 1/imagens",
     "UFPE/2026.1/Circuitos 1/imagens/circ1_001.png",
     "Pasted Image 20260102100912_169.png",
-    "Excalidraw",
-    "UFPE/2026.1/Circuitos 1/Redes Resistivas",
-    "UFPE/2026.1/Circuitos 1/A abstração de circuitos",
     "UFPE/2025.2/Física 3/imagens/fg3_024.png",
     "UFPE/2026.1/Cálculo 4/imagens/c4_001.png",
     "UFPE/2025.2/Física 3/imagens/fg3_023.png",
     "UFPE/2025.2/Sistemas Digitais/imagens/sd_040.png",
     "UFPE/2025.2/Sistemas Digitais/imagens/sd_039.png",
     "UFPE/2025.2/Sistemas Digitais/imagens/sd_038.png",
-    "UFPE/2025.2/Sistemas Digitais/imagens/sd_037.png",
-    "UFPE/2025.2/Sistemas Digitais/imagens/sd_036.png",
     "Untitled.canvas"
   ]
 }

@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 A força $\vec F_B$ sentida por uma partícula de carga $q$ e velocidade $\vec v$ submetida à influência de um [[Campo Magnético]] e em detrimento das características desse campo é dada por:
 
 $$
