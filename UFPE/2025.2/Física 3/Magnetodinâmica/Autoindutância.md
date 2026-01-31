@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Já vimos que o fenômeno da [[Indução mútua]] ocorre pelo [[Fluxo magnético]] devido a variação do [[Campo Magnético]] de um condutor, por conta de uma [[Corrente]] variável, sob um outro condutor, entretanto, um fenômeno parecido ocorre num condutor único, ou seja, sem necessidade da existência do segundo condutor, esse fenômeno é o que chamamos de **autoindutância** ou simplesmente **indutância**.
 
 Considere um bobina de $N$ espiras por onde passa uma corrente $I$ no sentido anti-horário

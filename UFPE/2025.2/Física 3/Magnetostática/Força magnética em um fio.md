@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Nós já sabemos que uma partícula carregada se movendo através de um [[Campo Magnético]] $\vec B$ experimenta uma [[Força magnética]] $\vec F_B$. Num fio condutor, uma [[Corrente|corrente]] $I$ nada mais é que o fluxo de partículas carregadas, logo, o fio deve experimentar alguma força magnética quando submetido a um campo magnético.
 
 Considerando um condutor cilíndrico (Um fio) de área de secção transversal $A$ e comprimento $ds$ com $n$ partículas de carga $q$ por unidade de volume, tem carga total $Q_{tot} = q(n\cdot A\cdot s)$, nesse caso a força total é:

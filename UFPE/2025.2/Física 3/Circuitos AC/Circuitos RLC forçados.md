@@ -1,6 +1,6 @@
 Quando uma [[Fontes de Corrente Alternada|Fonte de Corrente Alternada]] é conectada a um [[Circuitos RLC|Circuito RLC]], a energia fornecida pela fonte compensa a energia dissipada pelo [[Resistência|resistor]] e as oscilações não serão mais amortecidas, sendo então chamadas de **Oscilações forçadas** ou de **Oscilações Dirigidas**.
 
-Depois de um tempo inicial transitório, uma [[Corrente]] alternada irá fluir no circuito como resposta a fonte de tensão forçada. Essa corrente temo mesmo caráter senoidal da [[Potencial elétrico|tensão]] e é dada por:
+Depois de um tempo inicial transitório, uma [[Corrente]] alternada irá fluir no circuito como resposta a fonte de tensão forçada. Essa corrente temo mesmo caráter senoidal da [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] e é dada por:
 
 $$
 I(t) = I_0\sin{(\omega t - \phi)}
@@ -273,7 +273,7 @@ Agora, unimos o que construímos conceitualmente analisando cada elemento do nos
 \end{document}
 ```
 
-Como a [[Potencial elétrico|tensão]] da fonte é $V(t) = V_0\sin{(\omega t + \phi)}$ e utilizando LKT, obtemos:
+Como a [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] da fonte é $V(t) = V_0\sin{(\omega t + \phi)}$ e utilizando LKT, obtemos:
 
 $$
 V(t) = V_R(t) + V_L(t) + V_C(t) = RI + L\dfrac{dI}{dt} + \dfrac{q}{C} = V_0\sin{(\omega t + \phi)}

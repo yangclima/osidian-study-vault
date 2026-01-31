@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Os circuitos que vimos até agora eram chamados de [[Circuitos DC]] ou circuitos de corrente contínua já que a [[Corrente]] tinha um direção constante (Apesar de que nos [[Circuitos RC]] e nos [[Circuitos RL]] a corrente de carregamento tinha direção oposta a corrente de descarga), agora veremos o primeiro circuito onde a corrente muda de direção com um frequência bem definida, denominados de **Circuitos AC** ou circuitos de corrente alternada.
 
 Considere o seguinte circuito, como a chave $S$ inicialmente aberta, no qual um [[Capacitores|capacitor]] de capacitância $C$ inicialmente carregado com uma carga $Q_0$ está conectado a um [[Indutores|indutor]] inicialmente descarregado de indutância $L$.

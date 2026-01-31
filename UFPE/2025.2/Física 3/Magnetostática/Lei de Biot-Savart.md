@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 As correntes que surgem devido ao movimento das cargas em um condutor são uma fonte de [[Campo Magnético]]. Tomando $r$ como a distância entre um ponto $P$ qualquer onde estamos mensurando o campo magnético e a fonte de corrente e $\hat{r}$ como o vetor unitário que aponta dessa fonte para o ponto $P$, a lei de **Biot-Savart** define a contribuição de um elemento infinitesimal de corrente $Id\vec{s}$ como sendo:
 
 $$

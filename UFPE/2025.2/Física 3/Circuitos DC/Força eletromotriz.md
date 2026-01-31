@@ -2,7 +2,7 @@
 tags:
   - anky
 ---
-Num [[Circuitos DC|circuito elétrico]], em consequência do [[Potencial elétrico]] da bateria ocorre um [[Campo Elétrico]] $\vec E$ que exerce uma força sobre as cargas no fio produzindo uma [[Corrente|corrente]] que vai do polo positivo para o negativo, porém, o campo elétrico é conservativo e dessa forma não seria possível manter as cargas em circulação já que o potencial seria então $0$, por isso, a bateria precisa possuir alguma força $\vec f_s$ de origem não eletrostática que mova os portadores de carga na direção contrária ao campo $\vec E$ mantendo a diferença de potencial.
+Num [[Circuitos DC|circuito elétrico]], em consequência do [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico]] da bateria ocorre um [[Campo Elétrico]] $\vec E$ que exerce uma força sobre as cargas no fio produzindo uma [[Corrente|corrente]] que vai do polo positivo para o negativo, porém, o campo elétrico é conservativo e dessa forma não seria possível manter as cargas em circulação já que o potencial seria então $0$, por isso, a bateria precisa possuir alguma força $\vec f_s$ de origem não eletrostática que mova os portadores de carga na direção contrária ao campo $\vec E$ mantendo a diferença de potencial.
 
 No caso das baterias, essa força tem origem química e é responsável por manter a diferença de potencial e a consequente contínua circulação das cargas no circuito.
 

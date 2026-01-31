@@ -2,7 +2,7 @@
 tags:
   - anky
 ---
-Como vimos, um [[Circuitos DC|Circuito RC]] formado apenas por [[Corrente|resistores]] tem parâmetros constantes no tempo (Corrente e [[Potencial elétrico|diferença de potencial]]), entretanto, uma outra forma comum de construir circuitos inclui [[Capacitores]] que, como vimos, armazenam carga por meio do campo elétrico, dessa forma, incluir capacitores no nosso sistema faz com que os nossos parâmetros passem a variar no tempo já que a carga  no capacitor irá variar e com ela a diferença de potencial ao longo do mesmo. Como esse é um caso comum, damos um nome especial aos circuitos formados pela combinação de resistores e capacitores: Circuitos RC.
+Como vimos, um [[Circuitos DC|Circuito RC]] formado apenas por [[Corrente|resistores]] tem parâmetros constantes no tempo (Corrente e [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|diferença de potencial]]), entretanto, uma outra forma comum de construir circuitos inclui [[Capacitores]] que, como vimos, armazenam carga por meio do campo elétrico, dessa forma, incluir capacitores no nosso sistema faz com que os nossos parâmetros passem a variar no tempo já que a carga  no capacitor irá variar e com ela a diferença de potencial ao longo do mesmo. Como esse é um caso comum, damos um nome especial aos circuitos formados pela combinação de resistores e capacitores: Circuitos RC.
 
 Em geral, os circuitos  RC tem a seguinte forma (Se não tiverem, é possível fazer com que tenham usando [[Simplificação de circuitos]]):
 

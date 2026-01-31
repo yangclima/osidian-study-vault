@@ -2,7 +2,7 @@
 next: "[[Lei de Kirchhoff das Correntes]]"
 prev: "[[Representação de sinais]]"
 ---
-Grande parte das redes e sistemas elétricos podem ser modeladas simplesmente como **Redes resistivas**, isto é, redes compostas apenas por [[Componentes Ideais#Fontes Ideais de Tensão e Corrente|Fontes Ideais de Tensão e Corrente]] e [[Componentes Ideais#Resistores Ideais|Resistores]], nosso objetivo é então, desenvolver métodos sistemáticos que nos permitam analisar e resolver circuitos desse tipo, isto é, encontrar a [[Potencial elétrico|tensão]] e a [[Corrente]] em cada elemento do circuito.
+Grande parte das redes e sistemas elétricos podem ser modeladas simplesmente como **Redes resistivas**, isto é, redes compostas apenas por [[Componentes Ideais#Fontes Ideais de Tensão e Corrente|Fontes Ideais de Tensão e Corrente]] e [[Componentes Ideais#Resistores Ideais|Resistores]], nosso objetivo é então, desenvolver métodos sistemáticos que nos permitam analisar e resolver circuitos desse tipo, isto é, encontrar a [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] e a [[Corrente]] em cada elemento do circuito.
 
 Como havíamos definido, se os requisitos para a validade da nossa [[Abstração de Circuitos|Abstração de Circuitos de Parâmetros Agrupados]] forem atendidos, podemos evitar o complexo e dispendioso uso das [[Equações de Maxwell]], utilizando ao invés disso relações algébricas simples para relacionar as variáveis do nosso circuito, o que poderá ser feito através das [[Leis de Kirchhoff]], porém, para a plena compreensão dessas leis precisamos definir bem a nossa terminologia.
 

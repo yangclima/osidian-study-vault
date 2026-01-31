@@ -20,6 +20,6 @@ $$
 V(t) = V_0\sin(\omega t)
 $$
 
-Onde $V_0$ é o valor máximo que a [[Potencial elétrico|tensão]] da fonte assume, denominado **amplitude**, além disso, o argumento da função seno é $\phi_V = \omega t$ é denominado **fase da fonte de energia**. Como a função seno é periódica, isso significa que a tensão em um dado instante $t$ será exatamente a mesma num instante posterior $t^\prime = t + T$ onde $T$ é o **período**, nesse caso, definimos então a a **frequência** da fonte como $f = 1/T$ e então, a sua frequência angular é definida como $\omega = 2\pi f = 2\pi / T$.
+Onde $V_0$ é o valor máximo que a [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] da fonte assume, denominado **amplitude**, além disso, o argumento da função seno é $\phi_V = \omega t$ é denominado **fase da fonte de energia**. Como a função seno é periódica, isso significa que a tensão em um dado instante $t$ será exatamente a mesma num instante posterior $t^\prime = t + T$ onde $T$ é o **período**, nesse caso, definimos então a a **frequência** da fonte como $f = 1/T$ e então, a sua frequência angular é definida como $\omega = 2\pi f = 2\pi / T$.
 
 

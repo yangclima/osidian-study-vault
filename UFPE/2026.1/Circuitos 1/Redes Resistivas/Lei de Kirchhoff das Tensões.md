@@ -14,7 +14,7 @@ $$
 
 ----
 
-De forma alternativa, a LKT define que a [[Potencial elétrico|diferença de potencial]] entre dois nós é independente do caminho ao longo do qual esta diferença é acumulada.
+De forma alternativa, a LKT define que a [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|diferença de potencial]] entre dois nós é independente do caminho ao longo do qual esta diferença é acumulada.
 
 É importante ter em mente que dada a nossa [[Convenção de Variáveis Associadas]], as tensões tem sinais positivos quando atravessamos os componentes indo do terminal positivo para o negativo e sinais negativos caso contrário, um bom mnemônico para lidar com isso é atribuir a cada tensão o sinal do terminal que você primeiro encontrar ao atravessar um componente.
 

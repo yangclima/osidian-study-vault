@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Já sabemos, pela descrição quantitativa e qualitativa da [[Lei de Faraday]] que uma variação temporal do [[Fluxo magnético]] sobre uma espira acarreta o surgimento de uma [[Força eletromotriz]] induzida e portanto uma [[Corrente|corrente]] na espira, a lacuna agora é então entender o significado do sinal negativo na lei de Faraday e conseguir calcular em que direção a corrente induzida na espira deve atuar, essa lacuna é preenchida pela **lei de Lenz** que estabelece:
 
 > As correntes que surgem em função da variação temporal do [[Fluxo magnético]] produzem um [[Campo Magnético]] que se opõe a mudança no fluxo magnético que induz tais correntes

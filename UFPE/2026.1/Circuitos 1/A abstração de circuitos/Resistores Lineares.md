@@ -8,7 +8,7 @@ $$
 v = iR
 $$
 
-Isto é, a [[Potencial elétrico|tensão]] ao longo desses elementos é proporcional a corrente que passa por eles por uma constante de proporcionalidade $R$ chamada de **Resistência**. Esses elementos são representados pelo seguinte símbolo:
+Isto é, a [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] ao longo desses elementos é proporcional a corrente que passa por eles por uma constante de proporcionalidade $R$ chamada de **Resistência**. Esses elementos são representados pelo seguinte símbolo:
 
 ```tikz
 \usepackage{circuitikz}

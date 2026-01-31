@@ -15,7 +15,7 @@ $$
 \dfrac{1}{R_{eq}} = \dfrac{1}{R_1} + \dfrac{1}{R_2} + \cdots + \dfrac{1}{R_N}
 $$
 
-Assim, utilizando o fato de que a [[Potencial elétrico|tensão]] é a mesma para resistores em paralelo e que a [[Corrente]] é a mesma para resistores em série e que, por fim, determinando a corrente em um resistor, conseguimos definir a tensão nesse mesmo resistor e *vice-versa*, então, podemos utilizar facilmente esse método para encontrar as nossas variáveis de circuito.
+Assim, utilizando o fato de que a [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] é a mesma para resistores em paralelo e que a [[Corrente]] é a mesma para resistores em série e que, por fim, determinando a corrente em um resistor, conseguimos definir a tensão nesse mesmo resistor e *vice-versa*, então, podemos utilizar facilmente esse método para encontrar as nossas variáveis de circuito.
 
 Tomando por exemplo o seguinte circuito:
 

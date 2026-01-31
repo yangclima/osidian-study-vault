@@ -1,4 +1,4 @@
-Agora que passamos a trabalhar com [[Fontes de Corrente Alternada]] e [[Circuitos RLC forçados]] onde tanto [[Corrente]] como [[Potencial elétrico|tensão]] aparecem como grandezas variáveis no tempo é conveniente definir o que chamamos de **valor eficaz de tensão** e **valor eficaz de corrente**
+Agora que passamos a trabalhar com [[Fontes de Corrente Alternada]] e [[Circuitos RLC forçados]] onde tanto [[Corrente]] como [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] aparecem como grandezas variáveis no tempo é conveniente definir o que chamamos de **valor eficaz de tensão** e **valor eficaz de corrente**
 
 O valor eficaz é também chamado de RMS ou *root-mean-square*, a questão é que como a corrente e a tensão aparecem na forma de uma função senoidal, de nada adiantaria considerar suas médias $\langle I \rangle$ e $\langle V \rangle$ já que estas são zero devido ao comportamento da função seno:
 

@@ -11,7 +11,7 @@ Como vimos, o objetivo da [[Abstração de Circuitos]] é modelar os fenômenos 
 5. Armazenamento de energia
 
 # Fontes Ideais de Tensão e Corrente
-As fontes de energia, isto é, as [[Baterias]], podem ser representadas pelas **fontes ideais de [[Potencial elétrico|tensão]]** ou de **[[Corrente|corrente]]**.
+As fontes de energia, isto é, as [[Baterias]], podem ser representadas pelas **fontes ideais de [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]]** ou de **[[Corrente|corrente]]**.
 
 A fonte de tensão dependentes são aquelas que fornecem uma tensão variável no tempo e as independentes são as que fornecem uma tensão constante no tempo, representadas por:
 

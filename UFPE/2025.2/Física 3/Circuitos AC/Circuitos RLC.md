@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Agora que conhecemos o comportamento oscilatório dos [[Circuitos LC]], queremos verificar o que acontece adicionando um [[Resistência|resistor]] ao circuito o que fará com que a energia do sistema seja agora dispersada o que culmina num comportamento oscilatório amortecido.
 
 Considere o seguinte circuito:

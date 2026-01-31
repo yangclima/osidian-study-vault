@@ -8,7 +8,7 @@ $$
 v = iR
 $$
 
-Perceba porém, que a [[Corrente]] é um fluxo, possui uma direção e esta direção é a direção na qual as [[Carga|cargas positivas]] se movem, que, por sua vez é a direção que vai do maior para o menor [[Potencial elétrico]], assim, deve haver uma convenção quanto a direção da corrente nos componentes dos circuitos, assumimos então que a corrente entra no elemento no terminal considerado positivo em tensão.
+Perceba porém, que a [[Corrente]] é um fluxo, possui uma direção e esta direção é a direção na qual as [[Carga|cargas positivas]] se movem, que, por sua vez é a direção que vai do maior para o menor [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico]], assim, deve haver uma convenção quanto a direção da corrente nos componentes dos circuitos, assumimos então que a corrente entra no elemento no terminal considerado positivo em tensão.
 
 A partir dessa convenção, definimos a potência consumida por um componente como:
 

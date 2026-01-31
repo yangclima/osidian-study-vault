@@ -4,7 +4,7 @@ tags:
 ---
 Um capacitor é um aparato capaz de armazenar [[Carga]] através do campo elétrico e é composto basicamente por dois condutores que possuem cargas iguais em magnitude e opostas em sinal. 
 
-Durante o processo de carregamento de um **capacitor**, uma carga $Q$ é transferida de um condutor para o outro (considerando que os dois estão inicialmente neutros), assim um adquire uma carga $+Q$ e o outro uma carga $-Q$, de tal forma que surge no capacitor uma [[Potencial elétrico|diferença de potencial]] $\Delta V$ com o condutor positivamente carregado em uma potencial maior que o negativamente carregado.
+Durante o processo de carregamento de um **capacitor**, uma carga $Q$ é transferida de um condutor para o outro (considerando que os dois estão inicialmente neutros), assim um adquire uma carga $+Q$ e o outro uma carga $-Q$, de tal forma que surge no capacitor uma [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|diferença de potencial]] $\Delta V$ com o condutor positivamente carregado em uma potencial maior que o negativamente carregado.
 
 Experimentalmente, descobriu-se que a magnitude da carga armazenada em um capacitor é diretamente proporcional a magnitude da diferença de potencial $\Delta V$ entre os condutores por uma constante de proporcionalidade $C$ chamada de **capacitância** (Por convenção, positiva) que pode ser fisicamente interpretada como a capacidade de um capacitor de armazenar carga elétrica para uma dada diferença de potencial, portanto, temos:
 
@@ -22,7 +22,7 @@ Nos diagramas de circuitos elétricos os capacitores são representados da segui
 
 ![[fg3_008.png|center]]
 
-E os principais tipos de capacitores são os **capacitores de placas paralelas**, **capacitores esféricos** e **capacitores cilíndricos**, cada um tem a sua própria fórmula de capacitância obtida encontrando-se os valores para a [[Carga]] e para o [[Potencial elétrico]] ($C = Q/|\Delta V|$) através do [[Campo Elétrico]], em geral, utilizando a [[Lei de Gauss]]. Além disso, vale a pena ter em mente que para a utilização da lei de Gauss nesse sentido é necessário desconsiderar os efeitos de borda, variações de campo elétrico que surgem nas bordas dos capacitores de placas paralelas e nas extremidades dos capacitores cilíndricos mas que são desprezíveis para dimensões macroscópicas de capacitores.
+E os principais tipos de capacitores são os **capacitores de placas paralelas**, **capacitores esféricos** e **capacitores cilíndricos**, cada um tem a sua própria fórmula de capacitância obtida encontrando-se os valores para a [[Carga]] e para o [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico]] ($C = Q/|\Delta V|$) através do [[Campo Elétrico]], em geral, utilizando a [[Lei de Gauss]]. Além disso, vale a pena ter em mente que para a utilização da lei de Gauss nesse sentido é necessário desconsiderar os efeitos de borda, variações de campo elétrico que surgem nas bordas dos capacitores de placas paralelas e nas extremidades dos capacitores cilíndricos mas que são desprezíveis para dimensões macroscópicas de capacitores.
 
 Uma das grandes utilidades dos capacitores é o armazenamento de energia que ocorre em função do armazenamento de carga e da presença de uma diferença de potencial, nesse caso, essa energia, por conservação, equivale ao trabalho realizado para transferir a carga entre os condutores, portanto:
 

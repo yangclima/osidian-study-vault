@@ -21,3 +21,5 @@ $\dfrac{dy}{dx} = -\dfrac{x}{y}$. Feito o campo de direção da função, querem
 
 
 A construção desses campos pode ser feita tanto computacionalmente quanto manualmente, porém, manualmente, é mais simples que este campo seja construído através da construção de isoclines, ou seja, traçando no plano os locus geométricos para os quais a inclinação da função deve ser a mesma. 
+
+A ideia é que depois de traçar os isoclines criando então o campo de inclinações possamos traçar as curvas integrais ou curvas de solução da equação diferencial encontrando então soluções para ela.

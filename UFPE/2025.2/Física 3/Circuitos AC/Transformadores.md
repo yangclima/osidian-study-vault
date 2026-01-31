@@ -1,4 +1,4 @@
-Um transformador é um dispositivo que se utiliza do fenômeno da [[Indução mútua]] para aumentar ou diminuir a [[Potencial elétrico|tensão]] alternada num circuito AC.
+Um transformador é um dispositivo que se utiliza do fenômeno da [[Indução mútua]] para aumentar ou diminuir a [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] alternada num circuito AC.
 
 Tipicamente, esses dispositivos são compostos por duas bobinas envolvendo um núcleo de ferro, a primeira bobina, denominada **bobina primária** possui $N_1$ espiras e está conectada a uma [[Fontes de Corrente Alternada|fonte de corrente alternada]] enquanto a segunda, denominada **bobina secundária** possui $N_2$ espiras e está conectada a uma carga de [[Resistência|resistência]] $R_2$ (Aqui este resistor faz o papel de uma carga qualquer, um outro dispositivo conectado ao transformador), o núcleo de ferro, por sua vez, cumpre o papel de amplificar o [[Campo Magnético]] das espiras e de conduzir o fluxo magnético entre estas bobinas praticamente sem nenhum "vazamento" de fluxo.
 

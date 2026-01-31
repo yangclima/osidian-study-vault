@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Assim como vimos os chamados [[Dipolo elétrico|dipolos elétricos]], esses objetos tem sua versão magnética, extremamente relevante para os nossos estudos da magnetostática, ainda mais que no caso dos dipolos elétricos. 
 
 Quando temos um dipolo elétrico, podemos tranquilamente separar os seus polos, obtendo duas cargas opostas e de mesma magnitude, entretanto, como vimos, separando uma barra magnética (Um dos mais simples casos de dipolo magnético) obteremos dois dipolos magnéticos e não dois monopolos como no caso elétrico, isso pode ser matematicamente descrito pela chamada Lei de Gauss do Magnetismo, uma versão da [[Lei de Gauss]] que já conhecemos:

@@ -2,7 +2,7 @@
 tags:
   - anky
 ---
-Experimentalmente foi obtido que a [[Corrente]] em um condutor é proporcional ao [[Potencial elétrico]] aplicado a esse condutor, ou seja:
+Experimentalmente foi obtido que a [[Corrente]] em um condutor é proporcional ao [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico]] aplicado a esse condutor, ou seja:
 
 $$
 I \propto \Delta V

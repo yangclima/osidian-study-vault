@@ -1,4 +1,4 @@
-Como vimos, num [[Circuitos RLC forçados|Circuito RLC forçado]], por exemplo, o módulo da [[Corrente]] é definida através da razão entre [[Potencial elétrico|tensão]] e [[Impedância]], ou seja:
+Como vimos, num [[Circuitos RLC forçados|Circuito RLC forçado]], por exemplo, o módulo da [[Corrente]] é definida através da razão entre [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] e [[Impedância]], ou seja:
 
 $$
 I_0 = \dfrac{V_0}{\sqrt{(R)^2 + \left(\omega L-\dfrac{1}{\omega C}\right)^2}}

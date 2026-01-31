@@ -4,7 +4,7 @@ tags:
 ---
 Alguns [[Capacitores]] tem os espaços entre os condutores preenchidos por materiais que possuem propriedades específicas capazes de aumentar a sua capacitância, esses materiais são chamados de dielétricos e o aumento da capacitância em função da sua adição pode ser explicado do nível molecular.
 
-Em geral, sob efeito de um campo elétrico, os materiais dielétricos possuem dipolos elétricos que podem ser permanentes (Devido a própria estrutura atômica dos materiais) ou induzidos pelo [[Campo Elétrico]] gerado pelas placas, esses dipolos são capazes de atenuar a ação do campo elétrico ocasionando uma diminuição do [[Potencial elétrico]] entre os condutores para uma mesma carga armazenada, sendo assim, a capacitância aumenta seguindo a relação:
+Em geral, sob efeito de um campo elétrico, os materiais dielétricos possuem dipolos elétricos que podem ser permanentes (Devido a própria estrutura atômica dos materiais) ou induzidos pelo [[Campo Elétrico]] gerado pelas placas, esses dipolos são capazes de atenuar a ação do campo elétrico ocasionando uma diminuição do [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico]] entre os condutores para uma mesma carga armazenada, sendo assim, a capacitância aumenta seguindo a relação:
 
 $$
 C = C_0 \kappa_e

@@ -21,7 +21,7 @@ to[R=$R_2$] (3,3) -- (0,3);
 
 Só nesse simples circuito, temos $2$ equações independentes provenientes da LKC e $2$ equações independentes provenientes de LKT, além das $7$ [[Lei de Elemento|Leis de elemento]], ou seja, uma sistema linear de $8$ equações que precisa ser resolvido, percebemos então que é essencial desenvolver métodos mais poderosos para resolver esse tipo de problema.
 
-O primeiro método que veremos é a **Análise nodal** que baseia-se na [[Potencial elétrico|Diferença de potencial]] entre dois nós para encontrar as variáveis do circuito.
+O primeiro método que veremos é a **Análise nodal** que baseia-se na [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|Diferença de potencial]] entre dois nós para encontrar as variáveis do circuito.
 
 Lembre-se que para definir o potencial elétrico em um ponto do espaço, precisamos primeiro de uma referência, um ponto que consideramos como potencial $0$ e então, com base nessa referência é que mensuramos a diferença de potencial entre dois pontos e portanto a tensão entre eles que dada a devida lei de elemento nos dá também a corrente.
 
@@ -158,7 +158,11 @@ O que pode ser feito para todos os outros elementos, perceba então que precisam
 Sintetizamos então o processo de análise nodal através dos seguintes passos:
 1. Defina o seu nó de referência, onde assumiremos que $e = 0$ e simbolizaremos através de um $T$ invertido, escolher convenientemente o nó pode facilitar bastante o processo, prefira nós conectados ao máximo de elementos possível e de forma ainda mais importante, escolha nós que estejam conectados ao máximo de fontes de tensão.
 2. Identifique então todos os outros nós onde a tensão é desconhecida rotulando-os, normalmente denotamos esses nós por $e_1, e_2, \cdots e_n$
-3. Escreva as equações da [[Lei de Kirchhoff das Correntes]] para cada um dos nós de tensão desconhecida, para evitar erros, você pode assumir sempre que todas as correntes estão saindo do nó e tomar estas por positivas, assim, cada [[Potencial elétrico|Diferença de potencial]] poderá ser escrito como a tensão de nó do nó atual mesmo a tensão de nó do outro terminal, além disso, utilizar a [[Condutância]] dos [[Resistores Lineares]] ao invés de sua [[Resistência]] pode simplificar as coisas
+3. Escreva as equações da [[Lei de Kirchhoff das Correntes]] para cada um dos nós de tensão desconhecida, para evitar erros, você pode assumir sempre que todas as correntes estão saindo do nó e tomar estas por positivas, assim, cada [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|Diferença de potencial]] poderá ser escrito como a tensão de nó do nó atual mesmo a tensão de nó do outro terminal, além disso, utilizar a [[Condutância]] dos [[Resistores Lineares]] ao invés de sua [[Resistência]] pode simplificar as coisas
 4. Resolva as equações obtendo todas as tensões de nó que faltam.
 5. Utilizando os valores obtidos, volte e utilize a [[Lei de Elemento]] de cada elemento para encontrar a tensão e a [[Corrente]] em cada elemento.
 
+Algo interessante é que as expressões obtidas para as tensões de nó seguem sempre duas regras básicas:
+
+1. Todos os termos do denominador possuem o mesmo sinal o que faz com que o denominador não possa ser zero para valores não nulos das condutância e portanto a tensão de nó não possa ter um valor infinito para valores finitos de tensões nas fontes.
+2. No numerador, cada termo é composto por um produto entre uma tensão de fonte e um fator resistivo (Condutivo), não aparecem produtos de tensões.

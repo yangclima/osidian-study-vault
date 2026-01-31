@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Suponha duas bobinas colocadas numa região próxima uma da outra, a primeira tem $N$ espiras e carrega uma corrente $I_1$, o que dá origem a um [[Campo Magnético]] $\vec B_1$ e a segunda onde, devido a proximidade com a primeira bobina algumas linhas de campo a atravessam.
 
 Seja então $\Phi_{12}$ o fluxo magnético através de uma espira da segunda bobina, fazendo com que a corrente $I_1$ varie no tempo o campo magnético $\vec B_1$ deve também variar fazendo por consequência o fluxo magnético $\Phi_{12}$ apresentar uma variação no tempo, [[Lei de Faraday|induzindo]] então uma [[Força eletromotriz]] $\varepsilon_{12}$ na segunda bobina:

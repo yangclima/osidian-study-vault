@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Uma espira é basicamente um loop de corrente formado por um por um fio condutor, assim, como já sabemos que existe uma [[Força magnética em um fio]] devido a corrente $I$ que passa nesse fio, considerando uma espira quadrada no plano $xy$ e um campo magnético $\vec B = B\hat{i}$ na direção de $x$
 
 ![[fg3_018.png]]

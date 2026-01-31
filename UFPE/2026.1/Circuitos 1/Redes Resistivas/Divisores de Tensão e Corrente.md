@@ -2,7 +2,7 @@
 next: "[[Método Intuitivo de Análise de Circuitos]]"
 prev: "[[Método Básico de Análise de Circuitos]]"
 ---
-Dois tipos de circuito muito comuns e que tomaremos como primitivas no nosso estudo a respeito de circuitos, visto que estes aparecem na construção de outros circuitos mais complexos são os circuitos **Divisores de [[Potencial elétrico|Tensão]]** e os circuitos **Divisores de [[Corrente]]**.
+Dois tipos de circuito muito comuns e que tomaremos como primitivas no nosso estudo a respeito de circuitos, visto que estes aparecem na construção de outros circuitos mais complexos são os circuitos **Divisores de [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|Tensão]]** e os circuitos **Divisores de [[Corrente]]**.
 
 # Divisores de Tensão
 O circuito **divisor de tensão** é formado por uma [[Baterias|fonte de tensão]] conectada a dois ou mais [[Resistores Lineares]] em série a exemplo do seguinte:

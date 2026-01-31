@@ -11,7 +11,7 @@ Imagine um circuito simples, uma lâmpada conectada com uma bateria e pense o qu
 
 A resposta está na **Abstração de circuitos de parâmetros agrupados**, que se baseia na chamada **Disciplina de discretização**, também chamada de *lumping*, a ideia é pegar características físicas que estão distribuídas no espaço e concentrá-la em um único ponto ou componente idealizado e realizar com eles cálculos se atendo apenas a valores específicos e relevantes e não mais com as características internas de cada dispositivos elétrico.
 
-Por exemplo, no caso do nosso circuito da lâmpada e da bateria, podemos substituir a lâmpada por um elemento discreto, nesse caso, um resistor, cuja única grandeza física relevante é a [[Resistência]] e substituir a bateria por um fonte ideal de tensão, cuja única característica física relevante é a [[Potencial elétrico|tensão nominal]], então, poderíamos prever o comportamento do circuito através da simples relação
+Por exemplo, no caso do nosso circuito da lâmpada e da bateria, podemos substituir a lâmpada por um elemento discreto, nesse caso, um resistor, cuja única grandeza física relevante é a [[Resistência]] e substituir a bateria por um fonte ideal de tensão, cuja única característica física relevante é a [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão nominal]], então, poderíamos prever o comportamento do circuito através da simples relação
 
 $$
 I = \dfrac{V}{R}

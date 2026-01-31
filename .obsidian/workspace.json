@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae6a9a276a36f94",
+        "id": "4d775198d1cbcc53",
         "type": "tabs",
         "children": [
           {
-            "id": "db2ea06a03912dba",
+            "id": "5a8a05c1a3527eb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "UFPE/2026.1/Eletromagnetismo/Introdução a eletrodinâmica/Conservação de Carga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Conservação de Carga"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "terce",
+                "query": "regra da cade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "UFPE/2025.2/Cálculo 3/Cálculo Vetorial - Curvas/Teorema fundamental das integrais de linha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Teorema fundamental das integrais de linha"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "UFPE/2025.2/Cálculo 3/Cálculo Vetorial - Curvas/Teorema fundamental das integrais de linha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Teorema fundamental das integrais de linha"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "UFPE/2025.2/Cálculo 3/Cálculo Vetorial - Curvas/Teorema fundamental das integrais de linha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Teorema fundamental das integrais de linha"
             }
           }
         ],
@@ -175,46 +175,47 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "faec19ab6ecff774",
+  "active": "5a8a05c1a3527eb3",
   "lastOpenFiles": [
-    "Leituras/Feynman Lectures I/Tempo e Distância/Distância.md",
-    "Leituras/Feynman Lectures I/Feynman Lectures I.md",
-    "Leituras/Feynman Lectures I/Tempo e Distância/Tempo.md",
+    "UFPE/2026.1/Eletromagnetismo/Introdução a eletrodinâmica/Equações de Maxwell no domínio do tempo.md",
+    "UFPE/2026.1/Eletromagnetismo/Introdução a eletrodinâmica/Ondas eletromagnéticas no domínio do tempo.md",
+    "UFPE/2026.1/Eletromagnetismo/Eletromagnetismo.md",
+    "UFPE/2025.1/Cálculo 2/Cálculo 2.md",
+    "UFPE/2025.1/Cálculo 2/Unidade 1/Regra da cadeia para funções de mais de uma variável.md",
+    "MIT - Courses/Single Variable Calculus/Derivadas/Métodos de resolução de derivadas.md",
+    "UFPE/2025.2/Física 3/Ondas Eletromagnéticas/Equações de Maxwell.md",
+    "UFPE/2026.1/Eletromagnetismo/Introdução a eletrodinâmica/Conservação de Carga.md",
+    "UFPE/2025.2/Física 3/Ondas Eletromagnéticas/Ondas Eletromagnéticas Planas.md",
+    "UFPE/2025.2/Física 3/Ondas Eletromagnéticas/Vetor de Poynting.md",
+    "UFPE/2026.1/Eletromagnetismo/Introdução/Lei de Gauss para Cargas.md",
+    "UFPE/2025.2/Física 3/Ondas Eletromagnéticas/Corrente de deslocamento.md",
+    "UFPE/2025.2/Física 3/Magnetostática/Lei de Ampére.md",
+    "UFPE/2026.1/Eletromagnetismo/Introdução/Lei de Ampére no regime magnetostático.md",
+    "UFPE/2025.2/Física 3/Corrente elétrica/Corrente.md",
+    "UFPE/2025.2/Materiais Elétricos/Propriedades Elétricas/Condutividade e resistividade.md",
+    "UFPE/2025.2/Física 3/Corrente elétrica/Modelo de Drude.md",
+    "UFPE/2026.1/Eletromagnetismo/Introdução/Lei da força de Lorentz.md",
+    "UFPE/2026.1/Eletromagnetismo/Introdução/Diferença de Potencial.md",
+    "UFPE/2026.1/Eletromagnetismo/Introdução/Linhas de Campo.md",
+    "UFPE/2026.1/Eletromagnetismo/Introdução a eletrodinâmica",
+    "UFPE/2025.2/Cálculo 3/Cálculo Vetorial - Superfícies/Teorema do Divergente.md",
+    "UFPE/2026.1/Eletromagnetismo/Introdução",
+    "UFPE/2025.2/Cálculo 3/Cálculo Vetorial - Superfícies/Teorema de Stokes.md",
+    "UFPE/2025.2/Cálculo 3/Cálculo Vetorial - Curvas/Parametrização de curvas.md",
+    "UFPE/2026.1/Eletromagnetismo/Tensão.md",
+    "UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico.md",
+    "UFPE/2025.2/Física 3/Eletrostática/Capacitores.md",
+    "MIT - Courses/Introduction to Electrical Engineering and Computer Science/Módulo 1",
+    "Leituras/Feynman Lectures I/A teoria da Gravitação",
+    "Leituras/Feynman Lectures I/Probabilidade",
+    "Leituras/Feynman Lectures I/imagens/fey_003.png",
     "Leituras/Feynman Lectures I/imagens/fey_002.png",
     "Leituras/Feynman Lectures I/Tempo e Distância",
-    "Leituras/Feynman Lectures I/Conservação de Energia/Outros tipos de energia.md",
-    "UFPE/2025.1/Química Geral 1/Entropia/Terceira lei da termodinâmica.md",
-    "Leituras/Feynman Lectures I/Física Básica/Núcleos e Partículas.md",
-    "Leituras/Feynman Lectures I/Conservação de Energia/Conservação de Energia.md",
-    "Leituras/Feynman Lectures I/Conservação de Energia/Energia Cinética.md",
-    "Leituras/Feynman Lectures I/Conservação de Energia/Retórica da energia Potencial Gravitacional.md",
-    "index.md",
-    "Leituras/Ultraaprendizado/Foco.md",
-    "Leituras/Data Science do 0/Data Science do 0.md",
     "Leituras/Feynman Lectures I/imagens",
     "Leituras/Feynman Lectures I/imagens/fey_001.png",
     "Leituras/Feynman Lectures I/Conservação de Energia",
-    "UFPE/2025.1/Física Geral 2/Gravitação/Energia Potencial Gravitacional.md",
-    "Leituras/Feynman Lectures I/Física Básica/Física Quântica.md",
-    "Leituras/Feynman Lectures I/Física Básica/A física antes de 1920.md",
     "Leituras/Feynman Lectures I/Física Básica",
-    "Leituras/Feynman Lectures I/Átomos em movimento/Reações químicas.md",
-    "Leituras/Feynman Lectures I/Átomos em movimento/Processos Atômicos.md",
-    "UFPE/2025.1/Química Geral 1/Equilíbrio Químico/Equilíbrio Químico.md",
-    "UFPE/2025.1/Química Geral 1/Equilíbrio Químico/Descrição termodinâmica do equilíbrio.md",
-    "Leituras/Feynman Lectures I/Átomos em movimento/A hipótese atômica.md",
-    "UFPE/2025.1/Física Geral 2/Termodinâmica/Gases ideais.md",
-    "UFPE/2025.1/Física Geral 2/Física Geral 2.md",
     "Leituras/Feynman Lectures I/Átomos em movimento",
-    "Leituras/Feynman Lectures I",
-    "UFPE/2025.2/Física 3/Magnetostática/Campo Magnético.md",
-    "UFPE/2025.2/Física 3/Física Geral 3.md",
-    "UFPE/2025.2/Física 3/Magnetostática/Lei de Gauss para o campo magnético.md",
-    "UFPE/2025.2/Física 3/Magnetostática/Fluxo magnético.md",
-    "Excalidraw",
-    "Programação/Java/Java Básico",
-    "Leituras/Data Science do 0/Introdução",
-    "Programação/R/Introdução a linguagem R",
     "UFPE/2026.1/Circuitos 1/imagens/circ1_001.png",
     "Pasted Image 20260102100912_169.png",
     "UFPE/2025.2/Física 3/imagens/fg3_024.png",
@@ -222,7 +223,6 @@
     "UFPE/2025.2/Física 3/imagens/fg3_023.png",
     "UFPE/2025.2/Sistemas Digitais/imagens/sd_040.png",
     "UFPE/2025.2/Sistemas Digitais/imagens/sd_039.png",
-    "UFPE/2025.2/Sistemas Digitais/imagens/sd_038.png",
     "Untitled.canvas"
   ]
 }

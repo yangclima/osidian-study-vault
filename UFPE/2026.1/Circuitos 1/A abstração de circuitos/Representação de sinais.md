@@ -4,7 +4,7 @@ next: "[[Terminologia]]"
 ---
 Quando pensamos em circuitos, vem logo a nossa mente a ideia de transferir e fornecer energia para a operação de dispositivos, mas uma das mais amplas utilidades dos circuitos é também a representação e processamento de sinais, essa é a ideia que abre caminho para aplicações como computadores.
 
-A ideia é simples, queremos representar informações através de sinais elétricos, ou seja, como [[Potencial elétrico|tensão]] e [[Corrente]] e então utilizar redes de [[Componentes Ideais|componentes elétricos]] para processar e modificar os sinais convenientemente gerando um resultado agradável.
+A ideia é simples, queremos representar informações através de sinais elétricos, ou seja, como [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] e [[Corrente]] e então utilizar redes de [[Componentes Ideais|componentes elétricos]] para processar e modificar os sinais convenientemente gerando um resultado agradável.
 
 # Sinais analógicos
 A maioria das grandezas do mundo real são analógicas, surgem em intervalos contínuos de valores dessa maneira, a maioria dos circuitos que interage com o mundo real precisa ser capaz de processar esse tipo de sinal.

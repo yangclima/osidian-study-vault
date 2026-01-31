@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Como vimos, uma [[Corrente|corrente]] fluindo em um condutor gera um [[Campo Magnético]], entretanto, olhando mais a fundo, microscopicamente, essa corrente nada mais é que um série de cargas colocadas em movimento pela ação de um [[Campo Elétrico]], então, considerando que podemos gerar um campo magnético aplicando um campo elétrico num condutor, poderíamos então gerar um campo elétrico aplicando um campo magnético nesse mesmo condutor? Perceba que essa pergunta é sobre a simetria desse fenômeno físico.
 
 Essa resposta foi respondida por **Michael Faraday** em 1831, e a resposta é positiva, ao aplicarmos sobre um condutor um **campo magnético que VARIA NO TEMPO**, um campo elétrico será gerado e causará o movimento das [[Carga|cargas]] presentes no condutor, e portanto, uma [[Corrente|corrente]] será induzida, esse fenômeno recebe o nome de **indução eletromagnética**.
@@ -22,4 +26,4 @@ $$
 
 Essa notação é importante por que tira de cena a necessidade da existência de uma espira ou material condutor para que o fenômeno se manifeste e nos dá consciência de a lei de Faraday é muito mais do que apenas sobre uma corrente induzida, e sim sobre uma relação intrínseca entre o campo magnético e o campo elétrico, independente do material, meio ou espaço.
 
-Um outro fato a se atentar é que quando a derivada temporal do fluxo magnético é diferente de $0$, a [[Integrais de linha|integral de linha]] do campo elétrico sobre uma curva fechada é também diferente de $0$ o que pode parecer estranho, já que todos os [[Campo Elétrico|campos elétricos]] que vimos até agora eram conservativos, afinal $\vec E$ é ou não conservativo? A resposta é "depende", os campos elétricos eletrostáticos, ou seja, gerados por cargas estacionárias, é conservativo, seu [[Rotacional]] é nulo, para os campo elétricos eletrodinâmicos, isso não é bem verdade, o rotacional é não nulo e portanto, o campo não é conservativo.
+Um outro fato a se atentar é que quando a derivada temporal do fluxo magnético é diferente de $0$, a [[Integrais de linha|integral de linha]] do campo elétrico sobre uma curva fechada é também diferente de $0$ o que pode parecer estranho, já que todos os [[Campo Elétrico|campos elétricos]] que vimos até agora eram conservativos, afinal $\vec E$ é ou não conservativo? A resposta é "depende", os campos elétricos eletrostáticos, ou seja, gerados por cargas estacionárias, são conservativos, seu [[Rotacional]] é nulo, para os campo elétricos eletrodinâmicos, isso não é bem verdade, o rotacional é não nulo e portanto, o campo não é conservativo.

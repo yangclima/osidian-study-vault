@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Semelhante a [[Lei de Gauss]] para ao [[Campo Elétrico]], para o campo [[Campo Magnético]] a chamada **Lei de Ampére** desempenha um papel fundamental para permitir o cálculo mais rápido do campo magnético para corpos que possuem um elevado grau de simetria,  essa lei pode ser matematicamente enunciada como:
 
 $$

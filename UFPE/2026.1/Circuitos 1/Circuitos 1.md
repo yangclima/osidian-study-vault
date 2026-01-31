@@ -19,5 +19,11 @@ PERIODO: 4
 4. [[Método Básico de Análise de Circuitos]]
 5. [[Divisores de Tensão e Corrente]]
 6. [[Método Intuitivo de Análise de Circuitos]]
+7. [[Fontes dependentes]]
 # 3 - Teoremas de Rede
 1. [[Análise Nodal]]
+2. [[Fontes de tensão flutuantes]]
+3. [[Teorema da superposição]]
+4. [[Teorema de Thévenin]]
+5. [[Teorema de Norton]]
+6. 

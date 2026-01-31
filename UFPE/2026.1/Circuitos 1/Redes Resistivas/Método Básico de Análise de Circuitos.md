@@ -2,7 +2,7 @@
 next: "[[Divisores de Tensão e Corrente]]"
 prev: "[[Lei de Kirchhoff das Tensões]]"
 ---
-Agora que conhecemos a [[Lei de Kirchhoff das Tensões]] e a [[Lei de Kirchhoff das Correntes]] podemos desenvolver o nosso primeiro método de análise de circuitos, a ideia é simples, queremos montar as equações provenientes da LKC, LKT e das [[Lei de Elemento|Leis de Elemento]] e então resolver um [[Sistemas lineares|Sistema Linear]] para encontrar as nossas variáveis de circuito, isto é, a [[Potencial elétrico|tensão]] e a [[Corrente]] ao longo de cada elemento do nosso circuito. Seguimos então os seguintes passos:
+Agora que conhecemos a [[Lei de Kirchhoff das Tensões]] e a [[Lei de Kirchhoff das Correntes]] podemos desenvolver o nosso primeiro método de análise de circuitos, a ideia é simples, queremos montar as equações provenientes da LKC, LKT e das [[Lei de Elemento|Leis de Elemento]] e então resolver um [[Sistemas lineares|Sistema Linear]] para encontrar as nossas variáveis de circuito, isto é, a [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão]] e a [[Corrente]] ao longo de cada elemento do nosso circuito. Seguimos então os seguintes passos:
 
 1. Defina arbitrariamente a polaridade de cada elemento no seu circuito, rotulando cada elemento com uma tensão de ramo e de maneira consistente com a [[Convenção de Variáveis Associadas]], defina as correntes de ramo de cada elemento.
 2. Escreva a Lei de Elemento para cada um dos Elementos no seu circuito.

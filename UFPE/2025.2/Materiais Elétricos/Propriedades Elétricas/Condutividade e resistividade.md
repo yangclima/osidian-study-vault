@@ -4,7 +4,7 @@ $$
 R = \dfrac{\rho\cdot L}{A}
 $$
 
-Onde $A$ é secção transversal do condutor e $L$ a distância entre dois pontos na qual está sendo aplicada a [[Potencial elétrico|tensão elétrica]], a resistência é então uma propriedade que depende do material do condutor e também do seu formato, de tal forma que é um conceito chave na relação definida entre tensão e corrente definida pela lei de Ohm:
+Onde $A$ é secção transversal do condutor e $L$ a distância entre dois pontos na qual está sendo aplicada a [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|tensão elétrica]], a resistência é então uma propriedade que depende do material do condutor e também do seu formato, de tal forma que é um conceito chave na relação definida entre tensão e corrente definida pela lei de Ohm:
 
 $$
 RI = U

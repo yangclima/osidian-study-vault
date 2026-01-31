@@ -1,6 +1,10 @@
+---
+tags:
+  - anky
+---
 Os equipamentos elétricos passivos sobre os quais atua o fenômeno da [[Autoindutância]] ou autoindutância são denominados **indutores**, estes por sua vez, devido ao fenômeno citado apresentam uma resistência à passagem da corrente sendo portanto necessária a atuação de uma fonte externa de [[Força eletromotriz]] para que se estabeleça uma corrente através desses equipamentos, assim, pelo teorema do trabalho-energia, concluímos que **energia pode ser armazenada num indutor**, assim, estes indutores podem efetuar nos sistemas um papel semelhante ao dos [[Capacitores]].
 
-A [[Potência]] ou taxa na qual a força eletromotriz externa $\varepsilon_{ext}$ realiza trabalho para superar a força eletromotriz auto induzida $\varepsilon_L$ e passar a corrente $I%4 no indutor é:
+A [[Potência]] ou taxa na qual a força eletromotriz externa $\varepsilon_{ext}$ realiza trabalho para superar a força eletromotriz auto induzida $\varepsilon_L$ e passar a corrente $I$ no indutor é:
 
 $$
 P_L = \dfrac{dW_{ext}}{dt} = I\cdot\varepsilon_{ext}

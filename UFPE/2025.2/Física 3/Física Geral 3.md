@@ -11,7 +11,7 @@ PERIODO: 3
 4. [[Campo Elétrico]]
 5. [[Carga e campo de corpos não pontuais]]
 6. [[Lei de Gauss]]
-7. [[Potencial elétrico]]
+7. [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico]]
 8. [[Dipolo elétrico]]
 9. [[Condutores]]
 10. [[Capacitores]]
@@ -36,7 +36,7 @@ PERIODO: 3
 5. [[Lei de Biot-Savart]]
 6. [[Campo magnético de uma carga pontual]]
 7. [[Dipolo Magnético]]
-8. [[Lei de Ampére]]
+8. [[UFPE/2025.2/Física 3/Magnetostática/Lei de Ampére]]
 9. [[Fluxo magnético]]
 10. [[Lei de Gauss para o campo magnético]]
 # Magnetodinâmica

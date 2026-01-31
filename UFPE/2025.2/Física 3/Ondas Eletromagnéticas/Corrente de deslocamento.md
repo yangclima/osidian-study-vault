@@ -1,4 +1,4 @@
-Vimos que a [[Lei de Ampére]] define que a [[Integrais de linha|integral de linha]] do campo magnético sob uma curva fechada arbitrária é proporcional ao [[Corrente|fluxo de carga]] passando através de uma superfície delimitada por essa curva por uma constante de proporcionalidade $\mu_0$, ou seja:
+Vimos que a [[UFPE/2025.2/Física 3/Magnetostática/Lei de Ampére]] define que a [[Integrais de linha|integral de linha]] do campo magnético sob uma curva fechada arbitrária é proporcional ao [[Corrente|fluxo de carga]] passando através de uma superfície delimitada por essa curva por uma constante de proporcionalidade $\mu_0$, ou seja:
 
 $$
 \oint\vec B\cdot d\vec s = \mu_0I_{env}

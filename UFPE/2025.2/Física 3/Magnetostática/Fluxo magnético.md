@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Assim como definimos o **fluxo elétrico** ou fluxo do [[Campo Elétrico]] para a definição da [[Lei de Gauss]], podemos definir também, o que será útil para algumas definições posteriores, o **fluxo magnético** ou **fluxo do [[Campo Magnético]]**, definido da seguinte maneira:
 
 $$

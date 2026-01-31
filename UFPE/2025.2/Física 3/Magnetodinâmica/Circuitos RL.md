@@ -1,3 +1,7 @@
+---
+tags:
+  - anky
+---
 Como já vimos, quando temos um [[Campo Magnético]] variando no tempo em um [[Circuitos DC|Circuito]] fechado a integral do [[Campo Elétrico]] ao longo desse circuito deixa de ser nula, pela [[Lei de Faraday]], temos:
 
 $$
@@ -30,7 +34,7 @@ $$
 \varepsilon - RI - L\dfrac{dI}{dt} = 0
 $$
 
-Por mais que muitos livros didáticos ensinem que a obtenção desse resultado advém das [[Leis de Kirchhoff]], mais especificamente da Lei de Kirchhoff das tensões e que a queda de tensão ao longo do [[Indutores|indutor]] é $- L\dfrac{dI}{dt}$, e aliás, pensar dessa maneira até leve a um resultado correto, isso é fisicamente confuso já que num circuito sem indutância essa lei é apenas uma declaração de que o [[Potencial elétrico]] ao longo de uma malha é $0$, o que em geral não é verdade quando temos correntes que variam no tempo. 
+Por mais que muitos livros didáticos ensinem que a obtenção desse resultado advém das [[Leis de Kirchhoff]], mais especificamente da Lei de Kirchhoff das tensões e que a queda de tensão ao longo do [[Indutores|indutor]] é $- L\dfrac{dI}{dt}$, e aliás, pensar dessa maneira até leve a um resultado correto, isso é fisicamente confuso já que num circuito sem indutância essa lei é apenas uma declaração de que o [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico]] ao longo de uma malha é $0$, o que em geral não é verdade quando temos correntes que variam no tempo. 
 
 Apesar disso, pela questão mnemônica continuamos a chamar isso de Lei de Kirchhoff das Tensões, agora numa versão expandida, e enunciamos:
 
@@ -122,7 +126,7 @@ $$
 E portanto:
 
 $$
--\dfrac{dt}{L/R} = dfrac{dI}{dt}
+-\dfrac{dt}{L/R} = \dfrac{dI}{dt}
 $$
 
 Cuja solução é:
