@@ -3,38 +3,6 @@ tags:
   - anky
 index: 6
 ---
-
-```dataviewjs
-// nome da pasta onde estão suas notas “ordenadas por index”
-const folderName = "UFPE/2025.2/Física 3";  // exemplo: "Wiki/Artigos"
-
-// obtém índice da nota atual
-const current = dv.current();
-const currentIndex = current.index;
-
-if (!currentIndex) {
-  dv.paragraph("⚠️ Esta nota não tem propriedade `index` definida.");
-} else {
-  // busca nas páginas da pasta específica
-  let next_page = dv.pages(`"${folderName}"`)
-                .where(p => p.index == currentIndex + 1);
-                
-  let prev_page = dv.pages(`"${folderName}"`)
-                .where(p => p.index == currentIndex - 1);
-
-
-  if (next_page.length > 0 || prev_page.length > 0) {
-    let prev_text = (prev_page.length > 0 && `[[${prev_page[0].file.name}]]`) || "..."
-    let next_text = (next_page.length > 0 && `[[${next_page[0].file.name}]]`) || "..."
-    
-    let text = `${prev_text} | ${current.file.name} | ${next_text}`
-    dv.paragraph(text);
-  } else {
-    dv.paragraph("Error")
-  }
-}
-\```
-
 A lei de Gauss é uma poderosa ferramenta matemática que podemos utilizar para calcular o [[Campo Elétrico]] de alguns tipos de corpos que possuem certos tipos de simetria e que seriam difíceis de calcular utilizando apenas a [[Lei de Coulomb]]. Para definir a lei de Gauss, que é uma espécie de relação de grandezas, precisamos entender um novo conceito: O **fluxo elétrico** ($\Phi_E$).
 
 ![[fg3_007.png]]
@@ -52,7 +20,7 @@ $$
 $$
 Sabendo disso, a Lei de Gauss, define então:
 
-> O Fluxo elétrico sobre um superfície fechada é proporcional à carga interna da superfície.
+> O Fluxo elétrico sobre um superfície fechada é proporcional à carga envolvida pela superfície.
 
 Ou seja:
 

@@ -52,7 +52,7 @@ No caso do nosso circuito, para calcular $i_a$ consideramos o seguinte sub circu
 \end{document}
 ```
 
-Usando o [[Teorema da superposição]], obtemos então 
+Usando o [[UFPE/2026.1/Circuitos 1/Teoremas de Rede/Teorema da superposição]], obtemos então 
 
 $$
 i_a = -i_{sc}= \dfrac{V + I(R_2 + R_3)}{R_1 + R_2 + R_3}

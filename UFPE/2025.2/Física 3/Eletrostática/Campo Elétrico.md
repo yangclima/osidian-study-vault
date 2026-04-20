@@ -16,7 +16,7 @@ Note que magnitude do campo elétrico diminui com a distância da partícula e a
 $$
 |\vec{E}| = k_e\dfrac{|q_s|}{r^2_{S,P}}
 $$
-E ainda tomando um ponto qualquer $P$, a direção do campo elétrico nesse ponto é:
+E ainda, tomando um ponto qualquer $P$, a direção do campo elétrico nesse ponto é dada pelo vetor unitário:
 $$
  \hat{r} = \dfrac{\vec{r}_{S,P}}{r_{S,P}}
 $$
@@ -24,12 +24,12 @@ Por fim, dada um partícula carregada que cria um campo elétrico $\vec{E}$, a f
 $$
 \vec{F}_e = q\vec{E}
 $$
-Um a representação muito utilizada para exibir visualmente o campo elétrico, são as chamadas Linhas de campo elétrico, para duas partículas teríamos algo como:
+Um a representação muito utilizada para exibir visualmente o campo elétrico, são as chamadas Linhas de campo elétrico. Para duas partículas teríamos algo como:
 
 ![[fg3_002.jpg|center]]
 
 Para esse tipo de representação valem as propriedades:
-1. A direção do campo elétrico num dado ponto é tangente a linha que passa naquele ponto.
-2. As linhas devem começar numa carga positiva ou no infinito e terminar numa carga negativa ou no infinito.
+1. A direção do campo elétrico num dado ponto é tangente a linha de campo que passa naquele ponto.
+2. As linhas de campo devem começar numa carga positiva ou no infinito e terminar numa carga negativa ou no infinito.
 3. O número de linhas que entram ou saem de uma partícula deve ser proporcional a magnitude de sua carga.
 4. Linhas de campo nunca devem se cruzar, isso implicaria duas direções diferentes para o campo no mesmo ponto.

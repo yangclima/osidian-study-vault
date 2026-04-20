@@ -38,8 +38,8 @@ npm install -D prettier
 ```
 O próximo é configurar os scripts que utilizaremos para executar os comandos para checar e para formatar os arquivos, fazemos isso adicionando as seguintes linhas nos scripts do `package.json`:
 ```json
-"lint:check": "prettier --check .",
-"lint:fix": "prettier --write .",
+"lint:prettier:check": "prettier --check .",
+"lint:prettier:fix": "prettier --write .",
 ```
 Assim, para checar a formatação executamos: 
 ```bash

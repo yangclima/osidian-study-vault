@@ -19,9 +19,12 @@ nvm install <version>
 ```
 ## Escolhendo a versão padrão
 Muitas versões diferentes do node podem ser instaladas através do nvm e existir no seu computador simultaneamente, por isso precisamos definir uma versão padrão, dessa forma não precisaremos definir a versão do node sempre que abrirmos um novo terminal:
+
 ```bash
 nvm alias default <version>
 ```
+
+OBS: Não funciona no Windows
 ## Arquivo `.nvmrc`
 É comum utilizar na raiz de um projeto diversos arquivos de configuração que nos indicarão características importantes sobre o desenvolvimento e execução desse projeto, é muito comum que o nome desses arquivos sejam iniciados em `.`, por serem arquios "ocultos" e terminarem em `rc`, que significa "*run control*" ou controle de execução, para o nvm, seu arquivo é o `.nvmrc` que indica a versão correta do node para o projeto:
 ```plaintext
@@ -71,6 +74,7 @@ npm install react
 > A versão utilizada no projeto do clone do tab-news é a `18.2.0`.
 
 >O link para a documentação do next é https://react.dev/learn.
+
 # React-dom
 Como o react é capaz de renderizar diversos tipos de conteúdos em diferentes plataformas diferentes, essa renderização foi sabiamente dividida em módulos, o módulo do react que trabalha com a renderização no navegador é o `react-dom`.
 ```bash

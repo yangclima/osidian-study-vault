@@ -41,4 +41,4 @@ Uma conclusão importante da LKT é que em circuitos formados por componentes em
 
 Podemos obter através dessa lei que a tensão entre múltiplos elementos conectados em paralelo deve ser sempre a mesma.
 
-Em geral, se um circuito possui $N$ nós e $R$ ramos, então há $B - N + 1$ laços através dos quais podemos obter equações independentes, o que equivale a $L$ laços que resultarão em $L$ equações LKC, onde, notoriamente cada tensão deve aparecer uma vez positiva e outra negativa (Isso permite identificar erros na construção das equações facilmente), das quais, $L-1$ das equações serão independentes.
+Em geral, se um circuito possui $N$ nós e $R$ ramos, então há $R - N + 1$ laços através dos quais podemos obter equações independentes, o que equivale a $L$ laços que resultarão em $L$ equações LKC, onde, notoriamente cada tensão deve aparecer uma vez positiva e outra negativa (Isso permite identificar erros na construção das equações facilmente), das quais, $L-1$ das equações serão independentes.

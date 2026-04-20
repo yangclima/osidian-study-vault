@@ -15,6 +15,20 @@
       }
     },
     {
+      "query": "path:Leituras  ",
+      "color": {
+        "a": 1,
+        "rgb": 580612
+      }
+    },
+    {
+      "query": "tag:#HUB",
+      "color": {
+        "a": 1,
+        "rgb": 10027008
+      }
+    },
+    {
       "query": "path:\"Matemática básica\"  ",
       "color": {
         "a": 1,
@@ -41,13 +55,6 @@
         "a": 1,
         "rgb": 16711680
       }
-    },
-    {
-      "query": "path:Leituras  ",
-      "color": {
-        "a": 1,
-        "rgb": 580612
-      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.3164287115048879,
-  "close": false
+  "scale": 0.014477858879253938,
+  "close": true
 }

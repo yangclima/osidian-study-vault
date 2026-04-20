@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d775198d1cbcc53",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "5a8a05c1a3527eb3",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFPE/2026.1/Eletromagnetismo/Introdução a eletrodinâmica/Conservação de Carga.md",
+                "file": "UFPE/2026.1/Engenharia Econômica/Unidade 2/A oferta da empresa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conservação de Carga"
+              "title": "A oferta da empresa"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regra da cade",
+                "query": "completar quadra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -161,68 +161,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota aleatória": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "bases:Criar nova base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5a8a05c1a3527eb3",
+  "active": "faec19ab6ecff774",
   "lastOpenFiles": [
-    "UFPE/2026.1/Eletromagnetismo/Introdução a eletrodinâmica/Equações de Maxwell no domínio do tempo.md",
-    "UFPE/2026.1/Eletromagnetismo/Introdução a eletrodinâmica/Ondas eletromagnéticas no domínio do tempo.md",
+    "UFPE/2026.1/Engenharia Econômica/imagens/engec_025.png",
+    "UFPE/2026.1/Engenharia Econômica/Engenharia Econômica.md",
+    "UFPE/2026.1/Engenharia Econômica/Unidade 2/A oferta da empresa.md",
+    "Tasks.md",
+    "UFPE/2026.1/Engenharia Econômica/Unidade 2",
+    "UFPE/2026.1/Variáveis Complexas/Variáveis Complexas.md",
+    "UFPE/2026.1/Variáveis Complexas/Integração no Plano Complexo/Teorema de Cauchy-Goursat.md",
+    "UFPE/2026.1/Cálculo 4/Equações Diferenciais de Segunda Ordem/Método dos Coeficientes Indeterminados.md",
+    "UFPE/2026.1/Cálculo 4/Cálculo 4.md",
+    "UFPE/2026.1/Variáveis Complexas/Integração no Plano Complexo/Fórmulas Integrais de Cauchy.md",
+    "UFPE/2026.1/Cálculo 4/Guia do Mochileiro.md",
+    "UFPE/2026.1/Variáveis Complexas/Integração no Plano Complexo/Independência do percurso.md",
+    "MIT - Courses/Single Variable Calculus/Integrais/Primeiro teorema fundamental do cálculo.md",
+    "UFPE/2026.1/Variáveis Complexas/Integração no Plano Complexo/Integrais Complexas.md",
+    "index.md",
+    "UFPE/2026.1/Variáveis Complexas/Funções Analíticas/Diferenciabilidade e Analiticidade.md",
+    "UFPE/2026.1/Variáveis Complexas/Números complexos e o Plano Complexo/Conjuntos de pontos no plano complexo.md",
+    "UFPE/2025.2/Cálculo 3/Cálculo Vetorial - Curvas/Integrais de linha.md",
+    "UFPE/2026.1/Variáveis Complexas/CMP - varcomp.md",
+    "UFPE/2026.1/Variáveis Complexas/FORM - varcomp.md",
+    "UFPE/2026.1/Variáveis Complexas/Integração no Plano Complexo",
+    "prompts.md",
+    "UFPE/2026.1/Circuitos 1/Teoremas de Rede/Análise de malha.md",
+    "UFPE/2026.1/Circuitos 1/Circuitos 1.md",
+    "Leituras/Data Science do 0/Data Science do 0.md",
+    "UFPE/2026.1/Administração/Introdução a Administração.md",
     "UFPE/2026.1/Eletromagnetismo/Eletromagnetismo.md",
-    "UFPE/2025.1/Cálculo 2/Cálculo 2.md",
-    "UFPE/2025.1/Cálculo 2/Unidade 1/Regra da cadeia para funções de mais de uma variável.md",
-    "MIT - Courses/Single Variable Calculus/Derivadas/Métodos de resolução de derivadas.md",
-    "UFPE/2025.2/Física 3/Ondas Eletromagnéticas/Equações de Maxwell.md",
-    "UFPE/2026.1/Eletromagnetismo/Introdução a eletrodinâmica/Conservação de Carga.md",
-    "UFPE/2025.2/Física 3/Ondas Eletromagnéticas/Ondas Eletromagnéticas Planas.md",
-    "UFPE/2025.2/Física 3/Ondas Eletromagnéticas/Vetor de Poynting.md",
-    "UFPE/2026.1/Eletromagnetismo/Introdução/Lei de Gauss para Cargas.md",
-    "UFPE/2025.2/Física 3/Ondas Eletromagnéticas/Corrente de deslocamento.md",
-    "UFPE/2025.2/Física 3/Magnetostática/Lei de Ampére.md",
-    "UFPE/2026.1/Eletromagnetismo/Introdução/Lei de Ampére no regime magnetostático.md",
-    "UFPE/2025.2/Física 3/Corrente elétrica/Corrente.md",
-    "UFPE/2025.2/Materiais Elétricos/Propriedades Elétricas/Condutividade e resistividade.md",
-    "UFPE/2025.2/Física 3/Corrente elétrica/Modelo de Drude.md",
-    "UFPE/2026.1/Eletromagnetismo/Introdução/Lei da força de Lorentz.md",
-    "UFPE/2026.1/Eletromagnetismo/Introdução/Diferença de Potencial.md",
-    "UFPE/2026.1/Eletromagnetismo/Introdução/Linhas de Campo.md",
-    "UFPE/2026.1/Eletromagnetismo/Introdução a eletrodinâmica",
-    "UFPE/2025.2/Cálculo 3/Cálculo Vetorial - Superfícies/Teorema do Divergente.md",
-    "UFPE/2026.1/Eletromagnetismo/Introdução",
-    "UFPE/2025.2/Cálculo 3/Cálculo Vetorial - Superfícies/Teorema de Stokes.md",
-    "UFPE/2025.2/Cálculo 3/Cálculo Vetorial - Curvas/Parametrização de curvas.md",
-    "UFPE/2026.1/Eletromagnetismo/Tensão.md",
-    "UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico.md",
-    "UFPE/2025.2/Física 3/Eletrostática/Capacitores.md",
-    "MIT - Courses/Introduction to Electrical Engineering and Computer Science/Módulo 1",
-    "Leituras/Feynman Lectures I/A teoria da Gravitação",
-    "Leituras/Feynman Lectures I/Probabilidade",
-    "Leituras/Feynman Lectures I/imagens/fey_003.png",
-    "Leituras/Feynman Lectures I/imagens/fey_002.png",
-    "Leituras/Feynman Lectures I/Tempo e Distância",
-    "Leituras/Feynman Lectures I/imagens",
-    "Leituras/Feynman Lectures I/imagens/fey_001.png",
-    "Leituras/Feynman Lectures I/Conservação de Energia",
-    "Leituras/Feynman Lectures I/Física Básica",
-    "Leituras/Feynman Lectures I/Átomos em movimento",
-    "UFPE/2026.1/Circuitos 1/imagens/circ1_001.png",
-    "Pasted Image 20260102100912_169.png",
-    "UFPE/2025.2/Física 3/imagens/fg3_024.png",
-    "UFPE/2026.1/Cálculo 4/imagens/c4_001.png",
-    "UFPE/2025.2/Física 3/imagens/fg3_023.png",
-    "UFPE/2025.2/Sistemas Digitais/imagens/sd_040.png",
-    "UFPE/2025.2/Sistemas Digitais/imagens/sd_039.png",
+    "UFPE/2026.1/Circuitos 1/Redes Resistivas/Lei de Kirchhoff das Tensões.md",
+    "UFPE/2026.1/Engenharia Econômica/CMP - engec",
+    "UFPE/2026.1/Variáveis Complexas/Funções Elementares",
+    "UFPE/2026.1/Engenharia Econômica/imagens/engec_024.png",
+    "UFPE/2026.1/Engenharia Econômica/imagens/engec_023.png",
+    "Pasted image 20260404120736.png",
+    "UFPE/2026.1/Engenharia Econômica/imagens/engec_022.png",
+    "UFPE/2026.1/Engenharia Econômica/imagens/engec_021.png",
+    "UFPE/2026.1/Engenharia Econômica/imagens/engec_020.png",
+    "UFPE/2026.1/Engenharia Econômica/imagens/engec_019.png",
+    "UFPE/2026.1/Engenharia Econômica/imagens/engec_018.png",
+    "UFPE/2026.1/Engenharia Econômica/imagens/engec_017.png",
+    "UFPE/2026.1/Engenharia Econômica/imagens/engec_016.png",
+    "UFPE/2026.1/Variáveis Complexas/Funções Analíticas",
+    "UFPE/2026.1/Variáveis Complexas/Funções complexas e transformações",
+    "UFPE/2026.1/Engenharia Econômica/Unidade 1",
+    "UFPE/2026.1/Engenharia Econômica/imagens",
+    "UFPE/2026.1/Administração",
+    "UFPE/2026.1/Engenharia Econômica/Introdução",
     "Untitled.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-Os [[Números Complexos]] são compostos por dois números reais  $x$ e $y$, dessa maneira, podemos, de forma conveniente, representar um número $z = x+yi$ como um vetor num plano onde o eixo horizontal, apelidado então de **eixo** real, representa a parte real de $z$ e o eixo vertical, chamado de **eixo imaginário** representa sua parte imaginária
+Os [[Números Complexos]] são compostos por dois números reais  $x$ e $y$, dessa maneira, podemos, de forma conveniente, representar um número $z = x+yi$ como um vetor num plano onde o eixo horizontal, apelidado então de **eixo real**, representa a parte real de $z$ e o eixo vertical, chamado de **eixo imaginário** representa sua parte imaginária
 
 ```tikz
 \begin{document}
@@ -31,6 +31,14 @@ Além disso, como esses números se somam e se subtraem como vetores podemos apl
 $$
 |z_1| + |z_2| \geq |z_1 + z_2|
 $$
+E essa desigualdade funciona e pode ser aplicada a qualquer soma finita de números complexos:
+
+$$|z_1+z_2+z_3+\cdots+z_n| \leq |z_1| + |z_2|+|z_3| + \cdots + |z_n|$$
+
+Outras desigualdades relevantes são:
+
+$$||z_1| - |z_2|| \leq |z_1 + z_2| \tag 1$$
+$$||z_1| - |z_2|| \leq |z_1 - z_2| \tag 1$$
 
 ---- 
 

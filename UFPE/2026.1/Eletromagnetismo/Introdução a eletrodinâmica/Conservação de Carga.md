@@ -1,4 +1,4 @@
-A consistência interna das **[[Equações de Maxwell no domínio do tempo|Equações de Maxwell]]no domínio do tempo** implica a **conservação local da carga elétrica**. 
+A consistência interna das **[[Equações de Maxwell no domínio do tempo|Equações de Maxwell]] no domínio do tempo** implica a **conservação local da carga elétrica**. 
 
 Essa propriedade é expressa matematicamente pela chamada **equação da continuidade para a carga**, que pode ser deduzida diretamente a partir da **[[Lei de Ampére|lei de Ampére-Maxwell]]**.
 

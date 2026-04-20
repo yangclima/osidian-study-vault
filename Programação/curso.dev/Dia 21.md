@@ -6,7 +6,7 @@ Dito isso, precisamos construir a nossa aplicação evitando ao máximo o *vendo
 
 As duas principais maneiras de gerir e implementar a infraestrutura do seu sistema é utilizando *ClickOps* ou *IaC*.
 # Connection string PostgreSQL
-Para se conectar através de algumas interfaces Postgres, como `psql`, `ǹode-pg-migrate` ou `node-pg` pode ser viável e prático, ao invés de utilizar props (`username`, `pasword`,  `dbName` e etc.) utilizar uma connection string, no seguinte formato:
+Para se conectar através de algumas interfaces Postgres, como `psql`, `node-pg-migrate` ou `node-pg` pode ser viável e prático, ao invés de utilizar props (`username`, `pasword`,  `dbName` e etc.) utilizar uma connection string, no seguinte formato:
 ```
 postgres://<username>:<password>@<database_url>:<port>/<database_name>
 ```

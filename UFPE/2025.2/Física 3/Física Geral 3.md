@@ -11,7 +11,7 @@ PERIODO: 3
 4. [[Campo Elétrico]]
 5. [[Carga e campo de corpos não pontuais]]
 6. [[Lei de Gauss]]
-7. [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico]]
+7. [[UFPE/2025.2/Física 3/Eletrostática/Potencial elétrico|Potencial Elétrico]]
 8. [[Dipolo elétrico]]
 9. [[Condutores]]
 10. [[Capacitores]]

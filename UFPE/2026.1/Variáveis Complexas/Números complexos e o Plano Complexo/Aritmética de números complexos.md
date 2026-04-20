@@ -42,4 +42,12 @@ $$
 |z| = \sqrt {z\cdot\overline z} = \sqrt{x^2 + y^2}
 $$
 
-Perceba que essa raiz não inclui o número $i$ e é portanto sempre positiva.
+Perceba que essa raiz não inclui o número $i$ e é portanto sempre positiva. 
+
+Além disso, sejam $z_1$ e $z_2$ dois números complexos quaisquer, valem as propriedades:
+
+$$|z_1z_2| = |z_1||z_2| \tag 1$$
+
+$$\left|\dfrac {z_1} {z_2}\right| = \dfrac{|z_1|}{|z_2|} \tag 2$$
+
+

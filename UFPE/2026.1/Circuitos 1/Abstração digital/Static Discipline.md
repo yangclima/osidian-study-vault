@@ -1,0 +1,17 @@
+Em sistemas físicos reais, os sinais elétricos (tensões e correntes) assumem, em geral, **valores contínuos no tempo e na amplitude**. Do ponto de vista físico, portanto, esses sinais são **analógicos**. No entanto, em muitas aplicações de engenharia, não é necessário (nem desejável) lidar com toda essa continuidade para descrever o funcionamento do sistema.
+
+Nos **[[Sistemas Digitais]]**, adota-se uma **abstração digital**, na qual sinais analógicos são interpretados como **valores discretos**, tipicamente associados a níveis lógicos, a partir de critérios bem definidos baseados em faixas de [[Potencial elétrico|tensão]] ou [[Corrente|corrente]]. Essa abstração permite ignorar pequenas variações do sinal físico, desde que ele permaneça dentro de limites aceitáveis.
+
+A principal consequência dessa abordagem é o aumento significativo da **confiabilidade**, da **robustez ao ruído** e da **previsibilidade do comportamento** dos circuitos, uma vez que detalhes analógicos de baixa relevância passam a ser abstraídos no modelo digital.
+
+A ampla diversidade de dispositivos digitais que frequentemente são baseados em tecnologias físicas distintas, surge a necessidade de que existam **regras comuns** que garantam sua correta interconexão e interoperabilidade. Para que diferentes circuitos possam operar de forma conjunta e interpretar corretamente os sinais uns dos outros, é necessário estabelecer um conjunto explícito de restrições e parâmetros compartilhados.
+
+Essas regras não descrevem o comportamento temporal do sistema, nem a dinâmica das transições entre estados, mas sim **as condições estruturais e estáticas que os sinais e conexões devem satisfazer** para que a abstração digital seja válida.
+
+Denomina-se **Static Discipline** o **conjunto de regras estáticas** que define como sinais analógicos devem ser interpretados dentro da abstração digital e quais configurações do sistema são consideradas válidas **independentemente do tempo de operação**.
+
+A ideia mais simples que podemos ter sobre a discretização dos sinais é escolher um limiar como $2.5 \ V$ e interpretar qualquer tensão acima disso como $1$ e qualquer tensão abaixo disso como $0$.
+
+O primeiro problema que surge é: E se recebermos um sinal de exatamente $2.5 \ V$? Para resolver esse problema, introduzimos uma **região proibida de sinal** que não será interpretada como $0$ ou $1$ mas como um ruído, uma falha de comunicação, definimos então $V_L$ como o **limite de baixa tensão**, o valor máximo de tensão que será interpretado com $0$ e $V_H$ como **limite de alta tensão** o valor mínimo de tensão que será interpretado com $1$, qualquer valor entre $V_L$ e $V_H$ é considerado um erro de comunicação e não será interpretado nem como $0$ nem como $1$.
+
+O próximo problema é que se o sistema que estiver enviando o sinal enviar, por exemplo, exatamente $V_L$, qualquer mínimo ruído positivo poderá gerar problemas na comunicação sendo que um dos principais objetivos da abstração digital é criar sistemas robustos contra o ruído, então como uma segunda diretriz definimos uma **tensão de saída baixa máxima** $V_{OL}$ que é o valor máximo de tensão que o sistema que está enviando o sinal deve utilizar quando enviando o valor $0$ e uma **tensão de saída alta mínima** $V_{OH}$ que deve ser o valor mínimo que o *remetente* deve utilizar quando quiser enviar um sinal $1$, assim os intervalos entre $V_{OL}$ e $V_{L}$ e entre $V_{H}$ e $V_{OH}$ tornam-se margens para o ruído garantindo ao sistema uma maior resistência à interferência.

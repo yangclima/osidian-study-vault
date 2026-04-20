@@ -27,8 +27,12 @@ Perceba que as componentes das forças eletrostáticas que atuam na direção do
 
 O vetor $\vec{\tau}$ pode ser obtido pela seguinte relação:
 $$
-\vec{\tau} = \vec{p} \times \vec{E} \implies |\vec{\tau}| = |\vec{p}|\cdot|\vec{E}| \cdot \sin{(\theta)} = dqE \sin{\theta}
+\vec{\tau} = \vec{p} \times \vec{E} \implies |\vec{\tau}| = |\vec{p}|\cdot|\vec{E}| \cdot \sin{(\theta)} = d\cdot q \cdot E \sin{\theta}
 $$
 Onde $\theta$ é o ângulo que o vetor $\vec{p}$ faz com o vetor $\vec{E}$.
 
 Inferimos dessa forma, que para um dipolo simples sob efeito de um campo elétrico uniforme, não haverá força resultante, mas pode haver um torque resultante. Para campos elétricos não uniformes, pode haver também força resultante, ocasionando um movimento do dipolo que pode misturar rotação e translação.
+
+De maneira semelhante, a energia potencial elétrica associada ao dipolo é dada por:
+
+$$-\vec p\cdot\vec E = -|p||E|\cos(\theta) = d\cdot q\cdot E\cos{(\theta)}$$

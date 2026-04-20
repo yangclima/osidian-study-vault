@@ -20,10 +20,16 @@ PERIODO: 4
 5. [[Divisores de Tensão e Corrente]]
 6. [[Método Intuitivo de Análise de Circuitos]]
 7. [[Fontes dependentes]]
+8. [[Transformação Delta-Estrela]]
 # 3 - Teoremas de Rede
 1. [[Análise Nodal]]
-2. [[Fontes de tensão flutuantes]]
-3. [[Teorema da superposição]]
-4. [[Teorema de Thévenin]]
-5. [[Teorema de Norton]]
-6. 
+2. [[Análise de malha]]
+3. [[Fontes de tensão flutuantes]]
+4. [[UFPE/2026.1/Circuitos 1/Teoremas de Rede/Teorema da superposição|Teorema da superposição]]
+5. [[Teorema de Thévenin]]
+6. [[Teorema de Norton]]
+# 4 - Abstração digital
+1. [[Static Discipline]]
+2. [[Lógica Booleana]]
+3. [[Portas combinacionais]]
+4. [[Sistemas de numeração digital]]
