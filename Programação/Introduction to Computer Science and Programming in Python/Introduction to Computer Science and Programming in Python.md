@@ -15,7 +15,7 @@
 15. [[Listas]]
 16. [[Mutabilidade e Imutabilidade]]
 17. [[Módulos Python]]
-18. [[Números de Ponto Flutuante]]
+18. [[Números float]]
 19. [[Operações com Arquivos]]
 20. [[POO e Classes]]
 21. [[Princípio da Substituição de Liskov]]

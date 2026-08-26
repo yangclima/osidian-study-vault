@@ -126,4 +126,7 @@ O teorema da superposição pode ser então enunciado como:
 
 > Numa rede linear como um número de fontes independentes, uma tensão entre nós pode ser obtida somando as tensões dos sub circuitos onde cada fonte está agindo sozinha com todas as outras definidas como $0$.
 
-Esse teorema é então uma ferramenta poderosa na análise de circuito com múltiplas fontes.
+Esse teorema é então uma ferramenta poderosa na análise de circuito com múltiplas fontes, por que analisando o circuito com uma única fonte podemos usar com facilidade de artefatos como o [[Método Intuitivo de Análise de Circuitos]] ou os [[Divisores de Tensão e Corrente]].
+
+Por outro lado, para analisar circuitos com [[Fontes dependentes]] não podemos substituir essas fontes por curto circuitos ou por circuitos abertos, nesse caso, deveremos analisar o sub circuito de cada fonte independente mantendo as fontes dependentes no circuito, o que, em geral, é mais complicado que aplicar outros métodos como [[Análise Nodal]] ou [[Análise de malha]]. 
+

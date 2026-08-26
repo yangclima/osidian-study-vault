@@ -1,4 +1,4 @@
-Agora, munidos do [[UFPE/2026.1/Circuitos 1/Teoremas de Rede/Teorema da superposição]] podemos criar uma espécie de evolução do nosso [[Método Intuitivo de Análise de Circuitos]], isto é, um método de simplificação de circuitos que nos permitirá suprimir uma série de detalhes e focar apenas na parte do circuito que nos interessa.
+Agora, munidos do [[UFPE/2026.1/Circuitos 1/Teoremas de Rede/Teorema da superposição|Teorema da superposição]] podemos criar uma espécie de evolução do nosso [[Método Intuitivo de Análise de Circuitos]], isto é, um método de simplificação de circuitos que nos permitirá suprimir uma série de detalhes e focar apenas na parte do circuito que nos interessa.
 
 A ideia aqui é olhar o circuito a partir de um par de terminais, o que é ideal até mesmo para as nossas ideias de [[Abstração e Modularidade]] como a [[Abstração de Circuitos]], e mostraremos que devido a linearidade dos sistemas podemos representar qualquer conjunto complexo de [[Componentes Ideais#Fontes Ideais de Tensão e Corrente|fontes de tensão, fontes de corrente]] e [[Resistores Lineares]] por uma fonte de tensão em série com um resistor.
 

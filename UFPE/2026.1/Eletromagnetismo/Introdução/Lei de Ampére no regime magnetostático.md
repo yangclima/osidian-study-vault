@@ -14,7 +14,7 @@ $$
 \vec B = \mu_0 \vec H \implies \oint_C \vec B \cdot d\vec r = \mu_0\iint_S \vec J \cdot d\vec A
 $$
 
-Vale ressaltar, mais uma vez, que as equações de Maxwell são lineares o que abre espaço para a aplicação do princípio da superposição que para o caso das correntes se manifesta através da [[Lei de Biot-Savart]] que para $\vec H$ se escreve da seguinte forma:
+Vale ressaltar, mais uma vez, que as equações de Maxwell são lineares o que abre espaço para a aplicação do princípio da superposição que para o caso das correntes se manifesta através da [[UFPE/2025.2/Física 3/Magnetostática/Lei de Biot-Savart]] que para $\vec H$ se escreve da seguinte forma:
 
 $$
 \vec H = \iiint_{V^\prime} \frac{\vec J^\prime \times (\vec r- \vec r^\prime)}{4\pi |\vec r- \vec r^\prime|^3}

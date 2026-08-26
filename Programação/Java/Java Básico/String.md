@@ -5,6 +5,7 @@ tags:
 Uma String é um tipo não primitivo de dados que armazena uma sequência de caracteres e possui diversos métodos que podemos utilizar para trabalhar com essa sequência, é importante mensurar que a String é um [[Mutabilidade e Imutabilidade|tipo mutável]] e consequentemente não podemos alterar dinamicamente os valores armazenados em seus índices.
 # Métodos
 ## `charAt`
+
 ```java
 String test = "Hello world!";
 
@@ -14,6 +15,7 @@ System.out.println(test.charAt(1));
 // Out: 'e'
 ```
 ## `codePointAt`
+
 ```java
 String test = "Hello world!";
 
@@ -24,6 +26,7 @@ System.out.println(test.codePointAt(1));
 // Out: 101 (i.e. O código unicode referente ao char 'e')
 ```
 ## `compareTo`
+
 ```java
 String test = "a";
 String test1 = "c";
@@ -35,6 +38,7 @@ System.out.println(test.compareTo(test1));
 // Out: -2
 ```
 ## `compareToIgnoreCase`
+
 ```java
 String test = "a";
 String test1 = "C";
@@ -47,6 +51,7 @@ System.out.println(test.compareTo(test1));
 // Out: -2
 ```
 ## `concat`
+
 ```java
 String test = "abc";  
 String test1 = "cb";  
@@ -58,6 +63,7 @@ System.out.println(test.contains(test1));
 // Out: false
 ```
 ## `contains`
+
 ```java
 String test = "a";
 String test1 = "C";
@@ -70,6 +76,7 @@ System.out.println(test.compareTo(test1));
 // Out: -2
 ```
 ## `contentEquals`
+
 ```java
 String test = "abc";  
 String test1 = "cba";  
@@ -82,6 +89,7 @@ System.out.println(test.contentEquals(test1));
 // Out: false
 ```
 ## `split`
+
 ```java
 String test = "a b c";  
   
@@ -94,6 +102,7 @@ System.out.println(Arrays.toString(test.split(" ")));
 // Out: [a, b, c]
 ```
 ## `indexOf`
+
 ```java
 String test = "a b c";  
   
@@ -105,6 +114,7 @@ System.out.println(test.indexOf("b"));
 // Out: 2
 ```
 ## `isEmpty`
+
 ```java
 String test = "";
 
@@ -115,6 +125,7 @@ System.out.println(test.compareTo(test1));
 // Out: true
 ```
 ## `static join`
+
 ```java
 String test = "a b c";  
   
@@ -128,6 +139,7 @@ System.out.println(String.join("-", test.split(" ")));
 // Out: a-b-c
 ```
 ## `lastIndexOf`
+
 ```java
 String test = "a b c b";  
   
@@ -139,6 +151,7 @@ System.out.println(test.lastIndexOf("b"));
 // Out: 6
 ```
 ## `length`
+
 ```java
 String test = "abc";
 

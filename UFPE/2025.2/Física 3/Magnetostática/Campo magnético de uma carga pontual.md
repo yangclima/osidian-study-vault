@@ -10,7 +10,7 @@ $$
 dN = nAds
 $$
 
-E usando a [[Lei de Biot-Savart]], temos então:
+E usando a [[UFPE/2025.2/Física 3/Magnetostática/Lei de Biot-Savart]], temos então:
 
 $$
 d\vec B = \dfrac{\mu_0}{4\pi}\cdot\dfrac{(nAq|\vec v|)d\vec s \times \hat r}{r^2} = \dfrac{\mu_0}{4\pi}\cdot\dfrac{dNq\vec v \times \hat r}{r^2}

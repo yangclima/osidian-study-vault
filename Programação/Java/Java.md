@@ -1,8 +1,9 @@
 # Java Básico
-1. [[Array]]
-2. [[Atalhos IntelliJ]]
-3. [[Estruturas condicionais]]
-4. [[Estruturas de repetição]]
-5. [[Scanner]]
-6. [[String]]
-7. [[Variáveis e Tipos de dados]]
+1. [[Variáveis e Tipos de dados]]
+2. [[Array]]
+3. [[Atalhos IntelliJ]]
+4. [[Estruturas condicionais]]
+5. [[Estruturas de repetição]]
+6. [[Scanner]]
+7. [[String]]
+8. 

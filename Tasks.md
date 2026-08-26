@@ -1,18 +1,2 @@
-- [x] 🔼 Equações não homogêneas: Coeficientes a determinar ✅ 2026-04-20
-- [x] 🔼 Integração complexa. Teorema de Cauchy-Goursart ✅ 2026-04-18
-- [x] 🔼 A fórmula de Cauchy e as formulas de Cauchy. Teorema de Liouville. Teorema fundamental da algebra ✅ 2026-04-18
-- [ ] 🔼 Competição perfeita, monopólio e cartel
-- [ ] 🔼 Dar início ao relatório do capítulo 2 de Laboratório de Circuitos
-- [ ] 🔼 Campos Magnetostáticos: Lei de Biot-Savart
-- [ ] 🔼 Lei de Ampère e aplicações. Fluxo magnético. Equação de Maxwell para campos magnéticos estáticos
-- [ ] 🔼 Potencial escalar e vetor. Condições de contorno
-- [ ] 🔼 Magnetização em materiais. Materiais magnéticos. Circuitos magnéticos
-- [ ] 🔼 Fachadas lateral e frontal da planta arquitetônica
-- [ ] 🔼 Elementos Armazenadores de Energia (Capacitores e Indutores): capacidade de armazenamento de energia; energia armazenada; associação dos elementos.
-- [ ] 🔼 Circuitos de 1ª ordem no domínio do tempo: resposta natural e forçada.
-- [ ] 🔼 Circuitos de 1ª ordem no domínio do tempo: solução por inspeção para entrada contínua; resposta natural e forçada para uma entrada qualquer.
-- [ ] ⏫ Análise de Malha
-- [ ] ⏫ Teoremas de Thévenin e Norton
-- [ ] ⏫ Teorema da Superposição
-- [ ] ⏫ Deslocamento de Fontes
-- [ ] ⏫ Teorema da Máxima Transferência de Energia
+
+

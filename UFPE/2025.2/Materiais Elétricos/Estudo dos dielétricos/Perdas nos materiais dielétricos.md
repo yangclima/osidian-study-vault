@@ -18,7 +18,7 @@ Sendo portanto proporcional a frequência, ao quadrado da tensão, à capacitân
 
 Em detrimento disso, para aplicações de isolamento preferimos materiais com menor permissividade dielétricas e maior rigidez dielétrica.
 
-![[me_004.png|center]]
+![[UFPE/2025.2/Materiais Elétricos/imagens/me_004.png|center]]
 
 Sendo assim, a condutividade $\sigma$, a permissividade $\varepsilon$,  a tangente do ângulo de perdas do dielétrico $\tan{\delta}$ e a rigidez dielétrica são as quatro grandezas que os engenheiros elétricos utilizam para caracterizar um dielétrico.
 

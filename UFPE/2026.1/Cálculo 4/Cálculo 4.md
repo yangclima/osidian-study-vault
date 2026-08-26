@@ -23,4 +23,15 @@ PERIODO: 4
 2.  [[Soluções de Equações Lineares Homogêneas]]
 3. [[EDO's Lineares Homogêneas de Segunda Ordem com Coeficientes Constantes]]
 4. [[Método dos Coeficientes Indeterminados]]
+5. [[Método da Variação dos Parâmetros]]
+6. [[Transformada de Laplace]]
+7. [[Solução de EDO's usando Transformada de Laplace]]
+8. [[Funções Degrau]]
+9. [[Funções de Impulso]]
+10. [[Expansão em frações parciais]]
+# Equações diferenciais parciais
+1. [[Séries de Fourier]]
+2. [[Separação de Variáveis e Equação do Calor]]
+3. [[Funções ímpares e pares]]
+4. 
 

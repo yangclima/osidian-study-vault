@@ -1,6 +1,6 @@
 Denominamos **propriedades ópticas** as respostas que os diversos materiais apresentam quando expostos às **radiações eletromagnéticas**. Por sua vez, as radiações eletromagnéticas, no conceito da física clássica, são consideradas ondas que possuem componentes que são [[Campo Elétrico|campos elétricos]] e [[Campos magnéticos e outros parâmetros magnéticos|campos magnéticos]] perpendiculares entre si
 
-![[me_003.png|center]]
+![[UFPE/2025.2/Materiais Elétricos/imagens/me_003.png|center]]
 
 É a esse grupo de radiações que pertencem os raios gama, os raios-X,  a luz ultravioleta, as ondas de rádio e muitas outras, as luz visível, também considerada uma radiação eletromagnética ocupa uma fina faixa do espectro das radiações luminosas com comprimentos de onda da ordem de $0,4$ a $0,7$ $\mu m$. 
 

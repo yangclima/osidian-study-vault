@@ -166,3 +166,15 @@ Algo interessante é que as expressões obtidas para as tensões de nó seguem s
 
 1. Todos os termos do denominador possuem o mesmo sinal o que faz com que o denominador não possa ser zero para valores não nulos das condutância e portanto a tensão de nó não possa ter um valor infinito para valores finitos de tensões nas fontes.
 2. No numerador, cada termo é composto por um produto entre uma tensão de fonte e um fator resistivo (Condutivo), não aparecem produtos de tensões.
+
+Além disso, para circuitos contendo apenas fontes independentes de corrente, podemos escrever o sistema linear diretamente, por inspeção, ou melhor, as  matrizes do [[Sistemas lineares|sistema linear]], obedecendo a relação
+
+$$[G][V] = [I]$$
+
+Sabemos que a matriz $[V]$ é a matriz das incógnitas, isto é, $[V] = [v_1| v_2| \cdots| v_n]$ desse modo, podemos montar a matriz $[G]$, matriz das condutâncias seguindo as seguintes regras:
+
+1. Os elementos $g_{ii}$, da diagonal de $[G]$, terão como valor a condutância conectada ao $i$-ésimo nó, isto é, o nó de tensão $v_i$.
+2. Os demais elementos $g_{ij}$ de $[G]$ terão como valor a condutância dos resistores conectados entre o $i$-ésimo e o $j$-ésimo nó, multiplicada por $-1$, ou seja o negativo da condutância entre os nós.
+3. Os elementos de $[I]$ serão determinados pelas fontes de corrente conectadas a cada nó, sendo o valor $i_i$ a soma das correntes advindas das fontes de corrente conectadas diretamente e entrando no $i$-ésimo nó subtraída da soma das correntes dessas fontes conectadas e saindo desse nó
+
+A partir daí podemos usar, seja a regra Kramer, seja a eliminação gaussiana para resolver esse sistema.

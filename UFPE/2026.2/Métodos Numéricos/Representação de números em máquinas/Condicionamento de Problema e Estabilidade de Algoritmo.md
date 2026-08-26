@@ -1,0 +1,3 @@
+Podemos classificar os problemas matemáticos como **bem condicionados** ou **mal condicionados**, os primeiros são aqueles para os quais existem algoritmos capazes de retornar respostas precisas e satisfatórias, pelo menos hipoteticamente, enquanto os segundos são aqueles para os quais pequenas perturbações na entrada resultam em mudanças relativamente grandes nas saídas calculadas, independentemente do algoritmo utilizado.
+
+Desse modo, um algoritmo é considerado estável se ele não amplifica as variações na saída resultantes do condicionamento do problema, assim,  um algoritmo preciso e estável gerará repostas precisas para problemas bem condicionados.

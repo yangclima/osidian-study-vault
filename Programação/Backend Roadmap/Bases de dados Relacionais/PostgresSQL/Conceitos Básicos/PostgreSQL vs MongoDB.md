@@ -1,0 +1,1 @@
+> https://aws.amazon.com/pt/compare/the-difference-between-mongodb-and-postgresql/

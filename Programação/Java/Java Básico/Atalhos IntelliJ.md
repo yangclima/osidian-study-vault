@@ -6,7 +6,7 @@ tags:
 | **Atalho**           | **Funcionalidade**                                                             |
 | -------------------- | ------------------------------------------------------------------------------ |
 | `psvm`               | Cria a função main na classe atual: `public static void main(String[] args){}` |
-| `sout`               | `System.out,println()`                                                         |
+| `sout`               | `System.out.println()`                                                         |
 | `fori`               | `for(int i = 0; i < ; i++){}`                                                  |
 | `Ctrl + Shift + A`   | Encontrar e executar qualquer ação                                             |
 | `Ctrl + E`           | Visualizar arquivos recentes                                                   |

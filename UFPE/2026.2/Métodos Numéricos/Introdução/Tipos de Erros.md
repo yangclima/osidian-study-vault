@@ -1,0 +1,4 @@
+Os erros são intrínsecos ao cálculo numérico e em geral pode ser divididos em 3:
+- **Erros de entrada:** Erros que estão além do controle do cálculo, como erros na aferição de medidas físicas ou erros no armazenamento dos dados ou erros vindo de cálculos prévios.
+- **Erros de [[Arredondamento de números|arredondamento]]:** Erros que ocorrem quando realizamos operações com números cuja representação é restrita a um número finito de dígitos, [[Aritmética de ponto flutuante|no caso de arredondamento para o mais próximo temos então um erro de]] $\epsilon / 2$ .
+- **Erros de aproximação:** A terceira fonte de erro está relacionada a métodos numéricos que fornecem apenas estimativas ou aproximações do resultado correto, como o [[Teorema de Newton-Raphson]] ou erros metodológicos que podem e devem ser controlados pelo programador.

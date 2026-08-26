@@ -23,4 +23,5 @@ PERIODO: 4
 16. [[Minimização dos Custos]]
 17. [[Curvas de Custo]]
 # Unidade 2
-1. [[A oferta da empresa]]
+1. [[Competição Perfeita]]
+2. [[Monopólio]]

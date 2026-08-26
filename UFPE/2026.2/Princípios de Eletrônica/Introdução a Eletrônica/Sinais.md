@@ -1,0 +1,9 @@
+Sinais contém milhares de informações sobre o mundo físico em que vivemos, informações sobre o tempo, por exemplo, estão codificadas em sinais que representam fatores como a temperatura e umidade do ar, pressão, velocidade do vento e etc. 
+
+O ponto é que para extrair informações de um conjunto de sinais, esses sinais precisam ser **processados** e a forma mais simples e conveniente de fazer isso é através de sistemas eletrônicos. Para que isso seja possível, no entanto, é necessário que o sinal seja primeiro convertido num sinal elétrico, ou seja, uma [[Potencial elétrico|tensão]] ou [[Corrente|corrente]] o que é feito através dos chamados **transdutores**.
+
+Se assumirmos que esses sinais já existem no domínio elétrico, tirando o foco dos transdutores, podemos representá-los de duas formas equivalentes, na primeira, chamada de **forma de [[Teorema de Thévenin|Thévenin]]** (Preferida quando $R_s$ é pequena), usamos para isso uma fonte de tensão em série com uma resistência de fonte $R_s$, por outro lado, na segunda, chamada de **forma de [[Teorema de Norton|Norton]]** (Preferida quando $R_s$ é grande), usamos uma fonte de corrente em paralelo com uma resistência de fonte $R_S$.
+
+A diferença chave entre as duas formas de representação é que  o principal intuito aqui é garantir que o sinal chegue com força máxima na carga $R_L$ conectada, no caso da representação de Norton, para que isso ocorra temos que ter $R_S >> R_L$, por outro lado, na representação de Thévenin, precisamos que $R_L >> R_S$.
+
+Sobre a natureza dos sinais, eles são basicamente quantidades que variam no tempo e que podem, por isso, ser representados em gráfico de tensão por tempo ou de corrente por tempo, a informação está armazenada nas pequenas mudanças desse sinal a medida que o tempo avança o problema é que ondas arbitrárias são difíceis de modelar matematicamente.

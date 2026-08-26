@@ -28,12 +28,12 @@ Long n = 0L;
 ```java
 float n = 0.0f;
 ```
-`float` é um tipo de dado primitivo que armazena um [[Números de Ponto Flutuante|número de ponto flutuante]] de 32 bits conforme o padrão IEEE 754. Por conta da forma na qual sua definição e armazenamento ocorrem, o ponto flutuante suporta valores numéricos muito mais altos, porém, possui uma grande imprecisão em suas operações e representações.
+`float` é um tipo de dado primitivo que armazena um [[Números float|número de ponto flutuante]] de 32 bits conforme o padrão IEEE 754. Por conta da forma na qual sua definição e armazenamento ocorrem, o ponto flutuante suporta valores numéricos muito mais altos, porém, possui uma grande imprecisão em suas operações e representações.
 ## double
 ```java
 double n = 0.0d;
 ```
-`double` segue os padrões da IEEE 754, armazenando um [[Números de Ponto Flutuante|número de ponto flutuante]] de 64 bits e possuindo a mesma vantagem e limitação que o tipo `float`.
+`double` segue os padrões da IEEE 754, armazenando um [[Números float|número de ponto flutuante]] de 64 bits e possuindo a mesma vantagem e limitação que o tipo `float`.
 ## boolean
 ```java
 boolean n = false; 

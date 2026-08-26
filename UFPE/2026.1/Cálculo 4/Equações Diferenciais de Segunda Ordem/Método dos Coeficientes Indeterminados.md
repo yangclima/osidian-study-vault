@@ -38,7 +38,7 @@ Obs: O índice $s$ do termo $x$ é definido como o menor inteiro não negativo (
 Podemos resumir, as diversas sutilezas e "bizus" desse método em alguns passos:
 
 1. Encontre a solução da equação homogênea associada
-2. Verifique se os termo não homogêneo $g(x)$ pertence a uma das seguintes classes de função: Exponenciais, Polinômios, Senos, Cossenos, somas ou produtos dessas funções 
+2. Verifique se os termos não homogêneo $g(x)$ pertence a uma das seguintes classes de função: Exponenciais, Polinômios, Senos, Cossenos, somas ou produtos dessas funções 
 3. Se o temos não homogêneo for uma soma de funções, ou seja $g(x) = q_1(x) + \cdots + g_n(x)$, divida a EDO em $n$ subproblemas com a equação $ay^{\prime\prime} + by^\prime + cy = g_i(x)$
 4. Para o $i$-ésimo subproblema, suponha uma forma para a  solução particular $Y_i(x)$ consistindo na função apropriada, baseado no termo $g_i(x)$, se essa forma for semelhante a solução da homogênea associada, multiplique-a por $x$, se ainda assim houver uma duplicidade entre esta e a solução da homogênea multiplicamos novamente por $t$ 
 5. Encontre a solução parcial para cada um dos subproblemas, a soma de todas essas soluções é uma solução particular da equação não homogênea

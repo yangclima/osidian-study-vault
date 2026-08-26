@@ -33,7 +33,7 @@ $$y^\prime + p(x)y(x) = q(x)$$
 
 A ideia é multiplicar ambos os lados da equação por um **fator integrante** $u(x)$ tal que o lado direito da equação seja $u(x)(y^\prime + p(x)y(x)) = (ux)^\prime$ e o lado esquerda seja então $q(x)u(x)$, ou seja:
 
-$$u(y^\prime + py) = (ux)^\prime  =   qu$$
+$$u(y^\prime + py) = (uy)^\prime  =   qu$$
 
 Já que assim, podemos resolver a equação apenas integrando de ambos os lados:
 

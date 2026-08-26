@@ -33,10 +33,10 @@ PERIODO: 3
 2. [[Força magnética]]
 3. [[Força magnética em um fio]]
 4. [[Torque magnético em uma espira]]
-5. [[Lei de Biot-Savart]]
+5. [[UFPE/2025.2/Física 3/Magnetostática/Lei de Biot-Savart|Lei de Biot-Savart]]
 6. [[Campo magnético de uma carga pontual]]
 7. [[Dipolo Magnético]]
-8. [[UFPE/2025.2/Física 3/Magnetostática/Lei de Ampére]]
+8. [[UFPE/2025.2/Física 3/Magnetostática/Lei de Ampére|Lei de Ampére]]
 9. [[Fluxo magnético]]
 10. [[Lei de Gauss para o campo magnético]]
 # Magnetodinâmica

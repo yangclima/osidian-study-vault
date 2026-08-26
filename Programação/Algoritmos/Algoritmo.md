@@ -8,7 +8,7 @@ Exemplos de algoritmos:
 
 # Ordenação
 1. [[Bubble Sort]]
-2. [[Merge Sort]]
+2. [[Programação/Algoritmos/Merge Sort]]
 3. [[Selection Sort]]
 
 # Pesquisa

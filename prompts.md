@@ -11,4 +11,3 @@ Be brutal. I want to improve, not feel good.
 
 Make your answer in portuguese (Brazil)
 ```
-

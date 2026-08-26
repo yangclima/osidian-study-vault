@@ -1,0 +1,1 @@
+Uma ótima caracterização de um [[Sinais|sinal]] é em termos do seu espectro de frequência, uma descrição obtida através das chamada [[Séries de Fourier]] e Transformadas de Fourier, o ponto é que essas ferramentas fornecem meios de representar um sinal de tensão ou corrente como a soma de ondas senoidais de diferentes frequências e amplitudes

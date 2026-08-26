@@ -1,0 +1,1 @@
+> https://www.integrate.io/blog/postgresql-vs-mysql-which-one-is-better-for-your-use-case/

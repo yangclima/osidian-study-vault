@@ -1,0 +1,13 @@
+# Redis Crash Course
+1. [[Introdução e inicialização]]
+2. [[Strings no Redis]]
+3. [[Listas no Redis]]
+4. [[Conjuntos no Redis]]
+5. [[Conjuntos ordenados no Redis]]
+6. [[HyperLogLog no Redis]]
+7. [[Hashes no Redis]]
+8. [[Transactions no Redis]]
+9. [[Pub Sub no Redis]]
+10. [[Scripts no Redis]]
+11. [[Conexões e Segurança no Redis]]
+12. [[Dados Geoespaciais no Redis]]

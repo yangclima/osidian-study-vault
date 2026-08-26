@@ -3,5 +3,6 @@
     "centralizar_imagem"
   ],
   "theme": "obsidian",
-  "baseFontSize": 20
+  "baseFontSize": 14,
+  "baseFontSizeAction": true
 }
