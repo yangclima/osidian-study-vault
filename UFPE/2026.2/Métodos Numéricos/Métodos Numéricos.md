@@ -21,3 +21,13 @@ PERIODO: 5
 
 # Matrizes e vetores
 1. [[Definições e propriedades de Matrizes]]
+2. [[Complexidade de Algoritmos]]
+3. [[Operações com vetores e matrizes]]
+
+# Normas, Matrizes Elementares e Sistemas Triangulares
+1. [[Normas de Vetores]]
+2. [[Normas de matrizes]]
+3. [[Álgebra de Matrizes Triangulares]]
+4. [[Transformações elementares]]
+5. [[Sistemas Triangulares]]
+6. 

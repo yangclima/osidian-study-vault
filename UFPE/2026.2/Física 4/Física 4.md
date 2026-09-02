@@ -11,4 +11,6 @@ PERIODO: 5
 4. [[Polarização de ondas eletromagnéticas]]
 5. [[Polarizadores]]
 6. [[Reflexão e refração]]
-7. 
+7. [[Imagens em espelhos esféricos]]
+8. [[Imagens em superfícies refratoras esféricas]]
+9. [[Lentes esféricas delgadas]]

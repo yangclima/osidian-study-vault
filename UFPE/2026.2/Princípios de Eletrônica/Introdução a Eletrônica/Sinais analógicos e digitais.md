@@ -1,0 +1,8 @@
+Existe uma classificação muito importante para os [[Sinais]], eles podem ser caracterizados como digitais ou analógicos com base em sua natureza contínua ou discretizada.
+
+**Sinais analógicos** representam com fidelidade os sinais da natureza, sua amplitude pode ocupar qualquer valor numa faixa contínua de valores e os circuitos que processam esses sinais são chamados de **circuitos analógicos**, uma importante distinção é a seguinte: Um sinal é analógico não por que é contínuo no tempo, mas por que pode ser contínuo em amplitude, se pegarmos um sinal da natureza e considerarmos sua amplitude apenas em instantes discretos de tempo (Um processo chamado de amostragem) o sinal discreto no tempo continua sendo analógico.
+
+Os **Sinais digitais** são então representações alternativas dos sinais onde a amplitude do sinal ocupa valores discretos num conjunto limitado de valores, por exemplo, por um número finito de [[Sistemas de numeração digital|bits]], de modo que perdemos alguma informação do sinal natural e dizemos que ele foi digitalizado, discretizado ou mesmo quantizado. No [[Sistemas de Numeração|sistema binário]], por exemplo, a amplitude do sinal será representado como 0 ou 1 a depender da sua amplitude naquele instante do tempo e isso é útil para muitas aplicações. Os circuitos que processam sinais digitais são chamados de **Circuitos Digitais**.
+
+Existem ainda componentes capazes de transformar um sinal em outro e que abre margem para sistemas mistos que aproveitam o melhor dos dois mundos, são os conversores, em especial o conversor analógico-digital e o conversor digital-analógico dando origem aos chamados **sistemas de sinais mistos** ou **sistemas de modo misto**.
+
